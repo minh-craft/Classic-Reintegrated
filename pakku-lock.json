@@ -1,0 +1,10 @@
+{
+    "target": "multiplatform",
+    "mc_versions": [
+        "1.20.1"
+    ],
+    "loaders": {
+        "forge": "47.3.11"
+    },
+    "lockfile_version": 1
+}
