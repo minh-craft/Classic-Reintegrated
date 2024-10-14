@@ -73,6 +73,140 @@
             ]
         },
         {
+            "pakku_id": "juGmRFMRBsLF6jYA",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "balm",
+                "modrinth": "balm"
+            },
+            "name": {
+                "curseforge": "Balm (Forge Edition)",
+                "modrinth": "Balm"
+            },
+            "id": {
+                "curseforge": "531761",
+                "modrinth": "MBAkmtvl"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "balm-forge-1.20.1-7.3.9-all.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5644/976/balm-forge-1.20.1-7.3.9-all.jar",
+                    "id": "5644976",
+                    "parent_id": "531761",
+                    "hashes": {
+                        "sha1": "e041f044d707dd06a6efa2c63b39f26abf60f671",
+                        "md5": "ccb8e1687a39cc613ad910460bd4ac3b"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 373583,
+                    "date_published": "2024-08-19T19:53:51.597Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "balm-forge-1.20.1-7.3.9-all.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/MBAkmtvl/versions/UTwD7ASf/balm-forge-1.20.1-7.3.9-all.jar",
+                    "id": "UTwD7ASf",
+                    "parent_id": "MBAkmtvl",
+                    "hashes": {
+                        "sha512": "62f736031f4485c952eb4b516cd456b75b8f045ba9d9776cc107eceda8e1d1d778949c3218d495a669e4dff4b51ed0395b10defd5c9f49d8c9e979151765b9e3",
+                        "sha1": "fa6c9fd470820d94a77509e5a2c1e363ef81b2ad"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 373583,
+                    "date_published": "2024-08-19T19:51:07.967398Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "SGEfTVsvID9iPwd0",
+            "pakku_links": [
+                "juGmRFMRBsLF6jYA"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "default-options",
+                "modrinth": "default-options"
+            },
+            "name": {
+                "curseforge": "Default Options",
+                "modrinth": "Default Options"
+            },
+            "id": {
+                "curseforge": "232131",
+                "modrinth": "WEg59z5b"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "defaultoptions-forge-1.20-18.0.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4635/878/defaultoptions-forge-1.20-18.0.1.jar",
+                    "id": "4635878",
+                    "parent_id": "232131",
+                    "hashes": {
+                        "sha1": "d19f874852def4ef73b32caf3f218e6423d51677",
+                        "md5": "1784bcb1bd23f47ba2d048fc69ac743c"
+                    },
+                    "required_dependencies": [
+                        "531761"
+                    ],
+                    "size": 87943,
+                    "date_published": "2023-07-10T20:42:52.003Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "defaultoptions-forge-1.20-18.0.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/WEg59z5b/versions/CKNINccT/defaultoptions-forge-1.20-18.0.1.jar",
+                    "id": "CKNINccT",
+                    "parent_id": "WEg59z5b",
+                    "hashes": {
+                        "sha512": "41ab37f580a1cbcb063958b7ec6034c9bea729aecb5452e5982a21d068617a818e78d31f03e76fc4e06dbf73f066f576d9dd6566f70d4912f29b595ba5c54079",
+                        "sha1": "73af2309627a68a7bff3e53e02ea22fb5c4651e5"
+                    },
+                    "required_dependencies": [
+                        "MBAkmtvl"
+                    ],
+                    "size": 87942,
+                    "date_published": "2023-07-10T20:42:17.439457Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "Qap81gW96yAj70TM",
             "type": "MOD",
             "side": "CLIENT",
