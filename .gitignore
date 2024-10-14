@@ -12,7 +12,9 @@ texturepacks/
 /options.txt
 /icon.png
 
-# config section
+## config section #####
+
+config/nostalgic_tweaks/backup/
 
 config/fml.toml
 config/forge-client.toml
