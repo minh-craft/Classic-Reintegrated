@@ -328,6 +328,141 @@
                     "date_published": "2024-08-06T18:44:42.999943Z"
                 }
             ]
+        },
+        {
+            "pakku_id": "Ob8A0aW5pZWhy154",
+            "pakku_links": [
+                "qMidepjrj8SRjMdO"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "paxi",
+                "modrinth": "paxi"
+            },
+            "name": {
+                "curseforge": "Paxi (Forge)",
+                "modrinth": "Paxi"
+            },
+            "id": {
+                "curseforge": "515708",
+                "modrinth": "CU0PAyzb"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Paxi-1.20-Forge-4.0.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4749/994/Paxi-1.20-Forge-4.0.jar",
+                    "id": "4749994",
+                    "parent_id": "515708",
+                    "hashes": {
+                        "sha1": "a3a7008e07a27b3c831af7e4c82fbbc10a4da328",
+                        "md5": "e0dbfe0f77e5a07d6fc8389b2398f266"
+                    },
+                    "required_dependencies": [
+                        "421850"
+                    ],
+                    "size": 96892,
+                    "date_published": "2023-09-12T22:25:59.820Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Paxi-1.20-Forge-4.0.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/CU0PAyzb/versions/C7buFh0l/Paxi-1.20-Forge-4.0.jar",
+                    "id": "C7buFh0l",
+                    "parent_id": "CU0PAyzb",
+                    "hashes": {
+                        "sha512": "50ed8c99981b9860c846a18cda215d388b67019b76a172833fa4e4b52cbd122eb8e49e594e5789790f95af06e0a98dcf2433b001b1f559b3e7071d2e6b7c1dd7",
+                        "sha1": "a3a7008e07a27b3c831af7e4c82fbbc10a4da328"
+                    },
+                    "required_dependencies": [
+                        "Ua7DFN59"
+                    ],
+                    "size": 96892,
+                    "date_published": "2023-09-12T22:26:03.431847Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "qMidepjrj8SRjMdO",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "yungs-api",
+                "modrinth": "yungs-api"
+            },
+            "name": {
+                "curseforge": "YUNG's API (Forge)",
+                "modrinth": "YUNG's API"
+            },
+            "id": {
+                "curseforge": "421850",
+                "modrinth": "Ua7DFN59"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "YungsApi-1.20-Forge-4.0.6.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5769/971/YungsApi-1.20-Forge-4.0.6.jar",
+                    "id": "5769971",
+                    "parent_id": "421850",
+                    "hashes": {
+                        "sha1": "af584b690f5646c6032002b58abc4591beed3833",
+                        "md5": "fe79f43dba8edbb8ede99f4e358e5b0c"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 370524,
+                    "date_published": "2024-09-30T06:13:49.387Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "YungsApi-1.20-Forge-4.0.6.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Ua7DFN59/versions/PJOYAmAs/YungsApi-1.20-Forge-4.0.6.jar",
+                    "id": "PJOYAmAs",
+                    "parent_id": "Ua7DFN59",
+                    "hashes": {
+                        "sha512": "7d83d94a90e55a712f6508485c044ff202916e9b9b9166b75177cb8f2eb919543bbbe1547d11c41cfd4763820f934235f47c0b26dd9e89bc1030954afa9fb889",
+                        "sha1": "af584b690f5646c6032002b58abc4591beed3833"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 370524,
+                    "date_published": "2024-09-30T06:13:58.953111Z"
+                }
+            ]
         }
     ],
     "lockfile_version": 1
