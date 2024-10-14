@@ -1,4 +1,6 @@
+build/
 coremods/
+defaultconfigs/
 logs/
 saves/
 mods/
@@ -8,9 +10,12 @@ server-resource-packs/
 shaderpacks/
 texturepacks/
 /options.txt
+/icon.png
+
+# config section
+
 config/fml.toml
 config/forge-client.toml
 config/embeddium-fingerprint.json
 config/embeddium-mixins.properties
 config/embeddium-options.json
-icon.png
