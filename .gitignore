@@ -1,0 +1,12 @@
+coremods/
+logs/
+saves/
+mods/
+resourcepacks/
+screenshots/
+server-resource-packs/
+shaderpacks/
+texturepacks/
+/options.txt
+config/fml.toml
+config/forge-client.toml
