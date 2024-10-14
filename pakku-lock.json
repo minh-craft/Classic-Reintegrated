@@ -8,6 +8,71 @@
     },
     "projects": [
         {
+            "pakku_id": "gCkiRxbbi6bAW7u1",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "architectury-api",
+                "modrinth": "architectury-api"
+            },
+            "name": {
+                "curseforge": "Architectury API (Fabric/Forge/NeoForge)",
+                "modrinth": "Architectury API"
+            },
+            "id": {
+                "curseforge": "419699",
+                "modrinth": "lhGA9TYQ"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "architectury-9.2.14-forge.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5137/938/architectury-9.2.14-forge.jar",
+                    "id": "5137938",
+                    "parent_id": "419699",
+                    "hashes": {
+                        "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4",
+                        "md5": "76b40d407b6bf0257dd1dab6d3d395d5"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 580602,
+                    "date_published": "2024-02-26T13:18:59.227Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "architectury-9.2.14-forge.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1MKTLiiG/architectury-9.2.14-forge.jar",
+                    "id": "1MKTLiiG",
+                    "parent_id": "lhGA9TYQ",
+                    "hashes": {
+                        "sha512": "cf67f2050cafa00f0bee42e6d7bef77fdb808ac4f71742f7b4d6d5c1e6ffb49561a5a252f332d2b78a9767bdb5faa284611790dba303fbdc736ae36d794f61c7",
+                        "sha1": "a52918a500ff421180a1cbd1a0cabee712134ec4"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 580602,
+                    "date_published": "2024-02-26T13:19:00.816154Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "Qap81gW96yAj70TM",
             "type": "MOD",
             "side": "CLIENT",
@@ -69,6 +134,198 @@
                     ],
                     "size": 1320675,
                     "date_published": "2024-08-31T23:11:49.184634Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "n68sG3RepXZf6K3x",
+            "type": "RESOURCE_PACK",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "golden-days",
+                "modrinth": "golden-days"
+            },
+            "name": {
+                "curseforge": "Golden Days",
+                "modrinth": "Golden Days Base"
+            },
+            "id": {
+                "curseforge": "384081",
+                "modrinth": "BFzJ6aQL"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "golden-days-base-1.21.x-1.11.0.zip",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.5",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.6",
+                        "1.20.4"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5570/230/golden-days-base-1.21.x-1.11.0.zip",
+                    "id": "5570230",
+                    "parent_id": "384081",
+                    "hashes": {
+                        "sha1": "192b098b6c6609b56c801625a1fb9c5ba84d4eba",
+                        "md5": "11b76c36d0eba8c0373367225551b703"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 8516735,
+                    "date_published": "2024-07-27T05:40:04.830Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "golden-days-base-1.21.x-1.11.0.zip",
+                    "mc_versions": [
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2",
+                        "1.19.3",
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21"
+                    ],
+                    "loaders": [
+                        "minecraft"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/BFzJ6aQL/versions/7rqbt5EU/golden-days-base-1.21.x-1.11.0.zip",
+                    "id": "7rqbt5EU",
+                    "parent_id": "BFzJ6aQL",
+                    "hashes": {
+                        "sha512": "d5a73441feab3ff6802b9b31b02ba63f799b85826c1a45c24c1138307eaf3f055e0290707c74b9e203d0fdd550397b1a4c0b64d579cd38ca8e9d0fb4bf645880",
+                        "sha1": "192b098b6c6609b56c801625a1fb9c5ba84d4eba"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 8516735,
+                    "date_published": "2024-07-27T05:34:03.125553Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "4uQKu9mJIHyuqHQB",
+            "type": "RESOURCE_PACK",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "golden-days-music"
+            },
+            "name": {
+                "modrinth": "Golden Days Music"
+            },
+            "id": {
+                "modrinth": "8fTRwbnX"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "golden-days-music-1.20.x.zip",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "minecraft"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/8fTRwbnX/versions/RDfd7Tci/golden-days-music-1.20.x.zip",
+                    "id": "RDfd7Tci",
+                    "parent_id": "8fTRwbnX",
+                    "hashes": {
+                        "sha512": "fa3f8cc2a3c74a4412e19731790bd40ddde6c7bf6a010ea8145c7ec4e308628514a14cc76f2936a27859772c7bb673dd4d36ae53ddf6033a80bf738695a54021",
+                        "sha1": "560ee9861171b0e6642787794db40314fdaa6123"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 31082,
+                    "date_published": "2023-12-27T10:32:58.702161Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "R5NvduYcIqmfZwXk",
+            "pakku_links": [
+                "gCkiRxbbi6bAW7u1"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "nostalgic-tweaks",
+                "modrinth": "nostalgic-tweaks"
+            },
+            "name": {
+                "curseforge": "Nostalgic Tweaks (Fabric/NeoForge)",
+                "modrinth": "Nostalgic Tweaks"
+            },
+            "id": {
+                "curseforge": "592465",
+                "modrinth": "l1rj36Ob"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "NostalgicTweaks-mc1.20.1-Forge-2.0.0-beta.903.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5602/576/NostalgicTweaks-mc1.20.1-Forge-2.0.0-beta.903.jar",
+                    "id": "5602576",
+                    "parent_id": "592465",
+                    "hashes": {
+                        "sha1": "d79300fbbc2bc3f1e775c38539ba70e0b5c88d5c",
+                        "md5": "c64a0014f00d60ed7f7eeb204cfd5860"
+                    },
+                    "required_dependencies": [
+                        "419699"
+                    ],
+                    "size": 11337916,
+                    "date_published": "2024-08-06T18:47:46.307Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "NostalgicTweaks-mc1.20.1-Forge-2.0.0-beta.903.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/l1rj36Ob/versions/nnXJhhJv/NostalgicTweaks-mc1.20.1-Forge-2.0.0-beta.903.jar",
+                    "id": "nnXJhhJv",
+                    "parent_id": "l1rj36Ob",
+                    "hashes": {
+                        "sha512": "06a275b422fa50a0ca9001f91bd4ba740a81ee864d48db92e6189f906d5086773b37580f6ab4676c69d6529e23976d6e38f60abec91d15ca9593c877d8a6ee2b",
+                        "sha1": "d79300fbbc2bc3f1e775c38539ba70e0b5c88d5c"
+                    },
+                    "required_dependencies": [
+                        "lhGA9TYQ"
+                    ],
+                    "size": 11337916,
+                    "date_published": "2024-08-06T18:44:42.999943Z"
                 }
             ]
         }
