@@ -207,7 +207,7 @@
             ]
         },
         {
-            "pakku_id": "Qap81gW96yAj70TM",
+            "pakku_id": "LDD3ocqOhASgryfE",
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -268,6 +268,73 @@
                     ],
                     "size": 1320675,
                     "date_published": "2024-08-31T23:11:49.184634Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "YnZ7UEOm9imYD1YZ",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "ferrite-core",
+                "curseforge": "ferritecore"
+            },
+            "name": {
+                "modrinth": "FerriteCore",
+                "curseforge": "FerriteCore ((Neo)Forge)"
+            },
+            "id": {
+                "modrinth": "uXXizFIs",
+                "curseforge": "429235"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "ferritecore-6.0.1-forge.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar",
+                    "id": "DG5Fn9Sz",
+                    "parent_id": "uXXizFIs",
+                    "hashes": {
+                        "sha512": "a1960a7c03dc32d4ccaccaf28afdd9b078758bbd62d15a91d4039a83fa9397a098e89b69591f6bd5190254d9ee97e502504154b9aec764adb8c65f000b75ba2c",
+                        "sha1": "417fb6ce8f52abf40bd9d0390371790f9576f8ba"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 123034,
+                    "date_published": "2023-10-22T13:40:26.306516Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "ferritecore-6.0.1-forge.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4810/975/ferritecore-6.0.1-forge.jar",
+                    "id": "4810975",
+                    "parent_id": "429235",
+                    "hashes": {
+                        "sha1": "417fb6ce8f52abf40bd9d0390371790f9576f8ba",
+                        "md5": "f52f538207a4829d7060550092ce2383"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 123034,
+                    "date_published": "2023-10-22T13:35:16.597Z"
                 }
             ]
         },
@@ -388,6 +455,140 @@
                     ],
                     "size": 31082,
                     "date_published": "2023-12-27T10:32:58.702161Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "e3BpHnRwkQMXqzBG",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "immediatelyfast",
+                "modrinth": "immediatelyfast"
+            },
+            "name": {
+                "curseforge": "ImmediatelyFast",
+                "modrinth": "ImmediatelyFast"
+            },
+            "id": {
+                "curseforge": "686911",
+                "modrinth": "5ZwdcRci"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ImmediatelyFast-Forge-1.2.21+1.20.4.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5672/335/ImmediatelyFast-Forge-1.2.21+1.20.4.jar",
+                    "id": "5672335",
+                    "parent_id": "686911",
+                    "hashes": {
+                        "sha1": "67d7d1db76aee6e7e850abf1f4c032ec6ec93239",
+                        "md5": "36889096689f9a60549f2da2a2c2327a"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 432352,
+                    "date_published": "2024-08-28T20:26:23.160Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "ImmediatelyFast-Forge-1.2.21+1.20.4.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/5ZwdcRci/versions/t7nOFG1k/ImmediatelyFast-Forge-1.2.21+1.20.4.jar",
+                    "id": "t7nOFG1k",
+                    "parent_id": "5ZwdcRci",
+                    "hashes": {
+                        "sha512": "7492c6c82d5a6ea288547f5533a990d93ed3858054cd03298d184ee294d9e8a2692456ab286394fb5dd49841833bb551552bfbf018e24f8e9d22e034fb128eca",
+                        "sha1": "67d7d1db76aee6e7e850abf1f4c032ec6ec93239"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 432352,
+                    "date_published": "2024-08-28T20:26:22.585777Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "5qmGKxc4PFXzSM6R",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "modernfix",
+                "modrinth": "modernfix"
+            },
+            "name": {
+                "curseforge": "ModernFix",
+                "modrinth": "ModernFix"
+            },
+            "id": {
+                "curseforge": "790626",
+                "modrinth": "nmDcB62a"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "modernfix-forge-5.19.4+mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5676/14/modernfix-forge-5.19.4+mc1.20.1.jar",
+                    "id": "5676014",
+                    "parent_id": "790626",
+                    "hashes": {
+                        "sha1": "3475345dc6b407f72e96825ffc7e8e76864cecc9",
+                        "md5": "359e779ab4f91fa48f1b1aab0dfb0821"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 778504,
+                    "date_published": "2024-08-30T01:03:17.227Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "modernfix-forge-5.19.4+mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/m83ZRQdk/modernfix-forge-5.19.4+mc1.20.1.jar",
+                    "id": "m83ZRQdk",
+                    "parent_id": "nmDcB62a",
+                    "hashes": {
+                        "sha512": "0393f7db1d957a32c5b9030bfb053f98068b0760e6f2a8ba730dc5393d66e98aa9a165b3fc3f5165fa593ee4d94c15035c73d697248bbd53bd215441582aab3a",
+                        "sha1": "3475345dc6b407f72e96825ffc7e8e76864cecc9"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 778504,
+                    "date_published": "2024-08-30T01:03:20.951941Z"
                 }
             ]
         },
@@ -530,6 +731,279 @@
                     ],
                     "size": 96892,
                     "date_published": "2023-09-12T22:26:03.431847Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "7lNLYaLXTp4bzEga",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "radium-reforged",
+                "modrinth": "radium"
+            },
+            "name": {
+                "curseforge": "Radium Reforged",
+                "modrinth": "Radium"
+            },
+            "id": {
+                "curseforge": "570017",
+                "modrinth": "2gvRmQXx"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5706/69/radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
+                    "id": "5706069",
+                    "parent_id": "570017",
+                    "hashes": {
+                        "sha1": "f5f5f792473bb7b85ec221f75c5afb3740afb13a",
+                        "md5": "3a46fb58e8ff12213e4dbc909f47a77d"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 713454,
+                    "date_published": "2024-09-09T08:07:43.540Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/2gvRmQXx/versions/n947JjJH/radium-mc1.20.1-0.12.4+git.26c9d8e.jar",
+                    "id": "n947JjJH",
+                    "parent_id": "2gvRmQXx",
+                    "hashes": {
+                        "sha512": "7b59c491d72801257c740626faab8c14ed580db28493c474147341531bca3de5ea822d4042d3786ae619449b6f6ffc1001a1cdc1b9276ec900e57ab17dd8989a",
+                        "sha1": "f5f5f792473bb7b85ec221f75c5afb3740afb13a"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 713454,
+                    "date_published": "2024-09-09T08:07:45.955294Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "LXWnf9GLgnJrIuxt",
+            "pakku_links": [
+                "3KGzsxOvsSyhJjGG"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "dynamiclights-reforged",
+                "modrinth": "sodium-dynamic-lights"
+            },
+            "name": {
+                "curseforge": "Sodium/Embeddium Dynamic Lights",
+                "modrinth": "Sodium Dynamic Lights"
+            },
+            "id": {
+                "curseforge": "551736",
+                "modrinth": "PxQSWIcD"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "sodiumdynamiclights-forge-1.0.9-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5807/537/sodiumdynamiclights-forge-1.0.9-1.20.1.jar",
+                    "id": "5807537",
+                    "parent_id": "551736",
+                    "hashes": {
+                        "sha1": "b8a1fedc1245e074806769f6fb2b2d8bc1772426",
+                        "md5": "e31d964115407c3524530de37ceba03e"
+                    },
+                    "required_dependencies": [
+                        "1103431"
+                    ],
+                    "size": 301139,
+                    "date_published": "2024-10-13T03:55:50.960Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "sodiumdynamiclights-forge-1.0.9-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/PxQSWIcD/versions/ICS39k7F/sodiumdynamiclights-forge-1.0.9-1.20.1.jar",
+                    "id": "ICS39k7F",
+                    "parent_id": "PxQSWIcD",
+                    "hashes": {
+                        "sha512": "b0048635dd7d3a8c7899a16995a93f0eace695d311005dc5fb076ec41029a14b2359078809ec3998c322c71a0aee8fb7d88ba65ca4af0b254600fca06f552049",
+                        "sha1": "b8a1fedc1245e074806769f6fb2b2d8bc1772426"
+                    },
+                    "required_dependencies": [
+                        "Es5v4eyq"
+                    ],
+                    "size": 301139,
+                    "date_published": "2024-10-13T03:55:51.976768Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "JijXH8wvWsCmYij1",
+            "pakku_links": [
+                "LDD3ocqOhASgryfE",
+                "3KGzsxOvsSyhJjGG"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "magnesium-extras",
+                "modrinth": "sodium-extras"
+            },
+            "name": {
+                "curseforge": "Sodium/Embeddium Extras",
+                "modrinth": "Sodium Extras"
+            },
+            "id": {
+                "curseforge": "558905",
+                "modrinth": "vqqx0QiE"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "sodiumextras-forge-1.0.6-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5807/590/sodiumextras-forge-1.0.6-1.20.1.jar",
+                    "id": "5807590",
+                    "parent_id": "558905",
+                    "hashes": {
+                        "sha1": "a21c66adddeda922615a885efc68462319d5a71b",
+                        "md5": "801401899d65b6b459ce7ebca626ff21"
+                    },
+                    "required_dependencies": [
+                        "1103431",
+                        "908741"
+                    ],
+                    "size": 439674,
+                    "date_published": "2024-10-13T04:32:44.450Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "sodiumextras-forge-1.0.6-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/vqqx0QiE/versions/wqmvsekQ/sodiumextras-forge-1.0.6-1.20.1.jar",
+                    "id": "wqmvsekQ",
+                    "parent_id": "vqqx0QiE",
+                    "hashes": {
+                        "sha512": "f09b808a8e27b46491bfa75feec1277a535644e037092c933ff2343787bfc2e788ba9167831586fc7407efb2e00e02654e620288555582113e632e6807193efa",
+                        "sha1": "a21c66adddeda922615a885efc68462319d5a71b"
+                    },
+                    "required_dependencies": [
+                        "sk9rgfiA",
+                        "Es5v4eyq"
+                    ],
+                    "size": 439674,
+                    "date_published": "2024-10-13T04:32:45.857812Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "3KGzsxOvsSyhJjGG",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "sodium-options-api",
+                "modrinth": "sodium-options-api"
+            },
+            "name": {
+                "curseforge": "Sodium/Embeddium Options API",
+                "modrinth": "Sodium Options API"
+            },
+            "id": {
+                "curseforge": "1103431",
+                "modrinth": "Es5v4eyq"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "sodiumoptionsapi-forge-1.0.3-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5807/572/sodiumoptionsapi-forge-1.0.3-1.20.1.jar",
+                    "id": "5807572",
+                    "parent_id": "1103431",
+                    "hashes": {
+                        "sha1": "9bf04b82b800904a8f74c681d8d411bdc417713e",
+                        "md5": "d0f3970b0107cc5e1c71713e05d92454"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 443085,
+                    "date_published": "2024-10-13T04:22:18.623Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "sodiumoptionsapi-forge-1.0.3-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Es5v4eyq/versions/gYwIyWTS/sodiumoptionsapi-forge-1.0.3-1.20.1.jar",
+                    "id": "gYwIyWTS",
+                    "parent_id": "Es5v4eyq",
+                    "hashes": {
+                        "sha512": "f52d28ba380602b1f927a2eb41093494e7318cb09ea852e843b32e06891bafa81b31324558acc7e48cddc05407d12322499dd2334e23a230fca4040e045cff5a",
+                        "sha1": "9bf04b82b800904a8f74c681d8d411bdc417713e"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 443085,
+                    "date_published": "2024-10-13T04:22:19.736108Z"
                 }
             ]
         },
