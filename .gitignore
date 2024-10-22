@@ -24,3 +24,5 @@ config/forge-client.toml
 config/embeddium-fingerprint.json
 config/embeddium-mixins.properties
 config/embeddium-options.json
+usercache.json
+usernamecache.json
