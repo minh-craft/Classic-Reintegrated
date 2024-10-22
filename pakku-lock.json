@@ -4,7 +4,8 @@
         "1.20.1"
     ],
     "loaders": {
-        "forge": "47.3.11"
+        "forge": "47.3.11",
+        "fabric": "0.92.2"
     },
     "projects": [
         {
@@ -254,6 +255,117 @@
                     ],
                     "size": 240394,
                     "date_published": "2023-09-24T02:34:14Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "c8lSRPKf5BTzGnS0",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "cloth-config",
+                "modrinth": "cloth-config"
+            },
+            "name": {
+                "curseforge": "Cloth Config API (Fabric/Forge/NeoForge)",
+                "modrinth": "Cloth Config API"
+            },
+            "id": {
+                "curseforge": "348521",
+                "modrinth": "9s6osm5g"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cloth-config-11.1.136-forge.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5729/105/cloth-config-11.1.136-forge.jar",
+                    "id": "5729105",
+                    "parent_id": "348521",
+                    "hashes": {
+                        "sha1": "c65d07748acc57ceb45d53b3964368b84f34d54f",
+                        "md5": "ca5de5acbcb4a30c010aa6953bd7ef53"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 1181413,
+                    "date_published": "2024-09-16T17:13:48.940Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "cloth-config-11.1.136-forge.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/9s6osm5g/versions/t8TXrZvZ/cloth-config-11.1.136-forge.jar",
+                    "id": "t8TXrZvZ",
+                    "parent_id": "9s6osm5g",
+                    "hashes": {
+                        "sha512": "137c4af99c53d77317cbfb1cc8c49fc2761708b49d1992f51fd846960df41dde3a83519c987e081508d4ed90c603566f3d5a6cb620ad9d85b8f4de59aa9115ef",
+                        "sha1": "c65d07748acc57ceb45d53b3964368b84f34d54f"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 1181413,
+                    "date_published": "2024-09-16T17:13:50.725690Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "thjoXoAhnjzIrgR1",
+            "pakku_links": [
+                "JoYJjUdrNe0sExKo",
+                "c8lSRPKf5BTzGnS0"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "cloud-layers"
+            },
+            "name": {
+                "modrinth": "Cloud Layers"
+            },
+            "id": {
+                "modrinth": "QcR2Ww1K"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "cloud-layers-1.1+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/QcR2Ww1K/versions/gCGCiTq6/cloud-layers-1.1+1.20.1.jar",
+                    "id": "gCGCiTq6",
+                    "parent_id": "QcR2Ww1K",
+                    "hashes": {
+                        "sha512": "c06262e863e1552b2c06a4198ac87f2f9dd621ef19ea2f172d0ac80fab8cea45866d1f97dc81eae76f9b9ca83c1495fd8e7101a9bc3952afaa25fd93299a0f18",
+                        "sha1": "6d63c133ed1c5ceba7bffb7e8c949492dba2d003"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH",
+                        "9s6osm5g"
+                    ],
+                    "size": 32220,
+                    "date_published": "2024-10-05T16:29:53.632786Z"
                 }
             ]
         },
@@ -538,6 +650,69 @@
                     ],
                     "size": 1320675,
                     "date_published": "2024-08-31T23:11:49.184634Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "JoYJjUdrNe0sExKo",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "fabric-api",
+                "modrinth": "fabric-api"
+            },
+            "name": {
+                "curseforge": "Fabric API",
+                "modrinth": "Fabric API"
+            },
+            "id": {
+                "curseforge": "306612",
+                "modrinth": "P7dR8mSH"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "fabric-api-0.92.2+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5383/715/fabric-api-0.92.2+1.20.1.jar",
+                    "id": "5383715",
+                    "parent_id": "306612",
+                    "hashes": {
+                        "sha1": "625ee015ee426d9b677382a7bb661383d89c0807",
+                        "md5": "92c58961866741106aae126558c9d4a7"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 2107289,
+                    "date_published": "2024-05-30T09:22:41.110Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "fabric-api-0.92.2+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/P7dR8mSH/versions/P7uGFii0/fabric-api-0.92.2+1.20.1.jar",
+                    "id": "P7uGFii0",
+                    "parent_id": "P7dR8mSH",
+                    "hashes": {
+                        "sha512": "a9b461e9e28871002072337adc69e829f5a59c05a39ffe1f6a27df7daff392ac25c8e5a6c01ff340b3eef99cecc42b21c012766a7c87446ca442f9ea1b04aca6",
+                        "sha1": "625ee015ee426d9b677382a7bb661383d89c0807"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 2107289,
+                    "date_published": "2024-05-30T09:22:45.037351Z"
                 }
             ]
         },
