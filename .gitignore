@@ -1,5 +1,6 @@
 build/
 coremods/
+crash-reports/
 defaultconfigs/
 logs/
 saves/
