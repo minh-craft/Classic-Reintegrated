@@ -258,6 +258,74 @@
             ]
         },
         {
+            "pakku_id": "PfcoBEWpTfdYbeYI",
+            "pakku_links": [
+                "3IrN6GZPnZQ7AFru"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "connector-extras",
+                "modrinth": "connector-extras"
+            },
+            "name": {
+                "curseforge": "Connector Extras",
+                "modrinth": "Connector Extras"
+            },
+            "id": {
+                "curseforge": "913445",
+                "modrinth": "FYpiwiBR"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "ConnectorExtras-1.11.2+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5490/637/ConnectorExtras-1.11.2+1.20.1.jar",
+                    "id": "5490637",
+                    "parent_id": "913445",
+                    "hashes": {
+                        "sha1": "9336db4e6ce458bccf7724c039f0371e822397ae",
+                        "md5": "6a79978270b2aa5ddc42c2be4f4d73a7"
+                    },
+                    "required_dependencies": [
+                        "890127"
+                    ],
+                    "size": 182464,
+                    "date_published": "2024-06-30T22:11:23.003Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "ConnectorExtras-1.11.2+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/FYpiwiBR/versions/d28gpPn6/ConnectorExtras-1.11.2+1.20.1.jar",
+                    "id": "d28gpPn6",
+                    "parent_id": "FYpiwiBR",
+                    "hashes": {
+                        "sha512": "a318841ce2c42e8ba2058d47ad323bcb8ca500515c391f3f31b6468e8d4d974a53effe8a0a801b7fafd60d9845be514696bd9b095a3cc5d014bde02ce531bada",
+                        "sha1": "9336db4e6ce458bccf7724c039f0371e822397ae"
+                    },
+                    "required_dependencies": [
+                        "u58R1TMW"
+                    ],
+                    "size": 182464,
+                    "date_published": "2024-06-30T22:11:22.615397Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "n8W6BW2k4FttvYmJ",
             "type": "MOD",
             "side": "SERVER",
@@ -541,6 +609,139 @@
             ]
         },
         {
+            "pakku_id": "pL64pFacRdhQqEPr",
+            "pakku_links": [
+                "GgvSGamMoBnyfjR0"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "fog",
+                "modrinth": "fog"
+            },
+            "name": {
+                "curseforge": "Fog",
+                "modrinth": "Fog"
+            },
+            "id": {
+                "curseforge": "815438",
+                "modrinth": "WuGVWUF2"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Fog-forge-1.5.2-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5828/584/Fog-forge-1.5.2-1.20.1.jar",
+                    "id": "5828584",
+                    "parent_id": "815438",
+                    "hashes": {
+                        "sha1": "cd234d641a84c8730f1834ad33394e3a1332d108",
+                        "md5": "0b921abc8eb76b9eeac1e085c0cc45e9"
+                    },
+                    "required_dependencies": [
+                        "669659"
+                    ],
+                    "size": 1003729,
+                    "date_published": "2024-10-20T18:28:55.997Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Fog-forge-1.5.2-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/WuGVWUF2/versions/f2gpSewM/Fog-forge-1.5.2-1.20.1.jar",
+                    "id": "f2gpSewM",
+                    "parent_id": "WuGVWUF2",
+                    "hashes": {
+                        "sha512": "d029e4ff3ee0014e551c5740dd6470cb1d93051bff6cfc8f0a94861d257faa5710c9c58b29d03fb19461c269208fd3dfcdff14fb8b87ba6856cf3c78592d7612",
+                        "sha1": "cd234d641a84c8730f1834ad33394e3a1332d108"
+                    },
+                    "required_dependencies": [
+                        "SNVQ2c0g"
+                    ],
+                    "size": 1003729,
+                    "date_published": "2024-10-20T18:28:58.297169Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "vd2n3JBvP7jGscXu",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "forgified-fabric-api",
+                "modrinth": "forgified-fabric-api"
+            },
+            "name": {
+                "curseforge": "Forgified Fabric API",
+                "modrinth": "Forgified Fabric API"
+            },
+            "id": {
+                "curseforge": "889079",
+                "modrinth": "Aqlf1Shp"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "fabric-api-0.92.2+1.11.8+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5387/432/fabric-api-0.92.2+1.11.8+1.20.1.jar",
+                    "id": "5387432",
+                    "parent_id": "889079",
+                    "hashes": {
+                        "sha1": "d5680a4d2e2dde45115e41a5e22f6b32f9c80f50",
+                        "md5": "7217481b8e9f40ac27273c1b5df0feb3"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 3041071,
+                    "date_published": "2024-05-31T16:19:06.747Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "fabric-api-0.92.2+1.11.8+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Aqlf1Shp/versions/D3EZO1Kr/fabric-api-0.92.2+1.11.8+1.20.1.jar",
+                    "id": "D3EZO1Kr",
+                    "parent_id": "Aqlf1Shp",
+                    "hashes": {
+                        "sha512": "1222d70e0a403d98a6431806c4357b191fda4bb928eaf7e70b7374cffd0ceae8716812a4d2a0e09ddfeee7adfcb8a6ee8e046c4663ca272c6eb1badab83696c5",
+                        "sha1": "d5680a4d2e2dde45115e41a5e22f6b32f9c80f50"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 3041071,
+                    "date_published": "2024-05-31T16:19:12.148148Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "n68sG3RepXZf6K3x",
             "type": "RESOURCE_PACK",
             "side": "CLIENT",
@@ -728,6 +929,71 @@
                     ],
                     "size": 432352,
                     "date_published": "2024-08-28T20:26:22.585777Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "GgvSGamMoBnyfjR0",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "mru",
+                "modrinth": "mru"
+            },
+            "name": {
+                "curseforge": "M.R.U",
+                "modrinth": "M.R.U"
+            },
+            "id": {
+                "curseforge": "669659",
+                "modrinth": "SNVQ2c0g"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "MRU-1.0.3+1.20.1+forge.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5825/5/MRU-1.0.3+1.20.1+forge.jar",
+                    "id": "5825005",
+                    "parent_id": "669659",
+                    "hashes": {
+                        "sha1": "54d569f34e2dd919756e2d454d01d6078ce3e158",
+                        "md5": "b591e7cba15d36d9b23454b7e38170d5"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 287172,
+                    "date_published": "2024-10-19T16:15:34.387Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "MRU-1.0.3+1.20.1+forge.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/SNVQ2c0g/versions/Z3Phiiq1/MRU-1.0.3+1.20.1+forge.jar",
+                    "id": "Z3Phiiq1",
+                    "parent_id": "SNVQ2c0g",
+                    "hashes": {
+                        "sha512": "2c387c96d5e35171ad3411414a9dfbbb9821540ba3f99886759ac98986b19e0bc7a20556bb65555b2dbb8eb1b737d2c520dba5b552e9aca0b9b66db81362cc88",
+                        "sha1": "54d569f34e2dd919756e2d454d01d6078ce3e158"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 287172,
+                    "date_published": "2024-10-19T16:15:37.466840Z"
                 }
             ]
         },
@@ -1063,6 +1329,74 @@
                     ],
                     "size": 713454,
                     "date_published": "2024-09-09T08:07:45.955294Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "3IrN6GZPnZQ7AFru",
+            "pakku_links": [
+                "vd2n3JBvP7jGscXu"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "connector",
+                "curseforge": "sinytra-connector"
+            },
+            "name": {
+                "modrinth": "Sinytra Connector",
+                "curseforge": "Sinytra Connector"
+            },
+            "id": {
+                "modrinth": "u58R1TMW",
+                "curseforge": "890127"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "Connector-1.0.0-beta.46+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/u58R1TMW/versions/e8hSZ4vp/Connector-1.0.0-beta.46+1.20.1.jar",
+                    "id": "e8hSZ4vp",
+                    "parent_id": "u58R1TMW",
+                    "hashes": {
+                        "sha512": "7d98bd11e72dc95fb30e84d2be9175f2687201451d0e21421074bd225fcbcac8b4bcc1cd1b2dbd5f03e798569cac2f3bcc87c1baba1b1ad002268c578b20a533",
+                        "sha1": "a4ad6605706bebca9470a5affe6f44abaef5d507"
+                    },
+                    "required_dependencies": [
+                        "Aqlf1Shp"
+                    ],
+                    "size": 5043375,
+                    "date_published": "2024-09-27T11:09:31.639201Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "Connector-1.0.0-beta.46+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/5761/411/Connector-1.0.0-beta.46+1.20.1.jar",
+                    "id": "5761411",
+                    "parent_id": "890127",
+                    "hashes": {
+                        "sha1": "4c65f7cec969cb6c2e39d0b06c9be28e72fe370d",
+                        "md5": "3c07e0a25c1921da7586c0290c72ba86"
+                    },
+                    "required_dependencies": [
+                        "889079"
+                    ],
+                    "size": 5043384,
+                    "date_published": "2024-09-27T11:10:59.270Z"
                 }
             ]
         },
