@@ -1,6 +1,7 @@
 build/
 coremods/
 crash-reports/
+data/
 defaultconfigs/
 logs/
 saves/
@@ -15,6 +16,7 @@ texturepacks/
 
 ## config section #####
 
+config/fabric/
 config/nostalgic_tweaks/backup/
 
 config/fml.toml
