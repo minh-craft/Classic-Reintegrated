@@ -1736,6 +1736,71 @@
                     "date_published": "2023-08-03T18:04:25.470Z"
                 }
             ]
+        },
+        {
+            "pakku_id": "uZVVHou0z2mQq6F5",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "yacl",
+                "modrinth": "yacl"
+            },
+            "name": {
+                "curseforge": "YetAnotherConfigLib",
+                "modrinth": "YetAnotherConfigLib"
+            },
+            "id": {
+                "curseforge": "667299",
+                "modrinth": "1eAoo2KR"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "YetAnotherConfigLib-3.5.0+1.20.1-forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5424/136/YetAnotherConfigLib-3.5.0+1.20.1-forge.jar",
+                    "id": "5424136",
+                    "parent_id": "667299",
+                    "hashes": {
+                        "sha1": "e2f450a47ef4d81705175cd18ba36d1782948908",
+                        "md5": "3f5606d396044b5e67229a6fa075fc1c"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 1151778,
+                    "date_published": "2024-06-13T16:08:25.923Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "YetAnotherConfigLib-3.5.0+1.20.1-forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/C0nuSdTs/YetAnotherConfigLib-3.5.0+1.20.1-forge.jar",
+                    "id": "C0nuSdTs",
+                    "parent_id": "1eAoo2KR",
+                    "hashes": {
+                        "sha512": "c6bfce414e6a4142b4e8439ffbe9d2ac8814642669fc8ea1356da88bb96a9b0d77f991ea658059d8d44401f12af6c4b1e91c8a976d80e8b978accbfe964a32c9",
+                        "sha1": "e2f450a47ef4d81705175cd18ba36d1782948908"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 1151778,
+                    "date_published": "2024-06-13T16:08:26.916569Z"
+                }
+            ]
         }
     ],
     "lockfile_version": 1
