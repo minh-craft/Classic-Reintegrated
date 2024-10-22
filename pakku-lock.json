@@ -137,6 +137,208 @@
             ]
         },
         {
+            "pakku_id": "QwE3qVHcDPEVRgBl",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "borderless",
+                "modrinth": "borderless-window"
+            },
+            "name": {
+                "curseforge": "Borderless Window",
+                "modrinth": "Borderless Window"
+            },
+            "id": {
+                "curseforge": "378979",
+                "modrinth": "CnalMsa0"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "BorderlessWindow-1.20-1.6.0.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4575/494/BorderlessWindow-1.20-1.6.0.jar",
+                    "id": "4575494",
+                    "parent_id": "378979",
+                    "hashes": {
+                        "sha1": "2dc2dca0371065bf384b6486827451da441b5471",
+                        "md5": "da915b654d2997e26e26b461644ff8e9"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 44027,
+                    "date_published": "2023-06-09T09:13:03.900Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "ND4EJZQyHn9cv308",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "hybrid-beta"
+            },
+            "name": {
+                "modrinth": "Cascades (Hybrid Beta)"
+            },
+            "id": {
+                "modrinth": "Jmx5kJiS"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "hybrid-beta-1.0.3.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Jmx5kJiS/versions/CDLqHouV/hybrid-beta-1.0.3.jar",
+                    "id": "CDLqHouV",
+                    "parent_id": "Jmx5kJiS",
+                    "hashes": {
+                        "sha512": "7417a307f10a300454582763382e02900d306338334f324fce5f404d44cbc859218b06f7734df91e338d4fb438a17a26d214645ea349360c1fa4ebc384d59869",
+                        "sha1": "98873473242a00edb5c82979d2209c66b18edde5"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 2898819,
+                    "date_published": "2024-03-02T23:17:11.154470Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "uz2cbC8krgDhMayB",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "catalogue"
+            },
+            "name": {
+                "curseforge": "Catalogue"
+            },
+            "id": {
+                "curseforge": "459701"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "catalogue-forge-1.20.1-1.8.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4766/90/catalogue-forge-1.20.1-1.8.0.jar",
+                    "id": "4766090",
+                    "parent_id": "459701",
+                    "hashes": {
+                        "sha1": "b8cc73db430fa6015671492d4332a65a8c2f5cae",
+                        "md5": "524efc6bbcd6da51e86cbf3183587330"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 240394,
+                    "date_published": "2023-09-24T02:34:14Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "n8W6BW2k4FttvYmJ",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "continents",
+                "modrinth": "continents"
+            },
+            "name": {
+                "curseforge": "Continents",
+                "modrinth": "Continents"
+            },
+            "id": {
+                "curseforge": "682515",
+                "modrinth": "bQ5TJA1E"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Continents_1.20.x_v1.1.5.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.5",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.6",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "neoforge",
+                        "forge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5351/599/Continents_1.20.x_v1.1.5.jar",
+                    "id": "5351599",
+                    "parent_id": "682515",
+                    "hashes": {
+                        "sha1": "6792f74125a40b2ef7caf8c4c8aa784021078ae1",
+                        "md5": "a3c823f9d7837f2eba889dea9baa4b69"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 59456,
+                    "date_published": "2024-05-17T19:51:47.037Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Continents_1.20.x_v1.1.5.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "neoforge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/bQ5TJA1E/versions/IM8IL8wv/Continents_1.20.x_v1.1.5.jar",
+                    "id": "IM8IL8wv",
+                    "parent_id": "bQ5TJA1E",
+                    "hashes": {
+                        "sha512": "37929230558aaf52a443c6c7a9a63e5dfd7d166011d8b3a297528faa6577f21eb00884386d105db07bbc43b57745c52d901f50ce4d9d4d6ffd584bca96c82bf2",
+                        "sha1": "6792f74125a40b2ef7caf8c4c8aa784021078ae1"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 59456,
+                    "date_published": "2024-05-17T19:51:46.346950Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "SGEfTVsvID9iPwd0",
             "pakku_links": [
                 "juGmRFMRBsLF6jYA"
@@ -665,6 +867,71 @@
             ]
         },
         {
+            "pakku_id": "Ul1vvqtzRFeluYtZ",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "patched",
+                "modrinth": "patched"
+            },
+            "name": {
+                "curseforge": "Patched",
+                "modrinth": "Patched"
+            },
+            "id": {
+                "curseforge": "689918",
+                "modrinth": "IBlGrJtC"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Patched-forge-3.3.0+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5826/403/Patched-forge-3.3.0+1.20.1.jar",
+                    "id": "5826403",
+                    "parent_id": "689918",
+                    "hashes": {
+                        "sha1": "aa53640e64de8a7ebe167a1827e204907071ce11",
+                        "md5": "30c13498234bac66643fbfd8a160c05e"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 362499,
+                    "date_published": "2024-10-20T03:01:24.820Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Patched-forge-3.3.0+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/IBlGrJtC/versions/Vnq5HiFb/Patched-forge-3.3.0+1.20.1.jar",
+                    "id": "Vnq5HiFb",
+                    "parent_id": "IBlGrJtC",
+                    "hashes": {
+                        "sha512": "72894bd326dbdf0961c5d29341182daa4db97879923f7d2a919c3dcf0a4574dcfbe66c53f7d19e188bc3b6ceb9c8a4157686ea804a35f8990bf8de114f499bbc",
+                        "sha1": "aa53640e64de8a7ebe167a1827e204907071ce11"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 362499,
+                    "date_published": "2024-10-20T02:57:43.425828Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "Ob8A0aW5pZWhy154",
             "pakku_links": [
                 "qMidepjrj8SRjMdO"
@@ -1069,6 +1336,70 @@
                     ],
                     "size": 370524,
                     "date_published": "2024-09-30T06:13:58.953111Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "88n1DvSujpyVuhCw",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "yeetus-experimentus",
+                "curseforge": "yeetusexperimentus"
+            },
+            "name": {
+                "modrinth": "Yeetus Experimentus",
+                "curseforge": "Yeetus Experimentus"
+            },
+            "id": {
+                "modrinth": "HaaH232J",
+                "curseforge": "635427"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "YeetusExperimentus-Forge-2.3.0-build.4+mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/HaaH232J/versions/LgPc1FbC/YeetusExperimentus-Forge-2.3.0-build.4+mc1.20.1.jar",
+                    "id": "LgPc1FbC",
+                    "parent_id": "HaaH232J",
+                    "hashes": {
+                        "sha512": "55afa06e7020d6b84725d996046382641dd044078b5a1d918f30ae531a33be98990612dfc5eea41ec404246ce6eb0b77189d931e71c17b15bf5b903bc184444a",
+                        "sha1": "d40beae393ec07da5faf925cea380e31a7f08d39"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 568278,
+                    "date_published": "2023-09-16T13:07:51.895522Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "YeetusExperimentus-Forge-2.3.1-build.6+mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4680/832/YeetusExperimentus-Forge-2.3.1-build.6+mc1.20.1.jar",
+                    "id": "4680832",
+                    "parent_id": "635427",
+                    "hashes": {
+                        "sha1": "6efdaf5d213f779e51aa84631a5f06a306351e75",
+                        "md5": "b6a02a72cc15d1b1228c4b1ecf7fa3ee"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 568278,
+                    "date_published": "2023-08-03T18:04:25.470Z"
                 }
             ]
         }
