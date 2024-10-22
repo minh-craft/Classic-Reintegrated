@@ -1,0 +1,50 @@
+{
+  "enableMod": true,
+  "heightOffset": 0,
+  "useWorldOffset": false,
+  "layers": [
+    {
+      "name": "Default Lower",
+      "seed": 11,
+      "height": 180,
+      "appearance": {
+        "thickness": 4,
+        "scale": 12,
+        "color": 16777215,
+        "opacity": 80
+      },
+      "movement": {
+        "speed": 100,
+        "direction": "WEST",
+        "useRelativeHeight": false
+      },
+      "conditions": {
+        "dimension": "minecraft:overworld",
+        "rainingOnly": false
+      }
+    },
+    {
+      "name": "Default Upper",
+      "seed": 12,
+      "height": 256,
+      "appearance": {
+        "thickness": 0,
+        "scale": 12,
+        "color": 16777215,
+        "opacity": 80
+      },
+      "movement": {
+        "speed": 80,
+        "direction": "NORTH",
+        "useRelativeHeight": false
+      },
+      "conditions": {
+        "dimension": "minecraft:overworld",
+        "rainingOnly": false
+      }
+    }
+  ],
+  "useWorldTime": true,
+  "renderDistance": 0,
+  "disableFog": false
+}
