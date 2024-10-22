@@ -1,0 +1,19 @@
+{
+  "pack": {
+    "id": "WorldGenPatches",
+    "supported_formats": [
+      15,
+      41
+    ],
+    "pack_format": 15,
+    "description": [
+      {
+        "text": "World generation patches for continents and cascades",
+        "color": "green"
+      }
+    ]
+  },
+  "patched": {
+    "format_version": 1
+  }
+}

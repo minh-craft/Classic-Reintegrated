@@ -1,0 +1,12 @@
+[
+  {
+    "op": "test",
+    "type": "patched:mod_loaded",
+    "value": "continents"
+  },
+  {
+    "op": "replace",
+    "path": "/argument1/argument1",
+    "value": 0.75
+  }
+]
