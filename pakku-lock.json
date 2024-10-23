@@ -738,7 +738,7 @@
             ]
         },
         {
-            "pakku_id": "LDD3ocqOhASgryfE",
+            "pakku_id": "g3mJBj544TS4rB5J",
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
@@ -1984,9 +1984,74 @@
             ]
         },
         {
+            "pakku_id": "M6GJLsekN9eG6JeQ",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "snow-under-trees",
+                "modrinth": "snow-under-trees"
+            },
+            "name": {
+                "curseforge": "Snow Under Trees",
+                "modrinth": "Snow Under Trees"
+            },
+            "id": {
+                "curseforge": "353942",
+                "modrinth": "Q3vyMuj2"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "snowundertrees-1.20.1-1.4.5.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5801/187/snowundertrees-1.20.1-1.4.5.jar",
+                    "id": "5801187",
+                    "parent_id": "353942",
+                    "hashes": {
+                        "sha1": "0c66671ef17ffaa47b4e8aa2db22708b8db311e0",
+                        "md5": "d4724febb00aaf5797922e17d0eace7e"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 27239,
+                    "date_published": "2024-10-10T20:01:25.040Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "snowundertrees-1.20.1-1.4.5.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Q3vyMuj2/versions/OGEnkjbT/snowundertrees-1.20.1-1.4.5.jar",
+                    "id": "OGEnkjbT",
+                    "parent_id": "Q3vyMuj2",
+                    "hashes": {
+                        "sha512": "315c881ee1e1a3578f72cd93483210b05db01a4ced287b85d3be1766b98f583fa6c73167f19606dc920734a901f637bb4fda8d75e8a35c3c7cbd4635887ae37d",
+                        "sha1": "0c66671ef17ffaa47b4e8aa2db22708b8db311e0"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 27239,
+                    "date_published": "2024-10-10T20:01:53.832513Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "LXWnf9GLgnJrIuxt",
             "pakku_links": [
-                "3KGzsxOvsSyhJjGG"
+                "fwcDfwBhcE9FTZIU"
             ],
             "type": "MOD",
             "side": "CLIENT",
@@ -2054,80 +2119,7 @@
             ]
         },
         {
-            "pakku_id": "JijXH8wvWsCmYij1",
-            "pakku_links": [
-                "LDD3ocqOhASgryfE",
-                "3KGzsxOvsSyhJjGG"
-            ],
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "curseforge": "magnesium-extras",
-                "modrinth": "sodium-extras"
-            },
-            "name": {
-                "curseforge": "Sodium/Embeddium Extras",
-                "modrinth": "Sodium Extras"
-            },
-            "id": {
-                "curseforge": "558905",
-                "modrinth": "vqqx0QiE"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "sodiumextras-forge-1.0.6-1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5807/590/sodiumextras-forge-1.0.6-1.20.1.jar",
-                    "id": "5807590",
-                    "parent_id": "558905",
-                    "hashes": {
-                        "sha1": "a21c66adddeda922615a885efc68462319d5a71b",
-                        "md5": "801401899d65b6b459ce7ebca626ff21"
-                    },
-                    "required_dependencies": [
-                        "1103431",
-                        "908741"
-                    ],
-                    "size": 439674,
-                    "date_published": "2024-10-13T04:32:44.450Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "sodiumextras-forge-1.0.6-1.20.1.jar",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "forge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/vqqx0QiE/versions/wqmvsekQ/sodiumextras-forge-1.0.6-1.20.1.jar",
-                    "id": "wqmvsekQ",
-                    "parent_id": "vqqx0QiE",
-                    "hashes": {
-                        "sha512": "f09b808a8e27b46491bfa75feec1277a535644e037092c933ff2343787bfc2e788ba9167831586fc7407efb2e00e02654e620288555582113e632e6807193efa",
-                        "sha1": "a21c66adddeda922615a885efc68462319d5a71b"
-                    },
-                    "required_dependencies": [
-                        "sk9rgfiA",
-                        "Es5v4eyq"
-                    ],
-                    "size": 439674,
-                    "date_published": "2024-10-13T04:32:45.857812Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "3KGzsxOvsSyhJjGG",
+            "pakku_id": "fwcDfwBhcE9FTZIU",
             "type": "MOD",
             "side": "CLIENT",
             "slug": {
