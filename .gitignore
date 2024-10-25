@@ -1,28 +1,29 @@
-build/
-coremods/
-crash-reports/
-data/
-defaultconfigs/
-logs/
-saves/
-mods/
-resourcepacks/
-screenshots/
-server-resource-packs/
-shaderpacks/
-texturepacks/
+/build/
+/coremods/
+/crash-reports/
+/data/
+/defaultconfigs/
+/logs/
+/saves/
+/mods/
+/resourcepacks/
+/screenshots/
+/server-resource-packs/
+/shaderpacks/
+/texturepacks/
 /options.txt
 /icon.png
+/usercache.json
+/usernamecache.json
 
 ## config section #####
 
-config/fabric/
-config/nostalgic_tweaks/backup/
+/config/fabric/
+/config/nostalgic_tweaks/backup/
 
-config/fml.toml
-config/forge-client.toml
-config/embeddium-fingerprint.json
-config/embeddium-mixins.properties
-config/embeddium-options.json
-usercache.json
-usernamecache.json
+/config/fml.toml
+/config/forge-client.toml
+/config/embeddium-fingerprint.json
+/config/embeddium-mixins.properties
+/config/embeddium-options.json
+
