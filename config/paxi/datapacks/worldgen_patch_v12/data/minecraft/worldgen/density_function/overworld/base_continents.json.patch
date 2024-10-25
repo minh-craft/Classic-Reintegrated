@@ -7,6 +7,6 @@
   {
     "op": "replace",
     "path": "/argument1/argument/xz_scale",
-    "value": 0.7
+    "value": 0.6
   }
 ]
