@@ -1,0 +1,16 @@
+{
+  "pack": {
+    "id": "CustomTrees",
+    "supported_formats": [
+      15,
+      41
+    ],
+    "pack_format": 15,
+    "description": [
+      {
+        "text": "Custom edits to trees",
+        "color": "green"
+      }
+    ]
+  }
+}

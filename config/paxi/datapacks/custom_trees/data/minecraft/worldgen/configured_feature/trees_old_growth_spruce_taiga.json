@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:random_selector",
+    "config": {
+        "features": [
+            {
+                "chance": 0.66666666,
+                "feature": "minecraft:mega_spruce_checked"
+            },
+            {
+                "chance": 0.33333334,
+                "feature": "minecraft:pine_checked"
+            }
+        ],
+        "default": "minecraft:spruce_checked"
+    }
+}
