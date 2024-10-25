@@ -207,6 +207,82 @@
             ]
         },
         {
+            "pakku_id": "SbW0oWEQ0u7EnVrE",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "better-biome-reblend",
+                "modrinth": "bbrb"
+            },
+            "name": {
+                "curseforge": "Better Biome Reblend",
+                "modrinth": "Better Biome Reblend"
+            },
+            "id": {
+                "curseforge": "1018276",
+                "modrinth": "Xh8hkQmD"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "betterbiomeblend-1.4.2.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.5",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.6",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5362/745/betterbiomeblend-1.4.2.jar",
+                    "id": "5362745",
+                    "parent_id": "1018276",
+                    "hashes": {
+                        "sha1": "02cb03cfd38763177928855083207e8381bf659f",
+                        "md5": "2381ec29c676484732f7243d1da2db47"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 54314,
+                    "date_published": "2024-05-21T23:35:18.680Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "betterbiomeblend-1.4.2.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Xh8hkQmD/versions/FBM8BqFa/betterbiomeblend-1.4.2.jar",
+                    "id": "FBM8BqFa",
+                    "parent_id": "Xh8hkQmD",
+                    "hashes": {
+                        "sha512": "f3ed0ae1d5c6940f04ba77087f128919c7ec0bb1d98965a967e8ce8a733f90efed4e620f428522579ea8a4fb1b07fe8b750cb6776c6399c0f71a686406cf204e",
+                        "sha1": "02cb03cfd38763177928855083207e8381bf659f"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 54314,
+                    "date_published": "2024-05-21T23:33:56.785624Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "QwE3qVHcDPEVRgBl",
             "type": "MOD",
             "side": "CLIENT",
@@ -2184,6 +2260,207 @@
             ]
         },
         {
+            "pakku_id": "cEQpJyXq3bCQCG3O",
+            "pakku_links": [
+                "JoYJjUdrNe0sExKo",
+                "w9p3UvNsDEHyt9P8"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "true-darkness-refabricated",
+                "modrinth": "true-darkness-refabricated"
+            },
+            "name": {
+                "curseforge": "True Darkness Refabricated",
+                "modrinth": "True Darkness Refabricated"
+            },
+            "id": {
+                "curseforge": "906926",
+                "modrinth": "Pf8PJBb5"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "darkness-fabric-1.1.3+mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5716/367/darkness-fabric-1.1.3+mc1.20.1.jar",
+                    "id": "5716367",
+                    "parent_id": "906926",
+                    "hashes": {
+                        "sha1": "4276cf401af77e4800e246a35905fe2e4284fd63",
+                        "md5": "e6b318ca6553f1c0d9a5a733859a2be3"
+                    },
+                    "required_dependencies": [
+                        "306612",
+                        "532610"
+                    ],
+                    "size": 155949,
+                    "date_published": "2024-09-12T10:37:48.930Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "darkness-fabric-1.1.3+mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Pf8PJBb5/versions/88oVZSJ2/darkness-fabric-1.1.3+mc1.20.1.jar",
+                    "id": "88oVZSJ2",
+                    "parent_id": "Pf8PJBb5",
+                    "hashes": {
+                        "sha512": "e4c316d62467c5e10ddaf5565b155dd57892f04741c5320b67eb2a71c9c0f86b90989ab2a33c6924c347b4c5280c281e48de9035522e802f664dd49e109422e0",
+                        "sha1": "4276cf401af77e4800e246a35905fe2e4284fd63"
+                    },
+                    "required_dependencies": [
+                        "ccKDOlHs",
+                        "P7dR8mSH"
+                    ],
+                    "size": 155949,
+                    "date_published": "2024-09-12T10:37:50.803591Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "2jO2zwP6FjJIaUol",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "world-preview",
+                "modrinth": "world-preview"
+            },
+            "name": {
+                "curseforge": "World Preview",
+                "modrinth": "World Preview"
+            },
+            "id": {
+                "curseforge": "891429",
+                "modrinth": "WtfpyicL"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "world_preview-forge-1.20.1-1.3.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5686/690/world_preview-forge-1.20.1-1.3.1.jar",
+                    "id": "5686690",
+                    "parent_id": "891429",
+                    "hashes": {
+                        "sha1": "98067c700d31f1b716cfbd6ddbeefd772bbba5bb",
+                        "md5": "49e556d551c38f7578346f681d287bfa"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 370743,
+                    "date_published": "2024-09-02T15:34:54.467Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "world_preview-forge-1.20.1-1.3.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/WtfpyicL/versions/j0XQjyV4/world_preview-forge-1.20.1-1.3.1.jar",
+                    "id": "j0XQjyV4",
+                    "parent_id": "WtfpyicL",
+                    "hashes": {
+                        "sha512": "7ffce76791c0f8b74cb01e863884ada4dcad87455c210cd3d9e429a8b32afc25baec2dc2788f265eb732d6a58f932c1150aafd49aae7811b361b6fb87ff6be32",
+                        "sha1": "98067c700d31f1b716cfbd6ddbeefd772bbba5bb"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 370743,
+                    "date_published": "2024-09-05T16:06:04.812093Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "HCegxcg04DP92DUf",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "xaeros-world-map",
+                "modrinth": "xaeros-world-map"
+            },
+            "name": {
+                "curseforge": "Xaero's World Map",
+                "modrinth": "Xaero's World Map"
+            },
+            "id": {
+                "curseforge": "317780",
+                "modrinth": "NcUtCpym"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "XaerosWorldMap_1.39.0_Forge_1.20.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5658/224/XaerosWorldMap_1.39.0_Forge_1.20.jar",
+                    "id": "5658224",
+                    "parent_id": "317780",
+                    "hashes": {
+                        "sha1": "33704b6dd2ee6fbf1da0cffcf2001bf7f1c3dea4",
+                        "md5": "56bacc411ba41fbe016e9c53dbc283e6"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 930284,
+                    "date_published": "2024-08-24T07:16:45.560Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "XaerosWorldMap_1.39.0_Forge_1.20.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/zGpACLsy/XaerosWorldMap_1.39.0_Forge_1.20.jar",
+                    "id": "zGpACLsy",
+                    "parent_id": "NcUtCpym",
+                    "hashes": {
+                        "sha512": "009065642ee160718285a2bde5a4f9b297303f9837f48169f9c74707cf30bdf57e1d614d2507becc497efbad15ad6ecafd1d9c804ab3b66a0688b43946622dd6",
+                        "sha1": "33704b6dd2ee6fbf1da0cffcf2001bf7f1c3dea4"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 930284,
+                    "date_published": "2024-08-24T07:30:57.975290Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "qMidepjrj8SRjMdO",
             "type": "MOD",
             "side": "BOTH",
@@ -2565,6 +2842,78 @@
                     ],
                     "size": 7997,
                     "date_published": "2023-11-20T20:55:45.500Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "w9p3UvNsDEHyt9P8",
+            "pakku_links": [
+                "JoYJjUdrNe0sExKo"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "owo-lib",
+                "modrinth": "owo-lib"
+            },
+            "name": {
+                "curseforge": "oωo (owo-lib)",
+                "modrinth": "oωo (owo-lib)"
+            },
+            "id": {
+                "curseforge": "532610",
+                "modrinth": "ccKDOlHs"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "owo-lib-0.11.2+1.20.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4749/199/owo-lib-0.11.2+1.20.jar",
+                    "id": "4749199",
+                    "parent_id": "532610",
+                    "hashes": {
+                        "sha1": "be88938ca5df78271e64bc9f85c3575754f33e2a",
+                        "md5": "9150f588f732ae38c0320a17fa340626"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 905421,
+                    "date_published": "2023-09-12T10:39:32.403Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "owo-lib-0.11.2+1.20.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/ccKDOlHs/versions/zyOBB7J4/owo-lib-0.11.2+1.20.jar",
+                    "id": "zyOBB7J4",
+                    "parent_id": "ccKDOlHs",
+                    "hashes": {
+                        "sha512": "807e4a3daf493e92c5ff0d5657efbba2a4e0cd2a9b753f2d6f153422629415f189345842a6dd258c87d4c02ebf38950a517bcd8a7ed929af6ed6485ae46cf77e",
+                        "sha1": "be88938ca5df78271e64bc9f85c3575754f33e2a"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 905421,
+                    "date_published": "2023-09-12T10:39:30.503498Z"
                 }
             ]
         }
