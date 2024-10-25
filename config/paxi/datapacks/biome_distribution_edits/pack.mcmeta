@@ -1,0 +1,16 @@
+{
+  "pack": {
+    "id": "BiomeDistributionEdits",
+    "supported_formats": [
+      15,
+      41
+    ],
+    "pack_format": 15,
+    "description": [
+      {
+        "text": "Edits to biome distribution from Cascades",
+        "color": "green"
+      }
+    ]
+  }
+}
