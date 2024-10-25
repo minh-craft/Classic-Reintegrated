@@ -1,0 +1,19 @@
+{
+  "pack": {
+    "id": "BiomePatches",
+    "supported_formats": [
+      15,
+      41
+    ],
+    "pack_format": 15,
+    "description": [
+      {
+        "text": "Biome patches - adjusting grass and foliage colors, etc",
+        "color": "green"
+      }
+    ]
+  },
+  "patched": {
+    "format_version": 1
+  }
+}
