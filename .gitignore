@@ -21,10 +21,10 @@
 
 /config/fabric/
 /config/nostalgic_tweaks/backup/
+config/world_preview
 
 /config/fml.toml
 /config/forge-client.toml
 /config/embeddium-fingerprint.json
 /config/embeddium-mixins.properties
 /config/embeddium-options.json
-

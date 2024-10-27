@@ -1,1 +1,5 @@
 - remove fabric-api before shipping
+- remove xaero's worldmap
+- remove world preview
+
+- change f3 debug menu
