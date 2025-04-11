@@ -1151,6 +1151,70 @@
             ]
         },
         {
+            "pakku_id": "6XbWtbri8g3ygmqi",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "global-gamerules",
+                "modrinth": "global-gamerules"
+            },
+            "name": {
+                "curseforge": "Global GameRules",
+                "modrinth": "Global GameRules"
+            },
+            "id": {
+                "curseforge": "227657",
+                "modrinth": "PIJSp01k"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "GlobalGameRules-1.20-8.0.0.11.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4587/490/GlobalGameRules-1.20-8.0.0.11.jar",
+                    "id": "4587490",
+                    "parent_id": "227657",
+                    "hashes": {
+                        "sha1": "e1ad2f5480453aed8059aeddd5964694116a9fc8",
+                        "md5": "213ec471fd76e3821a0a1e296c28b0ba"
+                    },
+                    "required_dependencies": [],
+                    "size": 18898,
+                    "date_published": "2023-06-14T22:20:18.553Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "GlobalGameRules-1.20-8.0.0.11.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/PIJSp01k/versions/Leux4ZWt/GlobalGameRules-1.20-8.0.0.11.jar",
+                    "id": "Leux4ZWt",
+                    "parent_id": "PIJSp01k",
+                    "hashes": {
+                        "sha512": "d78e1b1aab091a4cd932158627d8f3bb6738c6b30a24880e7842faae84d05df1950f4ebcb3a626ab1cd8b0ac237efe95cd7409f37b3da221650a420bddf4ad42",
+                        "sha1": "e1ad2f5480453aed8059aeddd5964694116a9fc8"
+                    },
+                    "required_dependencies": [],
+                    "size": 18898,
+                    "date_published": "2023-06-14T22:20:02.794727Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "n68sG3RepXZf6K3x",
             "type": "RESOURCE_PACK",
             "side": "CLIENT",
@@ -1335,6 +1399,78 @@
                     "required_dependencies": [],
                     "size": 432352,
                     "date_published": "2024-08-28T20:26:23.160Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "3asDRc8de3qmDgid",
+            "pakku_links": [
+                "h4ZZc1eAO7Yx38gC"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "item-obliterator",
+                "modrinth": "item-obliterator"
+            },
+            "name": {
+                "curseforge": "Item Obliterator (Modpack Utils Series)",
+                "modrinth": "Item Obliterator"
+            },
+            "id": {
+                "curseforge": "835861",
+                "modrinth": "3ESR84kR"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Item-Obliterator-NeoForge-MC1.20.1-2.3.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/5479/898/Item-Obliterator-NeoForge-MC1.20.1-2.3.1.jar",
+                    "id": "5479898",
+                    "parent_id": "835861",
+                    "hashes": {
+                        "sha1": "d8fa4e840a3d60f2172de0584d804d0bf7e6db19",
+                        "md5": "020602ee8af719f6d968111205ad6db5"
+                    },
+                    "required_dependencies": [
+                        "586157"
+                    ],
+                    "size": 22930,
+                    "date_published": "2024-06-27T16:24:50.210Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Item-Obliterator-NeoForge-MC1.20.1-2.3.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/3ESR84kR/versions/EV0cDZhI/Item-Obliterator-NeoForge-MC1.20.1-2.3.1.jar",
+                    "id": "EV0cDZhI",
+                    "parent_id": "3ESR84kR",
+                    "hashes": {
+                        "sha512": "4e207c6e0437dc14970d009453777111c8a1a8aed7953eefc32c057e964d1061ca71c38e6eb9b065f1b519da13d26a45f7e8bf199937fcc091beedccd6055754",
+                        "sha1": "d8fa4e840a3d60f2172de0584d804d0bf7e6db19"
+                    },
+                    "required_dependencies": [
+                        "P1Kv5EAO"
+                    ],
+                    "size": 22930,
+                    "date_published": "2024-06-27T22:48:26.560292Z"
                 }
             ]
         },
@@ -1570,6 +1706,222 @@
                     "required_dependencies": [],
                     "size": 778504,
                     "date_published": "2024-08-30T01:03:17.227Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "h4ZZc1eAO7Yx38gC",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "necronomicon",
+                "modrinth": "necronomicon"
+            },
+            "name": {
+                "curseforge": "Necronomicon API",
+                "modrinth": "Necronomicon API"
+            },
+            "id": {
+                "curseforge": "586157",
+                "modrinth": "P1Kv5EAO"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Necronomicon-Forge-1.6.0+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "neoforge",
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5772/681/Necronomicon-Forge-1.6.0+1.20.1.jar",
+                    "id": "5772681",
+                    "parent_id": "586157",
+                    "hashes": {
+                        "sha1": "2ad4ffa0fb087e4467c6f7496d456fc1ac949ebf",
+                        "md5": "a1f1433ea551925436e6b170ac2ff619"
+                    },
+                    "required_dependencies": [],
+                    "size": 33251,
+                    "date_published": "2024-10-01T04:09:07.960Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Necronomicon-Forge-1.6.0+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "forge",
+                        "neoforge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/P1Kv5EAO/versions/AomMq7HP/Necronomicon-Forge-1.6.0+1.20.1.jar",
+                    "id": "AomMq7HP",
+                    "parent_id": "P1Kv5EAO",
+                    "hashes": {
+                        "sha512": "d63d8d3e252197b7cabffc10ba6ec718d03b0038345d40dc5c9ce3014b9e542a35760ab0250f179b3de4183fe34784d645157b34bf54648c0ebbe24604ed5ba7",
+                        "sha1": "2ad4ffa0fb087e4467c6f7496d456fc1ac949ebf"
+                    },
+                    "required_dependencies": [],
+                    "size": 33251,
+                    "date_published": "2024-10-01T04:11:48.208214Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "VZwZTeTt20ZXvUZ6",
+            "pakku_links": [
+                "JoYJjUdrNe0sExKo"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "no-mining-cooldown"
+            },
+            "name": {
+                "modrinth": "No Mining Cooldown"
+            },
+            "id": {
+                "modrinth": "azfbyO6s"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "nmc-2.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/azfbyO6s/versions/zJCethp1/nmc-2.1.jar",
+                    "id": "zJCethp1",
+                    "parent_id": "azfbyO6s",
+                    "hashes": {
+                        "sha512": "531af3333708156b16878d871811678a51395bbc47287fa0aafae3773c18c4f80a1242aa511c99d8c3571945e98bb06db2267b8be663bd05316f4992115478ec",
+                        "sha1": "830ac84051744dab93937df83548a3d0ddbecf7c"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 18914,
+                    "date_published": "2023-07-17T11:52:53.441603Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "85Ouah5xw3EJH5tS",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "no-more-stone-variants"
+            },
+            "name": {
+                "modrinth": "No More Stone Variants"
+            },
+            "id": {
+                "modrinth": "6m5a2WaQ"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "no-more-stone-variants-1.0.1.jar",
+                    "mc_versions": [
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2",
+                        "1.19.3",
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "neoforge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/6m5a2WaQ/versions/iHEcQUPd/no-more-stone-variants-1.0.1.jar",
+                    "id": "iHEcQUPd",
+                    "parent_id": "6m5a2WaQ",
+                    "hashes": {
+                        "sha512": "4e327bf2e4ca95a2708853b495fd63387c8ffbb5b90602219b2785d629c58db4542897df76feaf0cbc5583db606cb1854e0c1fc7c3dc8fbaa9daeb83b4ae2537",
+                        "sha1": "82fdd0b51fb241163e68b884d616fa5b40261aa4"
+                    },
+                    "required_dependencies": [],
+                    "size": 12246,
+                    "date_published": "2024-10-01T13:55:40.229845Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "xo1B3gHGRb0tpPhW",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "no-more-underwater-magma"
+            },
+            "name": {
+                "modrinth": "No More Underwater Magma"
+            },
+            "id": {
+                "modrinth": "7eRJsMjb"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "no-more-underwater-magma-1.0.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "neoforge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/7eRJsMjb/versions/2HTghC4V/no-more-underwater-magma-1.0.1.jar",
+                    "id": "2HTghC4V",
+                    "parent_id": "7eRJsMjb",
+                    "hashes": {
+                        "sha512": "54207b46b66ddc221cbb7de6065e3f2ee84b4807ce32b2b04ac848c989e108f856926e44ad4fd48f6277dd90c6a137329d66669a8a745aec0de60289d1170f4d",
+                        "sha1": "233006221eb64d143030c574bf5aae6d701e45e9"
+                    },
+                    "required_dependencies": [],
+                    "size": 8872,
+                    "date_published": "2024-10-01T20:31:35.489120Z"
                 }
             ]
         },
@@ -2211,6 +2563,74 @@
                     "required_dependencies": [],
                     "size": 443085,
                     "date_published": "2024-10-13T04:22:18.623Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "b79YGcxajgnEdTVn",
+            "pakku_links": [
+                "uZVVHou0z2mQq6F5"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "structurify",
+                "modrinth": "structurify"
+            },
+            "name": {
+                "curseforge": "Structurify",
+                "modrinth": "Structurify"
+            },
+            "id": {
+                "curseforge": "1087551",
+                "modrinth": "yz7AM2zx"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "structurify-forge-mc1.20.1-1.0.11.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5975/418/structurify-forge-mc1.20.1-1.0.11.jar",
+                    "id": "5975418",
+                    "parent_id": "1087551",
+                    "hashes": {
+                        "sha1": "d71d9d1c4a045d29b80826a1c9044ab6947547da",
+                        "md5": "593ba549c2567548b6f1af1deef9eb6e"
+                    },
+                    "required_dependencies": [
+                        "667299"
+                    ],
+                    "size": 1326023,
+                    "date_published": "2024-12-08T21:22:03.253Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "structurify-forge-mc1.20.1-1.0.11.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/yz7AM2zx/versions/HdSQGqdH/structurify-forge-mc1.20.1-1.0.11.jar",
+                    "id": "HdSQGqdH",
+                    "parent_id": "yz7AM2zx",
+                    "hashes": {
+                        "sha512": "6c72162b26039b38fe6b165573c466bbfbe65f8f006cf6cfe3a8b3d41cb8c384569aa8394916699abd61c0de1ae9c1bea3bc5b2fec0d7162420bfc55a2ecdcb4",
+                        "sha1": "d71d9d1c4a045d29b80826a1c9044ab6947547da"
+                    },
+                    "required_dependencies": [],
+                    "size": 1326023,
+                    "date_published": "2024-12-08T21:22:05.532826Z"
                 }
             ]
         },
