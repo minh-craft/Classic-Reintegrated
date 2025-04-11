@@ -8,5 +8,6 @@
 	"darkEndFog": 0.0,
 	"blockLightOnly": false,
 	"ignoreMoonPhase": false,
+	"moonPhaseStyle": "BTW",
 	"requireMod": false
 }

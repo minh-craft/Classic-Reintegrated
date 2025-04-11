@@ -10,7 +10,7 @@
       "disabled": false
     },
     "openedConfigScreen": true,
-    "openedSodiumScreen": false,
+    "openedSodiumScreen": true,
     "openedSupporterScreen": false,
     "persistentConfigScreen": true,
     "defaultScreen": "HOME_SCREEN",
@@ -338,7 +338,7 @@
     "oldLeavesLighting": true,
     "oldWaterLighting": true,
     "chestLightBlock": true,
-    "roundRobinRelight": false,
+    "roundRobinRelight": true,
     "oldNetherLighting": true,
     "oldSmoothLighting": true,
     "disableSmoothLighting": false,
