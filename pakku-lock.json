@@ -275,6 +275,76 @@
             ]
         },
         {
+            "pakku_id": "1jMZkRPOxwCeS1I0",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "biome-replacer",
+                "modrinth": "biome-replacer"
+            },
+            "name": {
+                "curseforge": "Biome Replacer",
+                "modrinth": "Biome Replacer"
+            },
+            "id": {
+                "curseforge": "910274",
+                "modrinth": "DAXbR0Wj"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "biomereplacer-2.0-hippo-forge.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/6317/245/biomereplacer-2.0-hippo-forge.jar",
+                    "id": "6317245",
+                    "parent_id": "910274",
+                    "hashes": {
+                        "sha1": "01d379964757b33b7974bf6e480faae8b95f7042",
+                        "md5": "2b9285166f2a92b85019891054e1b76e"
+                    },
+                    "required_dependencies": [],
+                    "size": 113179,
+                    "date_published": "2025-03-17T23:05:10.773Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "biomereplacer-2.0-hippo-forge.jar",
+                    "mc_versions": [
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/DAXbR0Wj/versions/yx7ZGJGS/biomereplacer-2.0-hippo-forge.jar",
+                    "id": "yx7ZGJGS",
+                    "parent_id": "DAXbR0Wj",
+                    "hashes": {
+                        "sha512": "d648a03f7cbdfa97f8d38b7816a0acd9c3814517f03a18aa59372c7e73d4f618e879d37cb0d170ffeb493f967c9ab73aacb21b54e39e97c23f0baa0b8250111c",
+                        "sha1": "01d379964757b33b7974bf6e480faae8b95f7042"
+                    },
+                    "required_dependencies": [],
+                    "size": 113179,
+                    "date_published": "2025-03-17T23:13:36.255001Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "QwE3qVHcDPEVRgBl",
             "type": "MOD",
             "side": "CLIENT",
@@ -613,91 +683,6 @@
                     ],
                     "size": 182464,
                     "date_published": "2024-06-30T22:11:22.615397Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "n8W6BW2k4FttvYmJ",
-            "type": "MOD",
-            "side": "SERVER",
-            "slug": {
-                "curseforge": "continents",
-                "modrinth": "continents"
-            },
-            "name": {
-                "curseforge": "Continents",
-                "modrinth": "Continents"
-            },
-            "id": {
-                "curseforge": "682515",
-                "modrinth": "bQ5TJA1E"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "Continents_1.21.x_v1.1.8.jar",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1",
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.4",
-                        "1.20.5",
-                        "1.20.6",
-                        "1.21",
-                        "1.21.1",
-                        "1.21.2",
-                        "1.21.3",
-                        "1.21.4",
-                        "1.21.5"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "forge",
-                        "neoforge",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/bQ5TJA1E/versions/iKQVTCn6/Continents_1.21.x_v1.1.8.jar",
-                    "id": "iKQVTCn6",
-                    "parent_id": "bQ5TJA1E",
-                    "hashes": {
-                        "sha512": "48986c3af5c3508c008ad10d5050341820180de85a1b0f5ff4d71ce413e186079aeccc53a12a90fe19299fd29d14145a294291620c9823c1897b2bdec15449a8",
-                        "sha1": "b46c2e26b665e11d4fa2388d4181622f217ffb33"
-                    },
-                    "required_dependencies": [],
-                    "size": 59397,
-                    "date_published": "2025-04-09T13:13:35.862939Z"
-                },
-                {
-                    "type": "curseforge",
-                    "file_name": "Continents_1.20.x_v1.1.5.jar",
-                    "mc_versions": [
-                        "1.20.2",
-                        "1.20.5",
-                        "1.20.3",
-                        "1.20.1",
-                        "1.20",
-                        "1.20.6",
-                        "1.20.4"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "neoforge",
-                        "forge",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/5351/599/Continents_1.20.x_v1.1.5.jar",
-                    "id": "5351599",
-                    "parent_id": "682515",
-                    "hashes": {
-                        "sha1": "6792f74125a40b2ef7caf8c4c8aa784021078ae1",
-                        "md5": "a3c823f9d7837f2eba889dea9baa4b69"
-                    },
-                    "required_dependencies": [],
-                    "size": 59456,
-                    "date_published": "2024-05-17T19:51:47.037Z"
                 }
             ]
         },

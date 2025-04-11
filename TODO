@@ -1,5 +1,10 @@
+# Before Shipping
 - remove fabric-api before shipping
 - remove xaero's worldmap
 - remove world preview
 
 - change f3 debug menu
+
+# Next actions
+- port datapacks from cascades beta replace to 1.20.1
+- remove continents
