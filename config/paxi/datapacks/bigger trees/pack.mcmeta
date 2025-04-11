@@ -1,0 +1,11 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "supported_formats": [
+      15,
+      18,
+      26
+    ],
+    "description": "Vanilla style improvements for overworld trees"
+  }
+}

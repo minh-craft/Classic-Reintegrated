@@ -1,7 +1,0 @@
-[
-  {
-    "op": "replace",
-    "path": "/amplitudes/0",
-    "value": 1.75
-  }
-]

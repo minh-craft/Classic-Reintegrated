@@ -1,0 +1,12 @@
+[
+  {
+    "op": "replace",
+    "path": "/noise_router/temperature/xz_scale",
+    "value": 0.33
+  },
+  {
+    "op": "replace",
+    "path": "/noise_router/vegetation/xz_scale",
+    "value": 0.33
+  }
+]
