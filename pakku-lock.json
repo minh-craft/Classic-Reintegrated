@@ -577,6 +577,43 @@
             ]
         },
         {
+            "pakku_id": "02y3FD1jsAgI92mA",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "c2me-fabric"
+            },
+            "name": {
+                "modrinth": "Concurrent Chunk Management Engine (Fabric)"
+            },
+            "id": {
+                "modrinth": "VSNURh3q"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "c2me-fabric-mc1.20.1-0.2.0+alpha.11.16.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://cdn.modrinth.com/data/VSNURh3q/versions/s4WOiNtz/c2me-fabric-mc1.20.1-0.2.0+alpha.11.16.jar",
+                    "id": "s4WOiNtz",
+                    "parent_id": "VSNURh3q",
+                    "hashes": {
+                        "sha512": "359c715fd6a0464192d36b4d9dbb7927776eaae498f0cab939b49740fc724bda83aaf4f069f395dc5975d1e82762ee3b602111d9375eb27ab6f5360c4b17f2ff",
+                        "sha1": "94d96b5fffd9e98bd8448dcdd9e27f60511b1d29"
+                    },
+                    "required_dependencies": [],
+                    "size": 1426500,
+                    "date_published": "2025-02-11T10:06:32.247808Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "nNDmeoF2CAhkkI2T",
             "pakku_links": [
                 "N2HIgxcZw1mouN5Y"
@@ -1293,6 +1330,60 @@
             ]
         },
         {
+            "pakku_id": "b0ToPjoyg6RS1Xwf",
+            "pakku_links": [
+                "n68sG3RepXZf6K3x"
+            ],
+            "type": "RESOURCE_PACK",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "golden-days-alpha"
+            },
+            "name": {
+                "modrinth": "Golden Days Alpha"
+            },
+            "id": {
+                "modrinth": "GalExSh7"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "golden-days-alpha-1.20.x-1.10.0.zip",
+                    "mc_versions": [
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2",
+                        "1.19.3",
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21"
+                    ],
+                    "loaders": [
+                        "minecraft"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/GalExSh7/versions/9cNEh5Ut/golden-days-alpha-1.20.x-1.10.0.zip",
+                    "id": "9cNEh5Ut",
+                    "parent_id": "GalExSh7",
+                    "hashes": {
+                        "sha512": "eddaff1f7b093db22577e8db284236cef1d0bf41435fab2b580db30022d6946b35bb9461f15391d45f1f3ade9f5795e4d15beaae81c8223003599b78020788ef",
+                        "sha1": "5bd83ebdd6566087a204e0b87596f1be6fbcc58a"
+                    },
+                    "required_dependencies": [
+                        "BFzJ6aQL"
+                    ],
+                    "size": 282245,
+                    "date_published": "2024-02-16T00:17:29.305818Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "4uQKu9mJIHyuqHQB",
             "type": "RESOURCE_PACK",
             "side": "CLIENT",
@@ -1645,6 +1736,50 @@
                     "required_dependencies": [],
                     "size": 287172,
                     "date_published": "2024-10-19T16:15:34.387Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "aMA27VELupJTKjOW",
+            "type": "RESOURCE_PACK",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "minecraft-classic-edition"
+            },
+            "name": {
+                "modrinth": "Minecraft: Classic Edition"
+            },
+            "id": {
+                "modrinth": "6r6dKiPb"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "Minecraft Classic Edition.zip",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21"
+                    ],
+                    "loaders": [
+                        "minecraft"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/6r6dKiPb/versions/ZM5qM5Ks/Minecraft Classic Edition.zip",
+                    "id": "ZM5qM5Ks",
+                    "parent_id": "6r6dKiPb",
+                    "hashes": {
+                        "sha512": "b504783667df83649d055c0f999e510a46f9e9caa16b67c0883771ca24fbd09125b440c9c8284d404de87768a85c3859279e984421efb5c77e0f419cafea0c41",
+                        "sha1": "a11e8ffb6aa9629be1f12c820bc1211b352f5452"
+                    },
+                    "required_dependencies": [],
+                    "size": 30825753,
+                    "date_published": "2024-07-11T15:27:51.662096Z"
                 }
             ]
         },
@@ -2192,6 +2327,94 @@
                     ],
                     "size": 96892,
                     "date_published": "2023-09-12T22:26:03.431847Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "JKxKVPMgjzdygxpG",
+            "type": "RESOURCE_PACK",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "pacp"
+            },
+            "name": {
+                "modrinth": "Programmer Art Continuation Project"
+            },
+            "id": {
+                "modrinth": "gx2HeuWD"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "PACP_2.1.2-01_Base.zip",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1",
+                        "1.21.2",
+                        "1.21.3",
+                        "1.21.4",
+                        "1.21.5"
+                    ],
+                    "loaders": [
+                        "minecraft"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/gx2HeuWD/versions/VFSEaJeu/PACP_2.1.2-01_Base.zip",
+                    "id": "VFSEaJeu",
+                    "parent_id": "gx2HeuWD",
+                    "hashes": {
+                        "sha512": "539c02267fb0f6888612c32ae2f77706228ffa6cc1f1d827044b7cf4320c442c6fae3015fea343ed84abe5c36cf16676ce01c91d4c0248af5ce427eaf56eb841",
+                        "sha1": "bc03f1ffbf3d8404a9227cf4fb59f92348e62b42"
+                    },
+                    "required_dependencies": [],
+                    "size": 3744056,
+                    "date_published": "2025-04-04T12:56:05.191554Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "CpdAqRBpImTduQdN",
+            "type": "RESOURCE_PACK",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "programmer-art-ultimate"
+            },
+            "name": {
+                "modrinth": "Programmer Art Ultimate"
+            },
+            "id": {
+                "modrinth": "9pxxsRjM"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "Programmer Art Ultimate 1.20.zip",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2"
+                    ],
+                    "loaders": [
+                        "minecraft"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/9pxxsRjM/versions/dKwDHDdd/Programmer Art Ultimate 1.20.zip",
+                    "id": "dKwDHDdd",
+                    "parent_id": "9pxxsRjM",
+                    "hashes": {
+                        "sha512": "c58ad85fb5de745712b20772190df49755b4bd631b3bbd2b712b2e7c611f2e1678978f53de9166e2f34bb3cfeb61c10e70ea2856e6e2a2fcdff93103ab675607",
+                        "sha1": "48d69971c3b362a3f94ae91c2ab7dba6a640c099"
+                    },
+                    "required_dependencies": [],
+                    "size": 10410616,
+                    "date_published": "2023-09-29T06:28:29.196350Z"
                 }
             ]
         },

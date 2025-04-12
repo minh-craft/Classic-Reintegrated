@@ -5,7 +5,7 @@
 	],
 	"disableRaininessEffect": false,
 	"disableUndergroundFogMultiplier": false,
-	"disableBiomeFogColour": false,
+	"disableBiomeFogColour": true,
 	"disableCloudWhitening": false,
 	"initialFogStart": 0.1,
 	"initialFogEnd": 0.85,

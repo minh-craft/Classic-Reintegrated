@@ -11,6 +11,13 @@
 - update recipe for scaffolding
 - consider removing bamboo jungle
 - consider removing acacia wood
+- test obliterating items, see if gone from recipe book and creative
+- add forgery
+- check to see if fabric is even needed
 
 # projects
 - make custom "no more X" datapacks
+- configure no mining cooldown
+- configure global gamerules
+- add Configured, configure supplementaries
+- remove unneeded resource packs (pacp, programmer ultimate, alpha) after testing is done
