@@ -43,7 +43,7 @@
         },
         "foliage_placer": {
             "type": "minecraft:spruce_foliage_placer",
-            "radius": 4,
+            "radius": 3,
             "offset": 0,
             "height": 24,
             "trunk_height": 6
