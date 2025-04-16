@@ -3,11 +3,11 @@
     "config": {
         "features": [
             {
-                "chance": 0.66666666,
+                "chance": 0.5,
                 "feature": "minecraft:mega_spruce_checked"
             },
             {
-                "chance": 0.33333334,
+                "chance": 0.5,
                 "feature": "minecraft:pine_checked"
             }
         ],
