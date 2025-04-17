@@ -1,6 +1,6 @@
 {
 	"darkOverworld": true,
-	"darkNether": true,
+	"darkNether": false,
 	"darkEnd": true,
 	"darkDefault": true,
 	"darkSkyless": true,
