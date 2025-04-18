@@ -1894,6 +1894,50 @@
             ]
         },
         {
+            "pakku_id": "7mAE8jTDMOlkuOS7",
+            "pakku_links": [
+                "c8lSRPKf5BTzGnS0",
+                "gCkiRxbbi6bAW7u1"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "moderner-beta"
+            },
+            "name": {
+                "modrinth": "Moderner Beta"
+            },
+            "id": {
+                "modrinth": "xkrdwmh2"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "moderner-beta-2.1.7+1.20.1-forge.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/xkrdwmh2/versions/Z6mknAU8/moderner-beta-2.1.7+1.20.1-forge.jar",
+                    "id": "Z6mknAU8",
+                    "parent_id": "xkrdwmh2",
+                    "hashes": {
+                        "sha512": "c9d572d814fd2ab7328b8ed3d715d1987192b60bf2c68bcc2f471d62b9298a24668eb1f3711854decfe38e05f9009bd1062f308bce06e8315750585bcee48ac2",
+                        "sha1": "5ace354cffaba3274c0bb38cafa666b28dc13e79"
+                    },
+                    "required_dependencies": [
+                        "9s6osm5g",
+                        "lhGA9TYQ"
+                    ],
+                    "size": 2422839,
+                    "date_published": "2025-03-26T17:17:52.836867Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "h4ZZc1eAO7Yx38gC",
             "type": "MOD",
             "side": "BOTH",
