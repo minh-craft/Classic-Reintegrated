@@ -1,5 +1,5 @@
 {
-	"darkOverworld": true,
+	"darkOverworld": false,
 	"darkNether": false,
 	"darkEnd": true,
 	"darkDefault": true,

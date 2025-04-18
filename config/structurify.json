@@ -19,17 +19,6 @@
       "blacklisted_biomes": []
     },
     {
-      "name": "minecraft:bastion_remnant",
-      "is_disabled": true,
-      "enable_flatness_check": false,
-      "flatness_check_distance": 80,
-      "flatness_check_threshold": 10,
-      "enable_biome_check": false,
-      "biome_check_distance": 80,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": []
-    },
-    {
       "name": "minecraft:buried_treasure",
       "is_disabled": true,
       "enable_flatness_check": false,
@@ -63,17 +52,6 @@
       "blacklisted_biomes": []
     },
     {
-      "name": "minecraft:fortress",
-      "is_disabled": true,
-      "enable_flatness_check": false,
-      "flatness_check_distance": 0,
-      "flatness_check_threshold": 10,
-      "enable_biome_check": false,
-      "biome_check_distance": 0,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": []
-    },
-    {
       "name": "minecraft:igloo",
       "is_disabled": true,
       "enable_flatness_check": false,
@@ -97,6 +75,17 @@
     },
     {
       "name": "minecraft:mansion",
+      "is_disabled": true,
+      "enable_flatness_check": false,
+      "flatness_check_distance": 0,
+      "flatness_check_threshold": 10,
+      "enable_biome_check": false,
+      "biome_check_distance": 0,
+      "whitelisted_biomes": [],
+      "blacklisted_biomes": []
+    },
+    {
+      "name": "minecraft:mineshaft",
       "is_disabled": true,
       "enable_flatness_check": false,
       "flatness_check_distance": 0,
@@ -158,17 +147,6 @@
       "flatness_check_threshold": 10,
       "enable_biome_check": false,
       "biome_check_distance": 80,
-      "whitelisted_biomes": [],
-      "blacklisted_biomes": []
-    },
-    {
-      "name": "minecraft:ruined_portal",
-      "is_disabled": true,
-      "enable_flatness_check": false,
-      "flatness_check_distance": 0,
-      "flatness_check_threshold": 10,
-      "enable_biome_check": false,
-      "biome_check_distance": 0,
       "whitelisted_biomes": [],
       "blacklisted_biomes": []
     },
