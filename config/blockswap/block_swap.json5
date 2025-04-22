@@ -85,5 +85,6 @@ to make editing this file much easier.
 	   	}
 	*/
 	"swapper": {
+		"minecraft:podzol": "minecraft:grass_block"
 	 }
 }
