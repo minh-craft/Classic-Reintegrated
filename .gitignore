@@ -22,6 +22,7 @@
 /config/fabric/
 /config/nostalgic_tweaks/backup/
 config/world_preview
+/config/blockswap/known_states/
 
 /config/fml.toml
 /config/forge-client.toml

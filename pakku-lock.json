@@ -346,6 +346,67 @@
             ]
         },
         {
+            "pakku_id": "En38eJe89lMTYCyT",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "block-swap",
+                "modrinth": "block-swap"
+            },
+            "name": {
+                "curseforge": "Block Swap",
+                "modrinth": "Block Swap"
+            },
+            "id": {
+                "curseforge": "468893",
+                "modrinth": "f9kXyjJX"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Block Swap-forge-1.20.1-5.0.0.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4598/162/Block Swap-forge-1.20.1-5.0.0.0.jar",
+                    "id": "4598162",
+                    "parent_id": "468893",
+                    "hashes": {
+                        "sha1": "87c5ded19cbcb561d85222611604542f07e9c509",
+                        "md5": "a6cc466ab055777e5dfac3bcb14d412b"
+                    },
+                    "required_dependencies": [],
+                    "size": 308584,
+                    "date_published": "2023-06-20T04:57:28.470Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Block Swap-forge-1.20.1-5.0.0.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/f9kXyjJX/versions/XBaeaswr/Block Swap-forge-1.20.1-5.0.0.0.jar",
+                    "id": "XBaeaswr",
+                    "parent_id": "f9kXyjJX",
+                    "hashes": {
+                        "sha512": "4227b864ae79eadf2afef5ca79888f135732e85a1feece7022a87d66be23855f184d6018ab69b7b3a7be3847e1da8fd4b6e4954ab853a9bf10e6110e9912c9a4",
+                        "sha1": "87c5ded19cbcb561d85222611604542f07e9c509"
+                    },
+                    "required_dependencies": [],
+                    "size": 308584,
+                    "date_published": "2023-06-20T04:57:32.814958Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "QwE3qVHcDPEVRgBl",
             "type": "MOD",
             "side": "CLIENT",
@@ -723,6 +784,85 @@
             ]
         },
         {
+            "pakku_id": "aEmMJLZROzannHE5",
+            "pakku_links": [
+                "c8lSRPKf5BTzGnS0",
+                "JoYJjUdrNe0sExKo"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "creative-fly",
+                "modrinth": "creative-fly"
+            },
+            "name": {
+                "curseforge": "Creative Fly",
+                "modrinth": "Creative Fly"
+            },
+            "id": {
+                "curseforge": "664642",
+                "modrinth": "XrD3Auyv"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "CreativeFly-1.2.1-1.20-fabric.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5738/153/CreativeFly-1.2.1-1.20-fabric.jar",
+                    "id": "5738153",
+                    "parent_id": "664642",
+                    "hashes": {
+                        "sha1": "7e558a5200cf59987f9e6ad2dd57ca5d0d089171",
+                        "md5": "b85468fdf25a77d517d5be80752f50d5"
+                    },
+                    "required_dependencies": [
+                        "348521",
+                        "306612"
+                    ],
+                    "size": 17022,
+                    "date_published": "2024-09-19T21:11:11.813Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "CreativeFly-1.2.1-1.20-fabric.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/XrD3Auyv/versions/zlZ2lHQ7/CreativeFly-1.2.1-1.20-fabric.jar",
+                    "id": "zlZ2lHQ7",
+                    "parent_id": "XrD3Auyv",
+                    "hashes": {
+                        "sha512": "20c585b493d3e3ebf576b854145f5b1180db37054cebe9e2fcee42810daf7a7f575f58b28a5146721d7c6bd3a1d17ccc6b88d247366104a6c83a30d8066a083c",
+                        "sha1": "7e558a5200cf59987f9e6ad2dd57ca5d0d089171"
+                    },
+                    "required_dependencies": [
+                        "9s6osm5g",
+                        "P7dR8mSH"
+                    ],
+                    "size": 17022,
+                    "date_published": "2024-04-08T15:21:18.939289Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "N2HIgxcZw1mouN5Y",
             "type": "MOD",
             "slug": {
@@ -987,6 +1127,67 @@
                     "required_dependencies": [],
                     "size": 14472,
                     "date_published": "2025-03-14T13:42:51.537Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "JKMQrvhX4z0sTT0m",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "fastload",
+                "modrinth": "fastload"
+            },
+            "name": {
+                "curseforge": "Fastload",
+                "modrinth": "Fastload"
+            },
+            "id": {
+                "curseforge": "630620",
+                "modrinth": "kCpssoSb"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Fastload-Reforged-mc1.20.1-3.4.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4706/149/Fastload-Reforged-mc1.20.1-3.4.0.jar",
+                    "id": "4706149",
+                    "parent_id": "630620",
+                    "hashes": {
+                        "sha1": "27d58f123951e0404c94caf16ff9b96b442f371c",
+                        "md5": "3266e638032dc9b957bf1e7372671c05"
+                    },
+                    "required_dependencies": [],
+                    "size": 66989,
+                    "date_published": "2023-08-15T12:39:08.230Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Fastload-Reforged-mc1.20.1-3.4.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "forge"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/kCpssoSb/versions/5caSj7kt/Fastload-Reforged-mc1.20.1-3.4.0.jar",
+                    "id": "5caSj7kt",
+                    "parent_id": "kCpssoSb",
+                    "hashes": {
+                        "sha512": "b8be6ed0bef707c7c34d84049eb68313a5c787f6e9c9a88fb94daed6bccfedc6c181a1fca431f53b6e8ac03c7baf7653414b5a5792cab6b500c6d66502489431",
+                        "sha1": "27d58f123951e0404c94caf16ff9b96b442f371c"
+                    },
+                    "required_dependencies": [],
+                    "size": 66989,
+                    "date_published": "2023-08-15T12:36:55.631401Z"
                 }
             ]
         },
