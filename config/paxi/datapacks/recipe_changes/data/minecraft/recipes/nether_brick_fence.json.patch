@@ -1,0 +1,12 @@
+[
+  {
+    "op": "add",
+    "path": "/category",
+    "value": "building"
+  },
+  {
+    "op": "add",
+    "path": "/group",
+    "value": "wooden_fence"
+  }
+]
