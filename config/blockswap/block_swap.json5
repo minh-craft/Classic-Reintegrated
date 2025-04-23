@@ -85,6 +85,8 @@ to make editing this file much easier.
 	   	}
 	*/
 	"swapper": {
-		"minecraft:podzol": "minecraft:grass_block"
+		"minecraft:podzol": "minecraft:grass_block",
+		"minecraft:crying_obsidian": "minecraft:obsidian",
+		"minecraft:ancient_debris": "minecraft:netherrack"
 	 }
 }

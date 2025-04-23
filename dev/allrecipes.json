@@ -477,6 +477,9 @@ REMOVE
 "minecraft:jungle_wood",
 "minecraft:oak_wood",
 "minecraft:spruce_wood",
+"minecraft:cherry_log",
+"minecraft:acacia_log",
+"minecraft:mangrove_log",
 
 "minecraft:emerald",
 "minecraft:emerald_block",
@@ -530,7 +533,9 @@ REMOVE
 "minecraft:shulker_box",
 "minecraft:black_shulker_box",
 "minecraft:blue_shulker_box",
-"minecraft:grey_shulker_box",
+"minecraft:brown_shulker_box",
+"minecraft:cyan_shulker_box",
+"minecraft:gray_shulker_box",
 "minecraft:green_shulker_box",
 "minecraft:light_blue_shulker_box",
 "minecraft:light_gray_shulker_box",
@@ -548,6 +553,12 @@ REMOVE
 "minecraft:sculk_sensor",
 "minecraft:sculk_shrieker",
 
+"minecraft:amethyst_block",
+"minecraft:budding_amethyst",
+"minecraft:small_amethyst_bud",
+"minecraft:medium_amethyst_bud",
+"minecraft:large_amethyst_bud",
+"minecraft:amethyst_cluster",
 "minecraft:blue_ice",
 "minecraft:tinted_glass",
 "minecraft:sea_lantern",
@@ -562,7 +573,7 @@ REMOVE
 "minecraft:leather_horse_armor",
 
 
-
+"minecraft:ancient_debris",
 "minecraft:netherite_axe_smithing",
 "minecraft:netherite_block",
 "minecraft:netherite_boots_smithing",
@@ -724,7 +735,6 @@ IFFY
 
 "minecraft:dripstone_block",
 "minecraft:lightning_rod",
-"minecraft:amethyst_block",
 "minecraft:glass_pane",
 
 

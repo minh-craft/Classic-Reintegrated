@@ -12,6 +12,7 @@
 - test obliterating items, see if gone from recipe book and creative
 - add forgery
 - check to see if fabric is even needed
+- clean up biome colors in surrounding biomes (desert, beach, etc)
 
 # projects
 - make custom "no more X" datapacks
@@ -19,3 +20,7 @@
 - configure global gamerules
 - add Configured, configure supplementaries
 - remove unneeded resource packs (pacp, programmer ultimate, alpha) after testing is done
+
+# remove
+- clean up recipes that use tags that for wood logs, still show removed woods
+- wither rose
