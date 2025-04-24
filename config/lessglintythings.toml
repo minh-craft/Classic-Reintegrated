@@ -1,0 +1,9 @@
+removeBookGlint = true
+removeEnchantedBookGlint = false
+removeEnchantedGoldenAppleGlint = false
+removeEndCrystalGlint = true
+removeExperienceBottleGlint = true
+removeNetherStarGlint = true
+removeArmorGlint = true
+removeToolGlint = false
+removeLodestoneCompassGlint = true
