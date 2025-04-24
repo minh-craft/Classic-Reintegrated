@@ -1,6 +1,6 @@
 {
   "pack": {
-    "id": "RecipeChanges",
+    "id": "RecipeBookChanges",
     "supported_formats": [
       15,
       41,
@@ -9,7 +9,7 @@
     "pack_format": 15,
     "description": [
       {
-        "text": "Recipe Changes",
+        "text": "Recipe Book Changes",
         "color": "green"
       }
     ]
