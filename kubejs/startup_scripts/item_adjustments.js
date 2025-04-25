@@ -1,5 +1,17 @@
 ItemEvents.modification(event => {
   // diamond tools and armor have fire resistance
+  event.modify('minecraft:diamond', item => {
+    item.fireResistant = true
+  });
+  event.modify('minecraft:diamond_block', item => {
+    item.fireResistant = true
+  });
+  event.modify('minecraft:diamond_ore', item => {
+    item.fireResistant = true
+  });
+  event.modify('minecraft:deepslate_diamond_ore', item => {
+    item.fireResistant = true
+  });
   event.modify('minecraft:diamond_boots', item => {
     item.fireResistant = true
   });
