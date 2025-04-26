@@ -111,7 +111,7 @@
 		#Whether wandering traders can spawn.
 		do_trader_spawning = false
 		#Whether wardens can spawn.
-		do_warden_spawning = true
+		do_warden_spawning = false
 
 #Configs related to difficult changes
 [difficulty]
