@@ -11,6 +11,7 @@ REMOVE
 "minecraft:creeper_banner_pattern",
 "minecraft:cyan_banner",
 "minecraft:flower_banner_pattern",
+"minecraft:globe_banner_pattern",
 "minecraft:gray_banner",
 "minecraft:green_banner",
 "minecraft:light_blue_banner",
@@ -19,6 +20,7 @@ REMOVE
 "minecraft:magenta_banner",
 "minecraft:mojang_banner_pattern",
 "minecraft:orange_banner",
+"minecraft:piglin_banner_pattern",
 "minecraft:pink_banner",
 "minecraft:purple_banner",
 "minecraft:red_banner",
@@ -245,6 +247,8 @@ REMOVE
 
 "minecraft:copper_block",
 "minecraft:copper_ingot",
+"minecraft:copper_ore",
+"minecraft:deepslate_copper_ore",
 "minecraft:copper_ingot_from_blasting_copper_ore",
 "minecraft:copper_ingot_from_blasting_deepslate_copper_ore",
 "minecraft:copper_ingot_from_blasting_raw_copper",
@@ -388,6 +392,8 @@ REMOVE
 "minecraft:cracked_polished_blackstone_bricks",
 "minecraft:cracked_stone_bricks",
 
+"minecraft:quartz_bricks",
+"minecraft:quartz_bricks_from_quartz_block_stonecutting",
 
 "minecraft:acacia_boat",
 "minecraft:acacia_button",
@@ -492,8 +498,29 @@ REMOVE
 "minecraft:calcite",
 "minecraft:tuff",
 
-"minecraft:quartz_bricks",
-"minecraft:quartz_bricks_from_quartz_block_stonecutting",
+"minecraft:angler_pottery_sherd",
+"minecraft:archer_pottery_sherd",
+"minecraft:arms_up_pottery_sherd",
+"minecraft:blade_pottery_sherd",
+"minecraft:brewer_pottery_sherd",
+"minecraft:burn_pottery_sherd",
+"minecraft:danger_pottery_sherd",
+"minecraft:explorer_pottery_sherd",
+"minecraft:flow_pottery_sherd",
+"minecraft:friend_pottery_sherd",
+"minecraft:guster_pottery_sherd",
+"minecraft:heart_pottery_sherd",
+"minecraft:heartbreak_pottery_sherd",
+"minecraft:howl_pottery_sherd",
+"minecraft:miner_pottery_sherd",
+"minecraft:mourner_pottery_sherd",
+"minecraft:plenty_pottery_sherd",
+"minecraft:prize_pottery_sherd",
+"minecraft:scrape_pottery_sherd",
+"minecraft:sheaf_pottery_sherd",
+"minecraft:shelter_pottery_sherd",
+"minecraft:skull_pottery_sherd",
+"minecraft:snort_pottery_sherd",
 
 "minecraft:end_stone",
 "minecraft:reinforced_deepslate",
@@ -504,22 +531,30 @@ REMOVE
 "minecraft:torchflower_seed",
 "minecraft:sniffer_egg",
 "minecraft:mycelium",
+"minecraft:prismarine_shard",
+"minecraft:prismarine_crystals",
+"minecraft:nautilus_shell",
+"minecraft:heart_of_the_sea",
+"minecraft:shulker_shell",
 
+
+"minecraft:nether_star",
 "minecraft:beacon",
+"minecraft:end_portal_frame",
 "minecraft:end_crystal",
 "minecraft:end_rod",
 "minecraft:ender_chest",
 "minecraft:ender_eye",
 "minecraft:chorus_plant",
 "minecraft:chorus_flower",
+"minecraft:dragon_egg",
+"minecraft:dragon_head",
 "minecraft:crying_obsidian",
+"minecraft:echo_shard",
+"minecraft:disc_fragment_5",
 
-"minecraft:brewing_stand",
-"minecraft:blaze_powder",
-"minecraft:fermented_spider_eye",
-"minecraft:magma_cream",
-"minecraft:suspicious_stew",
-
+"minecraft:enchanted_book",
+"minecraft:experience_bottle",
 "minecraft:enchanting_table",
 "minecraft:blast_furnace",
 "minecraft:fletching_table",
@@ -552,9 +587,13 @@ REMOVE
 "minecraft:lodestone",
 "minecraft:sculk_sensor",
 "minecraft:sculk_shrieker",
+"minecraft:sculk",
+"minecraft:sculk_vein",
+"minecraft:sculk_catalyst",
 
 "minecraft:amethyst_block",
 "minecraft:budding_amethyst",
+"minecraft:amethyst_shard",
 "minecraft:small_amethyst_bud",
 "minecraft:medium_amethyst_bud",
 "minecraft:large_amethyst_bud",
@@ -569,9 +608,15 @@ REMOVE
 "minecraft:tipped_arrow",
 "minecraft:spectral_arrow",
 "minecraft:wither_rose",
-"minecraft:music_disc_5",
 "minecraft:leather_horse_armor",
+"minecraft:iron_horse_armor",
+"minecraft:golden_horse_armor",
+"minecraft:diamond_horse_armor",
+"minecraft:totem_of_undying",
 
+"minecraft:trident",
+"minecraft:elytra",
+"minecraft:phantom_membrane",
 
 "minecraft:ancient_debris",
 "minecraft:netherite_axe_smithing",
@@ -579,10 +624,14 @@ REMOVE
 "minecraft:netherite_boots_smithing",
 "minecraft:netherite_chestplate_smithing",
 "minecraft:netherite_helmet_smithing",
+"minecraft:netherite_leggings_smithing",
+"minecraft:netherite_boots",
+"minecraft:netherite_chestplate",
+"minecraft:netherite_helmet",
+"minecraft:netherite_leggings",
 "minecraft:netherite_hoe_smithing",
 "minecraft:netherite_ingot",
 "minecraft:netherite_ingot_from_netherite_block",
-"minecraft:netherite_leggings_smithing",
 "minecraft:netherite_pickaxe_smithing",
 "minecraft:netherite_scrap",
 "minecraft:netherite_scrap_from_blasting",
@@ -590,9 +639,83 @@ REMOVE
 "minecraft:netherite_sword_smithing",
 "minecraft:netherite_upgrade_smithing_template",
 
+"minecraft:rotten_flesh",
 
+"minecraft:chorus_fruit",
 "minecraft:popped_chorus_fruit",
 
+===========================================================================================================
+TEMPORARY REMOVAL - MIGHT ADD BACK LATER
+===========================================================================================================
+
+"minecraft:lightning_rod",
+"minecraft:glass_pane",
+"minecraft:decorated_pot",
+"minecraft:goat_horn",
+
+"minecraft:skeleton_skull",
+"minecraft:player_head",
+"minecraft:creeper_head",
+"minecraft:wither_skeleton_skull",
+"minecraft:zombie_head",
+"minecraft:piglin_head",
+
+"minecraft:infested_stone",
+"minecraft:infested_cobblestone",
+"minecraft:infested_stone_bricks",
+"minecraft:infested_mossy_stone_bricks",
+"minecraft:infested_cracked_stone_bricks",
+"minecraft:infested_chiseled_stone_bricks",
+"minecraft:infested_deepslate",
+
+"minecraft:shield",
+"minecraft:shield_decoration",
+
+"minecraft:apple",
+"minecraft:carrot",
+"minecraft:golden_carrot",
+"minecraft:potato",
+"minecraft:baked_potato",
+"minecraft:poisonous_potato",
+"minecraft:beetroot",
+"minecraft:beetroot_seeds",
+"minecraft:beetroot_soup",
+"minecraft:dried_kelp",
+"minecraft:cooked_beef",
+"minecraft:beef",
+"minecraft:cooked_mutton",
+"minecraft:mutton",
+"minecraft:cooked_chicken",
+"minecraft:chicken",
+"minecraft:cooked_rabbit",
+"minecraft:rabbit",
+"minecraft:rabbit_stew",
+
+"minecraft:ghast_tear",
+
+"minecraft:brewing_stand",
+"minecraft:nether_wart",
+"minecraft:blaze_rod",
+"minecraft:blaze_powder",
+"minecraft:glistering_melon_slice",
+"minecraft:spider_eye",
+"minecraft:fermented_spider_eye",
+"minecraft:rabbit_foot",
+"minecraft:magma_cream",
+"minecraft:suspicious_stew",
+"minecraft:dragon_breath",
+
+"minecraft:potion",
+"minecraft:splash_potion",
+"minecraft:lingering_potion",
+
+"minecraft:music_disc_otherside",
+"minecraft:music_disc_5",
+"minecraft:music_disc_relic",
+
+
+"minecraft:emerald_ore",
+"minecraft:deepslate_emerald_ore",
 
 ===========================================================================================================
 IFFY
@@ -673,6 +796,18 @@ IFFY
 "minecraft:polished_blackstone_stairs_from_polished_blackstone_stonecutting",
 
 
+"minecraft:smooth_basalt",
+"minecraft:red_sandstone",
+"minecraft:red_sandstone_slab",
+"minecraft:red_sandstone_slab_from_red_sandstone_stonecutting",
+"minecraft:red_sandstone_stairs",
+"minecraft:red_sandstone_stairs_from_red_sandstone_stonecutting",
+"minecraft:smooth_red_sandstone",
+"minecraft:smooth_red_sandstone_slab",
+"minecraft:smooth_red_sandstone_slab_from_smooth_red_sandstone_stonecutting",
+"minecraft:smooth_red_sandstone_stairs",
+"minecraft:smooth_red_sandstone_stairs_from_smooth_red_sandstone_stonecutting",
+
 "minecraft:black_terracotta",
 "minecraft:blue_terracotta",
 "minecraft:brown_terracotta",
@@ -708,50 +843,24 @@ IFFY
 "minecraft:white_candle",
 "minecraft:yellow_candle",
 
-
-"minecraft:smooth_basalt",
-"minecraft:red_sandstone",
-"minecraft:red_sandstone_slab",
-"minecraft:red_sandstone_slab_from_red_sandstone_stonecutting",
-"minecraft:red_sandstone_stairs",
-"minecraft:red_sandstone_stairs_from_red_sandstone_stonecutting",
-"minecraft:smooth_red_sandstone",
-"minecraft:smooth_red_sandstone_slab",
-"minecraft:smooth_red_sandstone_slab_from_smooth_red_sandstone_stonecutting",
-"minecraft:smooth_red_sandstone_stairs",
-"minecraft:smooth_red_sandstone_stairs_from_smooth_red_sandstone_stonecutting",
-
-
-"minecraft:cooked_beef",
-"minecraft:cooked_beef_from_campfire_cooking",
-"minecraft:cooked_beef_from_smoking",
-"minecraft:cooked_chicken",
-"minecraft:cooked_chicken_from_campfire_cooking",
-"minecraft:cooked_chicken_from_smoking",
-"minecraft:cooked_mutton",
-"minecraft:cooked_mutton_from_campfire_cooking",
-"minecraft:cooked_mutton_from_smoking",
-
-
 "minecraft:dripstone_block",
-"minecraft:lightning_rod",
-"minecraft:glass_pane",
-
-
 "minecraft:moss_carpet",
 "minecraft:mossy_cobblestone_from_moss_block",
 "minecraft:spore_blossom",
 "minecraft:rooted_dirt",
 "minecraft:hanging_roots",
 
-"minecraft:repair_item",
+"minecraft:sweet_berries",
+"minecraft:glow_berries",
 
-"minecraft:shield",
-"minecraft:shield_decoration",
+"minecraft:anvil",
+"minecraft:repair_item",
+"minecraft:music_disc_pigstep",
 
 "minecraft:soul_campfire",
 "minecraft:soul_lantern",
 "minecraft:soul_torch",
+"minecraft:glow_item_frame",
 
 "minecraft:stonecutter",
 "minecraft:turtle_helmet",
@@ -762,6 +871,9 @@ FIND NEW RECIPE
 
 "minecraft:spyglass",
 "minecraft:sponge",
+"minecraft:bell",
+"minecraft:scaffolding",
+"minecraft:nametag",
 
 ===========================================================================================================
 KEEP
@@ -884,7 +996,7 @@ KEEP
 
 
 "minecraft:activator_rail",
-"minecraft:anvil",
+
 "minecraft:armor_dye",
 "minecraft:armor_stand",
 "minecraft:arrow",
@@ -1066,8 +1178,6 @@ KEEP
 "minecraft:furnace_minecart",
 "minecraft:glass",
 "minecraft:glass_bottle",
-"minecraft:glistering_melon_slice",
-"minecraft:glow_item_frame",
 "minecraft:glowstone",
 "minecraft:gold_block",
 "minecraft:gold_ingot_from_blasting_deepslate_gold_ore",
@@ -1255,15 +1365,10 @@ KEEP
 "minecraft:quartz_stairs",
 "minecraft:quartz_stairs_from_quartz_block_stonecutting",
 
-"minecraft:rabbit_stew_from_brown_mushroom",
-"minecraft:rabbit_stew_from_red_mushroom",
 "minecraft:rail",
-
 
 "minecraft:raw_gold",
 "minecraft:raw_iron",
-
-
 
 "minecraft:redstone",
 "minecraft:redstone_block",
@@ -1273,7 +1378,6 @@ KEEP
 "minecraft:redstone_from_smelting_redstone_ore",
 "minecraft:redstone_lamp",
 "minecraft:redstone_torch",
-
 "minecraft:repeater",
 
 
@@ -1282,8 +1386,6 @@ KEEP
 "minecraft:sandstone_slab_from_sandstone_stonecutting",
 "minecraft:sandstone_stairs",
 "minecraft:sandstone_stairs_from_sandstone_stonecutting",
-
-"minecraft:scaffolding",
 
 "minecraft:shears",
 "minecraft:slime_ball",
