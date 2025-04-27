@@ -41,9 +41,63 @@ globalExecutorParallelism = "default"
 	# 
 	enforceSafeWorldRandomAccess = "default"
 
+[clientSideConfig]
+
+	[clientSideConfig.modifyMaxVDConfig]
+		# (Default: true) Whether to modify maximum view distance
+		enabled = "default"
+		# (Default: 35) Max render distance allowed in game options
+		maxViewDistance = "default"
+
+[noTickViewDistance]
+	# (Default: true) Whether to enable no-tick view distance
+	enabled = "default"
+	# (Default: 2) No-tick view distance max concurrent chunk loads 
+	#  Lower this for a better latency and higher this for a faster loading
+	maxConcurrentChunkLoads = "default"
+	# (Default: true) Whether to use compatibility mode to send chunks 
+	#  This may fix some mod compatibility issues
+	compatibilityMode = "default"
+	# (Default: false) Whether to ensure correct chunks within normal render distance 
+	#  This will send chunks twice increasing network load
+	ensureChunkCorrectness = "default"
+
+[generalOptimizations]
+	# (Default: true) Whether to let async chunk request no longer block server thread
+	# (may cause incompatibility with other mods)
+	optimizeAsyncChunkRequest = "default"
+	# (Default: 100000) The task interval of mid-tick chunk tasks in nanoseconds (-1 to disable)  
+	# Mid-tick chunk tasks is to execute chunk tasks during server tick loop  
+	# to speed up chunk loading and generation  
+	# This helps chunks loading and generating under high MSPT but may raise  
+	# MSPT when chunks are loading or generating  
+	#  
+	# It is generally not recommended to adjust this value unless you know  
+	# what you are doing  
+	#  
+	# Incompatible with Dimensional Threading (dimthread)
+	# 
+	midTickChunkTasksInterval = "default"
+
+	[generalOptimizations.autoSave]
+		# (Default: ENHANCED) Defines how auto save should be handled  
+		# VANILLA: Use vanilla auto-save behavior (auto-save performed every tick during ticking)  
+		# ENHANCED: Use C2ME enhanced auto-save (auto-save performed when the server have spare time after ticking)  
+		# PERIODIC: Use pre-1.18 vanilla auto-save behavior (auto-save performed every 6000 ticks during ticking)  
+		#  
+		# Please preserve quotes so this config don't break
+		# 
+		mode = "default"
+		# (Default: 20000) Defines the delay in milliseconds between performing auto-save for a chunk  
+		# This is only used when mode is set to ENHANCED
+		# 
+		delay = "default"
+
 [ioSystem]
-	# (Default: true) Whether to use async chunk loading & unloading
-	async = "default"
+	# (Default: 8192) Soft limit for io worker nbt cache
+	chunkDataCacheSoftLimit = "default"
+	# (Default: 32678) Hard limit for io worker nbt cache
+	chunkDataCacheLimit = "default"
 	# (Default: -1) Defines which chunk compression should be used 
 	# -1 for Vanilla default  
 	# 1  for GZip (RFC1952) (Vanilla compatible) 
@@ -68,64 +122,12 @@ globalExecutorParallelism = "default"
 	gcFreeChunkSerializer = "default"
 	# (Default: false) Whether to use the optimized implementation of IO system
 	replaceImpl = "default"
-	# (Default: 8192) Soft limit for io worker nbt cache
-	chunkDataCacheSoftLimit = "default"
-	# (Default: 32678) Hard limit for io worker nbt cache
-	chunkDataCacheLimit = "default"
-
-[clientSideConfig]
-
-	[clientSideConfig.modifyMaxVDConfig]
-		# (Default: true) Whether to modify maximum view distance
-		enabled = "default"
-		# (Default: 35) Max render distance allowed in game options
-		maxViewDistance = "default"
-
-[generalOptimizations]
-	# (Default: 100000) The task interval of mid-tick chunk tasks in nanoseconds (-1 to disable)  
-	# Mid-tick chunk tasks is to execute chunk tasks during server tick loop  
-	# to speed up chunk loading and generation  
-	# This helps chunks loading and generating under high MSPT but may raise  
-	# MSPT when chunks are loading or generating  
-	#  
-	# It is generally not recommended to adjust this value unless you know  
-	# what you are doing  
-	#  
-	# Incompatible with Dimensional Threading (dimthread)
-	# 
-	midTickChunkTasksInterval = "default"
-	# (Default: true) Whether to let async chunk request no longer block server thread
-	# (may cause incompatibility with other mods)
-	optimizeAsyncChunkRequest = "default"
-
-	[generalOptimizations.autoSave]
-		# (Default: ENHANCED) Defines how auto save should be handled  
-		# VANILLA: Use vanilla auto-save behavior (auto-save performed every tick during ticking)  
-		# ENHANCED: Use C2ME enhanced auto-save (auto-save performed when the server have spare time after ticking)  
-		# PERIODIC: Use pre-1.18 vanilla auto-save behavior (auto-save performed every 6000 ticks during ticking)  
-		#  
-		# Please preserve quotes so this config don't break
-		# 
-		mode = "default"
-		# (Default: 20000) Defines the delay in milliseconds between performing auto-save for a chunk  
-		# This is only used when mode is set to ENHANCED
-		# 
-		delay = "default"
-
-[noTickViewDistance]
-	# (Default: true) Whether to use compatibility mode to send chunks 
-	#  This may fix some mod compatibility issues
-	compatibilityMode = "default"
-	# (Default: 2) No-tick view distance max concurrent chunk loads 
-	#  Lower this for a better latency and higher this for a faster loading
-	maxConcurrentChunkLoads = "default"
-	# (Default: false) Whether to ensure correct chunks within normal render distance 
-	#  This will send chunks twice increasing network load
-	ensureChunkCorrectness = "default"
-	# (Default: true) Whether to enable no-tick view distance
-	enabled = "default"
+	# (Default: true) Whether to use async chunk loading & unloading
+	async = "default"
 
 [threadedWorldGen]
+	# (Default: false) Whether to enable this feature
+	enabled = "default"
 	# (Default: true) Whether to allow feature generation (world decorations like trees, ores and etc.) run in parallel
 	# (may cause incompatibility with other mods)
 	allowThreadedFeatures = "default"
@@ -137,8 +139,6 @@ globalExecutorParallelism = "default"
 	# (may cause incompatibility with other mods)
 	# 
 	asyncScheduling = "default"
-	# (Default: false) Whether to enable this feature
-	enabled = "default"
 
 [vanillaWorldGenOptimizations]
 	# (Default: true) Whether to enable aquifer optimizations to accelerate overworld worldgen
