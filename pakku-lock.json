@@ -1219,7 +1219,7 @@
             ]
         },
         {
-            "pakku_id": "Qau77r4PjohnsKu3",
+            "pakku_id": "n68sG3RepXZf6K3x",
             "type": "RESOURCE_PACK",
             "side": "CLIENT",
             "slug": {
@@ -1235,26 +1235,6 @@
                 "modrinth": "BFzJ6aQL"
             },
             "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "golden-days-base-1.20.x-1.9.0.zip",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4596/125/golden-days-base-1.20.x-1.9.0.zip",
-                    "id": "4596125",
-                    "parent_id": "384081",
-                    "hashes": {
-                        "sha1": "57a8751dfdfaebb6eeac8aecec0931bbd5c49b88",
-                        "md5": "558049b368724d5b28762ebf224f92b6"
-                    },
-                    "required_dependencies": [
-                    ],
-                    "size": 6991646,
-                    "date_published": "2023-06-19T02:32:14.263Z"
-                },
                 {
                     "type": "modrinth",
                     "file_name": "golden-days-base-1.21.x-1.11.0.zip",
@@ -1290,6 +1270,31 @@
                     ],
                     "size": 8516735,
                     "date_published": "2024-07-27T05:34:03.125553Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "golden-days-base-1.21.x-1.11.0.zip",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.5",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.6",
+                        "1.20.4"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5570/230/golden-days-base-1.21.x-1.11.0.zip",
+                    "id": "5570230",
+                    "parent_id": "384081",
+                    "hashes": {
+                        "sha1": "192b098b6c6609b56c801625a1fb9c5ba84d4eba",
+                        "md5": "11b76c36d0eba8c0373367225551b703"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 8516735,
+                    "date_published": "2024-07-27T05:40:04.830Z"
                 }
             ]
         },
