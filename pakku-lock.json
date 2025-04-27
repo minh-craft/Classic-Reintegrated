@@ -10,7 +10,7 @@
         {
             "pakku_id": "Bsq60YG160267Izn",
             "pakku_links": [
-                "6PiCoDXnBVbrnF6B"
+                "xG4ClyMFvg7cJOXw"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -83,7 +83,7 @@
         {
             "pakku_id": "2mG0AlBfPbq1gjgn",
             "pakku_links": [
-                "6PiCoDXnBVbrnF6B"
+                "xG4ClyMFvg7cJOXw"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -129,7 +129,7 @@
         {
             "pakku_id": "eQYTKQhaVj4quZyY",
             "pakku_links": [
-                "6PiCoDXnBVbrnF6B"
+                "xG4ClyMFvg7cJOXw"
             ],
             "type": "MOD",
             "side": "CLIENT",
@@ -179,8 +179,7 @@
         {
             "pakku_id": "8X3xLg5QFljQ3x9R",
             "pakku_links": [
-                "Bsq60YG160267Izn",
-                "6PiCoDXnBVbrnF6B"
+                "xG4ClyMFvg7cJOXw"
             ],
             "type": "MOD",
             "side": "CLIENT",
@@ -189,38 +188,12 @@
                 "modrinth": "brb"
             },
             "name": {
-                "curseforge": "Better Recipe Books (+ Smithing Tables, Brewing Stands)",
                 "modrinth": "Better Recipe Book"
             },
             "id": {
-                "curseforge": "486485",
                 "modrinth": "vWIaVOTE"
             },
             "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "brb-1.10.0-rc5+1.20.0-1.jar",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/5460/989/brb-1.10.0-rc5+1.20.0-1.jar",
-                    "id": "5460989",
-                    "parent_id": "486485",
-                    "hashes": {
-                        "sha1": "72049c813f0cb38cdc0ed827a659e8e7fc7b9dbe",
-                        "md5": "8707c583485f7784aa17cab84446b63f"
-                    },
-                    "required_dependencies": [
-                        "419699"
-                    ],
-                    "size": 1228038,
-                    "date_published": "2024-06-23T02:31:40.417Z"
-                },
                 {
                     "type": "modrinth",
                     "file_name": "brb-1.10.0-rc5+1.20.0-1.jar",
@@ -626,7 +599,7 @@
             "pakku_id": "WCRzvHuq4rFmucG4",
             "pakku_links": [
                 "zY6aIALSjd0RWbYe",
-                "6PiCoDXnBVbrnF6B"
+                "xG4ClyMFvg7cJOXw"
             ],
             "type": "MOD",
             "side": "CLIENT",
@@ -787,8 +760,8 @@
         {
             "pakku_id": "LlUbRuQnYFOooQ8K",
             "pakku_links": [
-                "6PiCoDXnBVbrnF6B",
-                "HPrhYLuTsCJVmJYR"
+                "HPrhYLuTsCJVmJYR",
+                "xG4ClyMFvg7cJOXw"
             ],
             "type": "MOD",
             "side": "SERVER",
@@ -858,7 +831,7 @@
             ]
         },
         {
-            "pakku_id": "6PiCoDXnBVbrnF6B",
+            "pakku_id": "xG4ClyMFvg7cJOXw",
             "type": "MOD",
             "side": "BOTH",
             "slug": {
@@ -958,80 +931,6 @@
             ]
         },
         {
-            "pakku_id": "6gFMvir8bDsVp5EU",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "fastload",
-                "modrinth": "fastload"
-            },
-            "name": {
-                "curseforge": "Fastload",
-                "modrinth": "Fastload"
-            },
-            "id": {
-                "curseforge": "630620",
-                "modrinth": "kCpssoSb"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "Fastload+1.18.2-1.20-3.4.0.jar",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20",
-                        "1.20-Snapshot"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/4519/272/Fastload+1.18.2-1.20-3.4.0.jar",
-                    "id": "4519272",
-                    "parent_id": "630620",
-                    "hashes": {
-                        "sha1": "b57e4d594031638b0dc076a3b6e501f417700577",
-                        "md5": "094d9296ec2c575711b3c253548d77d8"
-                    },
-                    "required_dependencies": [
-                    ],
-                    "size": 567412,
-                    "date_published": "2023-05-03T07:15:32.770Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "Fastload+1.18.2-1.20-3.4.0.jar",
-                    "mc_versions": [
-                        "1.18.2",
-                        "1.19",
-                        "1.19.1",
-                        "1.19.2",
-                        "1.19.3",
-                        "1.19.4",
-                        "1.20",
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/kCpssoSb/versions/ys9T20o4/Fastload+1.18.2-1.20-3.4.0.jar",
-                    "id": "ys9T20o4",
-                    "parent_id": "kCpssoSb",
-                    "hashes": {
-                        "sha512": "024e9aa775037fe8727ac8aca55f68d2f6782dd87d099446f967ebbeb6eab73f0f0580eca100cb565f70bab02abce03239af0fca17248ceef2c05caa1cfcdd1e",
-                        "sha1": "b57e4d594031638b0dc076a3b6e501f417700577"
-                    },
-                    "required_dependencies": [
-                    ],
-                    "size": 567412,
-                    "date_published": "2023-05-03T07:15:33.055038Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "fnuzfpNmRHw6dNrz",
             "type": "MOD",
             "side": "BOTH",
@@ -1075,9 +974,9 @@
         {
             "pakku_id": "6c8aYY5rNska4Sbn",
             "pakku_links": [
-                "6PiCoDXnBVbrnF6B",
                 "LCWFmeUSJvxjGgRF",
-                "Bsq60YG160267Izn"
+                "Bsq60YG160267Izn",
+                "xG4ClyMFvg7cJOXw"
             ],
             "type": "MOD",
             "side": "CLIENT",
@@ -1555,8 +1454,8 @@
             "pakku_id": "Ec6xhhfP0NZ8ytL2",
             "pakku_links": [
                 "Bsq60YG160267Izn",
-                "6PiCoDXnBVbrnF6B",
-                "qVfm3mAeXk54OlS4"
+                "qVfm3mAeXk54OlS4",
+                "xG4ClyMFvg7cJOXw"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -1630,7 +1529,7 @@
         {
             "pakku_id": "R3eVjIqQN75Fazlo",
             "pakku_links": [
-                "6PiCoDXnBVbrnF6B"
+                "xG4ClyMFvg7cJOXw"
             ],
             "type": "MOD",
             "side": "CLIENT",
@@ -1810,7 +1709,7 @@
         {
             "pakku_id": "LCWFmeUSJvxjGgRF",
             "pakku_links": [
-                "6PiCoDXnBVbrnF6B"
+                "xG4ClyMFvg7cJOXw"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -2055,9 +1954,9 @@
         {
             "pakku_id": "9aBCxoGVEf3s492x",
             "pakku_links": [
-                "6PiCoDXnBVbrnF6B",
                 "Bsq60YG160267Izn",
-                "zY6aIALSjd0RWbYe"
+                "zY6aIALSjd0RWbYe",
+                "xG4ClyMFvg7cJOXw"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -2174,7 +2073,7 @@
         {
             "pakku_id": "GKaPzxlj3cBl2h2g",
             "pakku_links": [
-                "6PiCoDXnBVbrnF6B"
+                "xG4ClyMFvg7cJOXw"
             ],
             "type": "MOD",
             "side": "CLIENT",
@@ -2290,7 +2189,7 @@
             "pakku_id": "4KPlvpz1YkNPlazu",
             "pakku_links": [
                 "Bsq60YG160267Izn",
-                "6PiCoDXnBVbrnF6B"
+                "xG4ClyMFvg7cJOXw"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -2362,7 +2261,7 @@
         {
             "pakku_id": "nXcmvr3u7zk2miWq",
             "pakku_links": [
-                "6PiCoDXnBVbrnF6B"
+                "xG4ClyMFvg7cJOXw"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -2432,8 +2331,8 @@
         {
             "pakku_id": "6XZxdcrbksIqf9mi",
             "pakku_links": [
-                "6PiCoDXnBVbrnF6B",
-                "Ypo1ZyiwrvKyOa3T"
+                "Ypo1ZyiwrvKyOa3T",
+                "xG4ClyMFvg7cJOXw"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -2726,7 +2625,7 @@
             "pakku_id": "GLw8JPsJxhjBXlml",
             "pakku_links": [
                 "LCWFmeUSJvxjGgRF",
-                "6PiCoDXnBVbrnF6B"
+                "xG4ClyMFvg7cJOXw"
             ],
             "type": "MOD",
             "side": "SERVER",
@@ -2929,7 +2828,7 @@
         {
             "pakku_id": "2i14gPzcyckzbqkQ",
             "pakku_links": [
-                "6PiCoDXnBVbrnF6B"
+                "xG4ClyMFvg7cJOXw"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -3001,7 +2900,7 @@
         {
             "pakku_id": "HPrhYLuTsCJVmJYR",
             "pakku_links": [
-                "6PiCoDXnBVbrnF6B"
+                "xG4ClyMFvg7cJOXw"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -3071,7 +2970,7 @@
         {
             "pakku_id": "6bnkztGyERBa1Xbt",
             "pakku_links": [
-                "6PiCoDXnBVbrnF6B"
+                "xG4ClyMFvg7cJOXw"
             ],
             "type": "MOD",
             "side": "CLIENT",
@@ -3138,7 +3037,7 @@
         {
             "pakku_id": "8CuwWT4NpFV5fdw1",
             "pakku_links": [
-                "6PiCoDXnBVbrnF6B"
+                "xG4ClyMFvg7cJOXw"
             ],
             "type": "MOD",
             "side": "CLIENT",
@@ -3210,7 +3109,7 @@
         {
             "pakku_id": "Ypo1ZyiwrvKyOa3T",
             "pakku_links": [
-                "6PiCoDXnBVbrnF6B"
+                "xG4ClyMFvg7cJOXw"
             ],
             "type": "MOD",
             "side": "BOTH",
@@ -3289,6 +3188,74 @@
                     ],
                     "size": 568210,
                     "date_published": "2023-09-16T13:07:53.138794Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "Xp3xpuoRxwOLETkH",
+            "pakku_links": [
+                "xG4ClyMFvg7cJOXw"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "yacl",
+                "modrinth": "yacl"
+            },
+            "name": {
+                "curseforge": "YetAnotherConfigLib",
+                "modrinth": "YetAnotherConfigLib (YACL)"
+            },
+            "id": {
+                "curseforge": "667299",
+                "modrinth": "1eAoo2KR"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6336/639/yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar",
+                    "id": "6336639",
+                    "parent_id": "667299",
+                    "hashes": {
+                        "sha1": "dc5ac6c6c4d1e48e8e520b9a41b41e704e82cf55",
+                        "md5": "b6960b2defbf8cb1b983cffd261089ba"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 1294234,
+                    "date_published": "2025-03-23T19:08:29.347Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/1eAoo2KR/versions/dvS5DjUA/yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar",
+                    "id": "dvS5DjUA",
+                    "parent_id": "1eAoo2KR",
+                    "hashes": {
+                        "sha512": "20f282b3cdaec7c83a96840edb756336677c5816ed943145022f1ce1eafac0c9aa7c621939e15abe6f4309626738bc56d3d1b8434f5175d22e7409108630b02b",
+                        "sha1": "dc5ac6c6c4d1e48e8e520b9a41b41e704e82cf55"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 1294234,
+                    "date_published": "2025-03-23T19:08:30.358583Z"
                 }
             ]
         },
@@ -3479,6 +3446,71 @@
                     ],
                     "size": 6949,
                     "date_published": "2023-11-20T20:56:32.627Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "xfHDMntfR1sD9Ral",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "spark",
+                "modrinth": "spark"
+            },
+            "name": {
+                "curseforge": "spark",
+                "modrinth": "spark"
+            },
+            "id": {
+                "curseforge": "361579",
+                "modrinth": "l6YH9Als"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "spark-1.10.53-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/4738/953/spark-1.10.53-fabric.jar",
+                    "id": "4738953",
+                    "parent_id": "361579",
+                    "hashes": {
+                        "sha1": "252de323db10d2b49ef74f8e7a6a5c72929be140",
+                        "md5": "d590c2c10bb832130029c37d1bdd6bf9"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 3082974,
+                    "date_published": "2023-09-05T08:02:36.840Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "spark-1.10.53-fabric.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/XGW2fviP/spark-1.10.53-fabric.jar",
+                    "id": "XGW2fviP",
+                    "parent_id": "l6YH9Als",
+                    "hashes": {
+                        "sha512": "ce6e8f7071bb37369ad3e90d844926b424e82d0fe0ffd0db7058abddc9cfcdd594e145c9395677ad70ec532f3da0b23b6862d1f1c20f7600263c215abb4fcea7",
+                        "sha1": "252de323db10d2b49ef74f8e7a6a5c72929be140"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 3082974,
+                    "date_published": "2023-09-05T08:02:46.547456Z"
                 }
             ]
         }
