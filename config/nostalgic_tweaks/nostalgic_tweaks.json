@@ -378,7 +378,7 @@
     "fogBinding": -1,
     "oldNetherFog": true,
     "oldSunriseSunsetFog": true,
-    "oldDarkFog": true,
+    "oldDarkFog": false,
     "oldDynamicFogColor": false,
     "universalFogColor": "DISABLED",
     "useCustomOverworldFogDensity": false,
