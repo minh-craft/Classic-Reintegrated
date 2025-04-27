@@ -343,7 +343,7 @@
     "oldSmoothLighting": true,
     "disableSmoothLighting": false,
     "oldClassicEngine": false,
-    "smoothLightTransition": true,
+    "smoothLightTransition": false,
     "dynamicLightBrightness": false,
     "disableLightBrightness": true,
     "oldLightColor": true,

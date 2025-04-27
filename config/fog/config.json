@@ -8,7 +8,7 @@
 	"disableBiomeFogColour": true,
 	"disableCloudWhitening": false,
 	"initialFogStart": 0.1,
-	"initialFogEnd": 0.85,
+	"initialFogEnd": 0.95,
 	"raininessTransitionSpeed": 0.005,
 	"undergroundnessTransitionSpeed": 0.005,
 	"fogStartTransitionSpeed": 0.005,
