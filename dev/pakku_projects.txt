@@ -28,7 +28,7 @@ xaeros-world-map
 
 bbrb
 brb
-borderless-window
+borderless-mining
 hybrid-beta
 creative-fly
 fog
@@ -36,7 +36,7 @@ lessglintythings
 moderner-beta
 no-mining-cooldown
 nostalgic-tweaks
-snow-under-trees
+snow-under-trees-remastered
 lambdynamiclights
 yeetus-experimentus
 entity-model-features
