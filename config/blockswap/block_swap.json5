@@ -87,8 +87,6 @@ to make editing this file much easier.
 	"swapper": {
 		"minecraft:coarse_dirt": "minecraft:podzol",
 		"minecraft:crying_obsidian": "minecraft:obsidian",
-		"minecraft:tuff": "minecraft:gravel",
-		"minecraft:raw_iron_block": "minecraft:deepslate_iron_ore",
 		"minecraft:ancient_debris": "minecraft:netherrack"
 	 }
 }
