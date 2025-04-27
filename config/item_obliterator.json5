@@ -731,6 +731,10 @@
 "minecraft:deepslate_emerald_ore",
 
 "minecraft:sea_lantern",
+"minecraft:pearlescent_froglight",
+"minecraft:verdant_froglight",
+"minecraft:ochre_froglight",
+"minecraft:frogspawn",
 
 "minecraft:black_terracotta",
 "minecraft:blue_terracotta",
@@ -768,6 +772,8 @@
 "minecraft:cut_red_sandstone_slab_from_red_sandstone_stonecutting",
 "minecraft:chiseled_red_sandstone",
 "minecraft:chiseled_red_sandstone_from_red_sandstone_stonecutting",
+
+
 
   ],
   // -----------------------------------------------------------
