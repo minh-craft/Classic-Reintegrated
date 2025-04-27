@@ -1822,6 +1822,74 @@
             ]
         },
         {
+            "pakku_id": "ttLeVzUd4mwQNDvd",
+            "pakku_links": [
+                "xG4ClyMFvg7cJOXw"
+            ],
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "mob-filter",
+                "modrinth": "mobfilter"
+            },
+            "name": {
+                "curseforge": "MobFilter",
+                "modrinth": "Mob Filter"
+            },
+            "id": {
+                "curseforge": "569765",
+                "modrinth": "gRn1FzwR"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "mobfilter-0.4.3+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6124/542/mobfilter-0.4.3+1.20.1.jar",
+                    "id": "6124542",
+                    "parent_id": "569765",
+                    "hashes": {
+                        "sha1": "fc0a0ca516eb03781c8799eb2e66e08cc8518191",
+                        "md5": "d57f13242c69d3c8c53e06dd139a45e7"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 352669,
+                    "date_published": "2025-01-25T21:02:53.150Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "mobfilter-0.4.3+1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/gRn1FzwR/versions/n8tOB06w/mobfilter-0.4.3+1.20.1.jar",
+                    "id": "n8tOB06w",
+                    "parent_id": "gRn1FzwR",
+                    "hashes": {
+                        "sha512": "80b3aff28b8d9ced8fe75847f4691087f72f848fe94eb3b4acd6845c3d09e2a00377d7a43676cb8fc071e1d3d552f002d4b545b8b9e081e3631b3dc191cd03e0",
+                        "sha1": "fc0a0ca516eb03781c8799eb2e66e08cc8518191"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 352669,
+                    "date_published": "2025-01-25T21:02:58.183068Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "uka9b1gX9GGRPl91",
             "type": "MOD",
             "side": "CLIENT",
@@ -3446,71 +3514,6 @@
                     ],
                     "size": 6949,
                     "date_published": "2023-11-20T20:56:32.627Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "xfHDMntfR1sD9Ral",
-            "type": "MOD",
-            "side": "BOTH",
-            "slug": {
-                "curseforge": "spark",
-                "modrinth": "spark"
-            },
-            "name": {
-                "curseforge": "spark",
-                "modrinth": "spark"
-            },
-            "id": {
-                "curseforge": "361579",
-                "modrinth": "l6YH9Als"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "spark-1.10.53-fabric.jar",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/4738/953/spark-1.10.53-fabric.jar",
-                    "id": "4738953",
-                    "parent_id": "361579",
-                    "hashes": {
-                        "sha1": "252de323db10d2b49ef74f8e7a6a5c72929be140",
-                        "md5": "d590c2c10bb832130029c37d1bdd6bf9"
-                    },
-                    "required_dependencies": [
-                    ],
-                    "size": 3082974,
-                    "date_published": "2023-09-05T08:02:36.840Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "spark-1.10.53-fabric.jar",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/l6YH9Als/versions/XGW2fviP/spark-1.10.53-fabric.jar",
-                    "id": "XGW2fviP",
-                    "parent_id": "l6YH9Als",
-                    "hashes": {
-                        "sha512": "ce6e8f7071bb37369ad3e90d844926b424e82d0fe0ffd0db7058abddc9cfcdd594e145c9395677ad70ec532f3da0b23b6862d1f1c20f7600263c215abb4fcea7",
-                        "sha1": "252de323db10d2b49ef74f8e7a6a5c72929be140"
-                    },
-                    "required_dependencies": [
-                    ],
-                    "size": 3082974,
-                    "date_published": "2023-09-05T08:02:46.547456Z"
                 }
             ]
         }

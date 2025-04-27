@@ -1,7 +1,7 @@
 modmenu (instead of catalogue)
 sodium
 fast-async-world-save-forge-fabric
-fastload
+fastload (removed)
 ferrite-core
 c2me-fabric
 connectivity
@@ -25,6 +25,8 @@ paxi
 structurify
 world-preview
 xaeros-world-map
+mobfilter
+
 
 bbrb
 brb
