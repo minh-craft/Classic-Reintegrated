@@ -85,7 +85,8 @@ to make editing this file much easier.
 	   	}
 	*/
 	"swapper": {
-		"minecraft:coarse_dirt": "minecraft:podzol",
+		//"minecraft:podzol" : "minecraft:coarse_dirt",
+		//"minecraft:coarse_dirt": "minecraft:podzol",
 		"minecraft:crying_obsidian": "minecraft:obsidian",
 		"minecraft:ancient_debris": "minecraft:netherrack"
 	 }
