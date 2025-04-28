@@ -521,6 +521,75 @@
             ]
         },
         {
+            "pakku_id": "i1PwHtUInuruGKal",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "collective",
+                "modrinth": "collective"
+            },
+            "name": {
+                "curseforge": "Collective",
+                "modrinth": "Collective"
+            },
+            "id": {
+                "curseforge": "342584",
+                "modrinth": "e0M1UDsY"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "collective-1.20.1-8.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "neoforge",
+                        "forge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6429/218/collective-1.20.1-8.3.jar",
+                    "id": "6429218",
+                    "parent_id": "342584",
+                    "hashes": {
+                        "sha1": "ec387c40637a330661d9f4c3e59d93efc17046a2",
+                        "md5": "5b0b99ac79f68438ee0133ff6dfd53c5"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 657310,
+                    "date_published": "2025-04-16T14:08:24.710Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "collective-1.20.1-8.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "neoforge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/e0M1UDsY/versions/P0uRrvF9/collective-1.20.1-8.3.jar",
+                    "id": "P0uRrvF9",
+                    "parent_id": "e0M1UDsY",
+                    "hashes": {
+                        "sha512": "11263db68965bd7d727284ecfd84047d0085c647af1aa8903896946515742ae5ced21cf3b46497dcf5e35ff1f0db646dad2bc330b9c3997cf75b304d34e4f745",
+                        "sha1": "ec387c40637a330661d9f4c3e59d93efc17046a2"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 657310,
+                    "date_published": "2025-04-16T14:09:29.952582Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "dCRiLu7h5xUfOgSr",
             "type": "MOD",
             "side": "BOTH",
@@ -1707,6 +1776,47 @@
             ]
         },
         {
+            "pakku_id": "zzjpVpSIhL7MI2uA",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "lootjs",
+                "modrinth": "lootjs"
+            },
+            "name": {
+                "curseforge": "LootJS: KubeJS Addon",
+                "modrinth": "LootJS: KubeJS Addon"
+            },
+            "id": {
+                "curseforge": "570630",
+                "modrinth": "fJFETWDN"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "lootjs-fabric-1.20.1-2.12.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/fJFETWDN/versions/4bA9z4Qr/lootjs-fabric-1.20.1-2.12.0.jar",
+                    "id": "4bA9z4Qr",
+                    "parent_id": "fJFETWDN",
+                    "hashes": {
+                        "sha512": "18afd3cd0be3e3ca5dc1a61a3fbbe322ff40175ac2653f4066c772e45a6b03f58fe223cd08ca56118720fcfd490f272b496e802b8aba428e34ba847b3ae88eb2",
+                        "sha1": "adf7c51350801872af155343381a0d39418c129f"
+                    },
+                    "required_dependencies": [
+                    ],
+                    "size": 196484,
+                    "date_published": "2024-06-06T20:16:03.109680Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "LCWFmeUSJvxjGgRF",
             "pakku_links": [
                 "xG4ClyMFvg7cJOXw"
@@ -2063,6 +2173,80 @@
                     ],
                     "size": 2181167,
                     "date_published": "2025-04-20T10:08:48.175085Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "rPQnOugLLgTjUmPq",
+            "pakku_links": [
+                "i1PwHtUInuruGKal"
+            ],
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "name-tag-tweaks",
+                "modrinth": "name-tag-tweaks"
+            },
+            "name": {
+                "curseforge": "Name Tag Tweaks",
+                "modrinth": "Name Tag Tweaks"
+            },
+            "id": {
+                "curseforge": "391972",
+                "modrinth": "LrLZEnPl"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "nametagtweaks-1.20.1-4.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "neoforge",
+                        "forge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6185/524/nametagtweaks-1.20.1-4.0.jar",
+                    "id": "6185524",
+                    "parent_id": "391972",
+                    "hashes": {
+                        "sha1": "c949aaf46cf8620a9abf5681e13944e2174f5042",
+                        "md5": "ed83bf771cc6b8c38bc82f6cc3b77a6a"
+                    },
+                    "required_dependencies": [
+                        "342584"
+                    ],
+                    "size": 28105,
+                    "date_published": "2025-02-12T15:09:40.427Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "nametagtweaks-1.20.1-4.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "neoforge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/LrLZEnPl/versions/xFDnAS8R/nametagtweaks-1.20.1-4.0.jar",
+                    "id": "xFDnAS8R",
+                    "parent_id": "LrLZEnPl",
+                    "hashes": {
+                        "sha512": "1ff3ecc2ca7968b9a6f559d7979503ba571f79c9f34bebe17333b83671b4855a87775f36f7aaa151d271a5a1647cbe8131d0d4fad425211a6ad326b4f62c34f8",
+                        "sha1": "c949aaf46cf8620a9abf5681e13944e2174f5042"
+                    },
+                    "required_dependencies": [
+                        "e0M1UDsY"
+                    ],
+                    "size": 28105,
+                    "date_published": "2025-02-12T15:09:52.091722Z"
                 }
             ]
         },
