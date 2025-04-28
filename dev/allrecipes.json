@@ -767,6 +767,8 @@ TEMPORARY REMOVAL - MIGHT ADD BACK LATER
 "minecraft:mud_bricks",
 "minecraft:mud_brick_stairs",
 "minecraft:mud_brick_slab",
+"minecraft:rooted_dirt",
+"minecraft:hanging_roots",
 
 "minecraft:turtle_helmet",
 "minecraft:turtle_egg",
