@@ -32,3 +32,4 @@ config/world_preview
 /config/embeddium-options.json
 /config/indium-renderer.properties
 rhino.local.properties
+config/indium-renderer.properties
