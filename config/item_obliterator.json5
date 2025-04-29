@@ -785,7 +785,9 @@
 "minecraft:turtle_helmet",
 "minecraft:turtle_egg",
 
-
+"minecraft:anvil",
+"minecraft:chipped_anvil",
+"minecraft:damaged_anvil",
 
 
   ],

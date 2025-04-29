@@ -773,6 +773,10 @@ TEMPORARY REMOVAL - MIGHT ADD BACK LATER
 "minecraft:turtle_helmet",
 "minecraft:turtle_egg",
 
+"minecraft:anvil",
+"minecraft:chipped_anvil",
+"minecraft:damaged_anvil",
+
 
 ===========================================================================================================
 IFFY
@@ -883,7 +887,6 @@ IFFY
 "minecraft:sweet_berries",
 "minecraft:glow_berries",
 
-"minecraft:anvil",
 "minecraft:repair_item",
 "minecraft:music_disc_pigstep",
 
