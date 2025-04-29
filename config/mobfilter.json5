@@ -10,7 +10,7 @@
   rules : [
     {
       // what's left?
-      // overworld: chicken, cow, pig, sheep, squid, parrot, bat, wolf, iron golem, snow golem
+      // overworld: chicken, cow, pig, sheep, squid, parrot, bat, wolf, iron golem, snow golem, bee
       // nether: piglin, zombified piglin
       name : 'Disable certain new passive mobs',
       what : 'DISALLOW_SPAWN',
@@ -38,31 +38,30 @@
           // 'minecraft:cat', // can't spawn anyways
           'minecraft:panda',
           'minecraft:skeleton_horse',
-          'minecraft:strider',
-          'minecraft:bee'
+          'minecraft:strider'
+        ]
+      }
+    },
+    {
+      // What's left?
+      // overworld: creeper, zombie, skeleton, spider, slime, enderman
+      // nether: wither skeleton, magma cube, blaze, ghast, piglin brute, hoglin, zoglin
+      name : 'Disable certain new hostile mobs',
+      what : 'DISALLOW_SPAWN',
+      when : {
+        entityId : [ 
+          // 'minecraft:cave_spider', // can't spawn anyways
+          'minecraft:drowned',
+          // 'minecraft:elder_guardian', // can't spawn anyways
+          'minecraft:guardian',
+          'minecraft:endermite',
+          'minecraft:husk',
+          'minecraft:stray',
+          'minecraft:witch',
+          'minecraft:zombie_villager'
         ]
       }
     }
-    // {
-    //   // What's left?
-    //   // overworld: creeper, zombie, skeleton, spider, slime, enderman
-    //   // nether: wither skeleton, magma cube, blaze, ghast, piglin brute, hoglin, zoglin
-    //   name : 'Disable certain new hostile mobs',
-    //   what : 'DISALLOW_SPAWN',
-    //   when : {
-    //     entityId : [ 
-    //       // 'minecraft:cave_spider', // can't spawn anyways
-    //       'minecraft:drowned',
-    //       // 'minecraft:elder_guardian', // can't spawn anyways
-    //       'minecraft:guardian',
-    //       'minecraft:endermite',
-    //       'minecraft:husk',
-    //       'minecraft:stray',
-    //       'minecraft:witch',
-    //       'minecraft:zombie_villager'
-    //     ]
-    //   }
-    // }
   ],
 
   // If you're having trouble, change this to DEBUG or TRACE

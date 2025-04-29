@@ -1,0 +1,61 @@
+modmenu (instead of catalogue)
+sodium
+fast-async-world-save-forge-fabric
+fastload (removed)
+ferrite-core
+c2me-fabric
+connectivity
+immediatelyfast
+krypton (reforged)
+despawn-tweaks
+modernfix
+noisium
+lithium (radium)
+recipe-essentials-forge-fabric
+starlight
+fix-gpu-memory-leak
+
+biome-replacer
+block-swap
+default-options
+item-obliterator
+kubejs
+patched
+paxi
+structurify
+world-preview
+xaeros-world-map
+mobfilter
+
+
+bbrb
+brb
+borderless-mining
+hybrid-beta
+creative-fly
+fog
+lessglintythings
+moderner-beta
+no-mining-cooldown
+nostalgic-tweaks
+snow-under-trees-remastered
+lambdynamiclights
+yeetus-experimentus
+entity-model-features
+entitytexturefeatures
+
+preferred-gamerules (migrate from global gamerules)
+
+gerudoku-faithful
+golden-days
+golden-days-music
+minecraft-classic-edition
+pacp
+programmer-art-ultimate
+
+
+
+
+
+
+
