@@ -30,5 +30,5 @@ config/world_preview
 /config/embeddium-fingerprint.json
 /config/embeddium-mixins.properties
 /config/embeddium-options.json
-config/indium-renderer.properties
+/config/indium-renderer.properties
 rhino.local.properties
