@@ -114,7 +114,7 @@
 523, ocean, minecraft:deep_ocean, WATER_CREATURE, minecraft:dolphin, 1, 1, 2
 524, ocean, minecraft:deep_ocean, WATER_AMBIENT, minecraft:cod, 10, 3, 6
 525, desert, minecraft:desert, MONSTER, minecraft:spider, 100, 4, 4
-526, desert, minecraft:desert, MONSTER, minecraft:zombie, 19, 4, 4
+526, desert, minecraft:desert, MONSTER, minecraft:zombie, 100, 4, 4
 528, desert, minecraft:desert, MONSTER, minecraft:skeleton, 100, 4, 4
 529, desert, minecraft:desert, MONSTER, minecraft:creeper, 100, 4, 4
 530, desert, minecraft:desert, MONSTER, minecraft:slime, 100, 4, 4
@@ -367,7 +367,7 @@
 1452, beach, minecraft:snowy_beach, UNDERGROUND_WATER_CREATURE, minecraft:glow_squid, 10, 4, 6
 1453, icy, minecraft:snowy_plains, MONSTER, minecraft:spider, 100, 4, 4
 1454, icy, minecraft:snowy_plains, MONSTER, minecraft:zombie, 100, 4, 4
-1456, icy, minecraft:snowy_plains, MONSTER, minecraft:skeleton, 20, 4, 4
+1456, icy, minecraft:snowy_plains, MONSTER, minecraft:skeleton, 100, 4, 4
 1457, icy, minecraft:snowy_plains, MONSTER, minecraft:creeper, 100, 4, 4
 1458, icy, minecraft:snowy_plains, MONSTER, minecraft:slime, 100, 4, 4
 1459, icy, minecraft:snowy_plains, MONSTER, minecraft:enderman, 10, 1, 4
