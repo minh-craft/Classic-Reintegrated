@@ -2,8 +2,7 @@
 75, nether, minecraft:basalt_deltas, MONSTER, minecraft:magma_cube, 100, 2, 5
 76, nether, minecraft:basalt_deltas, CREATURE, minecraft:strider, 60, 1, 2
 77, beach, minecraft:beach, MONSTER, minecraft:spider, 100, 4, 4
-78, beach, minecraft:beach, MONSTER, minecraft:zombie, 95, 4, 4
-79, beach, minecraft:beach, MONSTER, minecraft:zombie_villager, 5, 1, 1
+78, beach, minecraft:beach, MONSTER, minecraft:zombie, 100, 4, 4
 80, beach, minecraft:beach, MONSTER, minecraft:skeleton, 100, 4, 4
 81, beach, minecraft:beach, MONSTER, minecraft:creeper, 100, 4, 4
 82, beach, minecraft:beach, MONSTER, minecraft:slime, 100, 4, 4
@@ -13,8 +12,7 @@
 86, beach, minecraft:beach, AMBIENT, minecraft:bat, 10, 8, 8
 87, beach, minecraft:beach, UNDERGROUND_WATER_CREATURE, minecraft:glow_squid, 10, 4, 6
 407, extreme_hills, minecraft:cherry_grove, MONSTER, minecraft:spider, 100, 4, 4
-408, extreme_hills, minecraft:cherry_grove, MONSTER, minecraft:zombie, 95, 4, 4
-409, extreme_hills, minecraft:cherry_grove, MONSTER, minecraft:zombie_villager, 5, 1, 1
+408, extreme_hills, minecraft:cherry_grove, MONSTER, minecraft:zombie, 100, 4, 4
 410, extreme_hills, minecraft:cherry_grove, MONSTER, minecraft:skeleton, 100, 4, 4
 411, extreme_hills, minecraft:cherry_grove, MONSTER, minecraft:creeper, 100, 4, 4
 412, extreme_hills, minecraft:cherry_grove, MONSTER, minecraft:slime, 100, 4, 4
@@ -26,8 +24,7 @@
 418, extreme_hills, minecraft:cherry_grove, AMBIENT, minecraft:bat, 10, 8, 8
 419, extreme_hills, minecraft:cherry_grove, UNDERGROUND_WATER_CREATURE, minecraft:glow_squid, 10, 4, 6
 435, ocean, minecraft:cold_ocean, MONSTER, minecraft:spider, 100, 4, 4
-436, ocean, minecraft:cold_ocean, MONSTER, minecraft:zombie, 95, 4, 4
-437, ocean, minecraft:cold_ocean, MONSTER, minecraft:zombie_villager, 5, 1, 1
+436, ocean, minecraft:cold_ocean, MONSTER, minecraft:zombie, 100, 4, 4
 438, ocean, minecraft:cold_ocean, MONSTER, minecraft:skeleton, 100, 4, 4
 439, ocean, minecraft:cold_ocean, MONSTER, minecraft:creeper, 100, 4, 4
 440, ocean, minecraft:cold_ocean, MONSTER, minecraft:slime, 100, 4, 4
@@ -44,8 +41,7 @@
 451, nether, minecraft:crimson_forest, MONSTER, minecraft:piglin, 5, 3, 4
 452, nether, minecraft:crimson_forest, CREATURE, minecraft:strider, 60, 1, 2
 453, forest, minecraft:dark_forest, MONSTER, minecraft:spider, 100, 4, 4
-454, forest, minecraft:dark_forest, MONSTER, minecraft:zombie, 95, 4, 4
-455, forest, minecraft:dark_forest, MONSTER, minecraft:zombie_villager, 5, 1, 1
+454, forest, minecraft:dark_forest, MONSTER, minecraft:zombie, 100, 4, 4
 456, forest, minecraft:dark_forest, MONSTER, minecraft:skeleton, 100, 4, 4
 457, forest, minecraft:dark_forest, MONSTER, minecraft:creeper, 100, 4, 4
 458, forest, minecraft:dark_forest, MONSTER, minecraft:slime, 100, 4, 4
@@ -58,8 +54,7 @@
 465, forest, minecraft:dark_forest, AMBIENT, minecraft:bat, 10, 8, 8
 466, forest, minecraft:dark_forest, UNDERGROUND_WATER_CREATURE, minecraft:glow_squid, 10, 4, 6
 467, ocean, minecraft:deep_cold_ocean, MONSTER, minecraft:spider, 100, 4, 4
-468, ocean, minecraft:deep_cold_ocean, MONSTER, minecraft:zombie, 95, 4, 4
-469, ocean, minecraft:deep_cold_ocean, MONSTER, minecraft:zombie_villager, 5, 1, 1
+468, ocean, minecraft:deep_cold_ocean, MONSTER, minecraft:zombie, 100, 4, 4
 470, ocean, minecraft:deep_cold_ocean, MONSTER, minecraft:skeleton, 100, 4, 4
 471, ocean, minecraft:deep_cold_ocean, MONSTER, minecraft:creeper, 100, 4, 4
 472, ocean, minecraft:deep_cold_ocean, MONSTER, minecraft:slime, 100, 4, 4
@@ -72,8 +67,7 @@
 479, ocean, minecraft:deep_cold_ocean, WATER_AMBIENT, minecraft:cod, 15, 3, 6
 480, ocean, minecraft:deep_cold_ocean, WATER_AMBIENT, minecraft:salmon, 15, 1, 5
 481, ocean, minecraft:deep_frozen_ocean, MONSTER, minecraft:spider, 100, 4, 4
-482, ocean, minecraft:deep_frozen_ocean, MONSTER, minecraft:zombie, 95, 4, 4
-483, ocean, minecraft:deep_frozen_ocean, MONSTER, minecraft:zombie_villager, 5, 1, 1
+482, ocean, minecraft:deep_frozen_ocean, MONSTER, minecraft:zombie, 100, 4, 4
 484, ocean, minecraft:deep_frozen_ocean, MONSTER, minecraft:skeleton, 100, 4, 4
 485, ocean, minecraft:deep_frozen_ocean, MONSTER, minecraft:creeper, 100, 4, 4
 486, ocean, minecraft:deep_frozen_ocean, MONSTER, minecraft:slime, 100, 4, 4
@@ -86,8 +80,7 @@
 493, ocean, minecraft:deep_frozen_ocean, WATER_CREATURE, minecraft:squid, 1, 1, 4
 494, ocean, minecraft:deep_frozen_ocean, WATER_AMBIENT, minecraft:salmon, 15, 1, 5
 495, ocean, minecraft:deep_lukewarm_ocean, MONSTER, minecraft:spider, 100, 4, 4
-496, ocean, minecraft:deep_lukewarm_ocean, MONSTER, minecraft:zombie, 95, 4, 4
-497, ocean, minecraft:deep_lukewarm_ocean, MONSTER, minecraft:zombie_villager, 5, 1, 1
+496, ocean, minecraft:deep_lukewarm_ocean, MONSTER, minecraft:zombie, 100, 4, 4
 498, ocean, minecraft:deep_lukewarm_ocean, MONSTER, minecraft:skeleton, 100, 4, 4
 499, ocean, minecraft:deep_lukewarm_ocean, MONSTER, minecraft:creeper, 100, 4, 4
 500, ocean, minecraft:deep_lukewarm_ocean, MONSTER, minecraft:slime, 100, 4, 4
@@ -102,8 +95,7 @@
 509, ocean, minecraft:deep_lukewarm_ocean, WATER_AMBIENT, minecraft:pufferfish, 5, 1, 3
 510, ocean, minecraft:deep_lukewarm_ocean, WATER_AMBIENT, minecraft:tropical_fish, 25, 8, 8
 511, ocean, minecraft:deep_ocean, MONSTER, minecraft:spider, 100, 4, 4
-512, ocean, minecraft:deep_ocean, MONSTER, minecraft:zombie, 95, 4, 4
-513, ocean, minecraft:deep_ocean, MONSTER, minecraft:zombie_villager, 5, 1, 1
+512, ocean, minecraft:deep_ocean, MONSTER, minecraft:zombie, 100, 4, 4
 514, ocean, minecraft:deep_ocean, MONSTER, minecraft:skeleton, 100, 4, 4
 515, ocean, minecraft:deep_ocean, MONSTER, minecraft:creeper, 100, 4, 4
 516, ocean, minecraft:deep_ocean, MONSTER, minecraft:slime, 100, 4, 4
@@ -117,7 +109,6 @@
 524, ocean, minecraft:deep_ocean, WATER_AMBIENT, minecraft:cod, 10, 3, 6
 525, desert, minecraft:desert, MONSTER, minecraft:spider, 100, 4, 4
 526, desert, minecraft:desert, MONSTER, minecraft:zombie, 19, 4, 4
-527, desert, minecraft:desert, MONSTER, minecraft:zombie_villager, 1, 1, 1
 528, desert, minecraft:desert, MONSTER, minecraft:skeleton, 100, 4, 4
 529, desert, minecraft:desert, MONSTER, minecraft:creeper, 100, 4, 4
 530, desert, minecraft:desert, MONSTER, minecraft:slime, 100, 4, 4
@@ -128,8 +119,7 @@
 535, desert, minecraft:desert, AMBIENT, minecraft:bat, 10, 8, 8
 536, desert, minecraft:desert, UNDERGROUND_WATER_CREATURE, minecraft:glow_squid, 10, 4, 6
 537, private, minecraft:dripstone_caves, MONSTER, minecraft:spider, 100, 4, 4
-538, private, minecraft:dripstone_caves, MONSTER, minecraft:zombie, 95, 4, 4
-539, private, minecraft:dripstone_caves, MONSTER, minecraft:zombie_villager, 5, 1, 1
+538, private, minecraft:dripstone_caves, MONSTER, minecraft:zombie, 100, 4, 4
 540, private, minecraft:dripstone_caves, MONSTER, minecraft:skeleton, 100, 4, 4
 541, private, minecraft:dripstone_caves, MONSTER, minecraft:creeper, 100, 4, 4
 542, private, minecraft:dripstone_caves, MONSTER, minecraft:slime, 100, 4, 4
@@ -139,8 +129,7 @@
 546, private, minecraft:dripstone_caves, AMBIENT, minecraft:bat, 10, 8, 8
 547, private, minecraft:dripstone_caves, UNDERGROUND_WATER_CREATURE, minecraft:glow_squid, 10, 4, 6
 638, forest, minecraft:forest, MONSTER, minecraft:spider, 100, 4, 4
-639, forest, minecraft:forest, MONSTER, minecraft:zombie, 95, 4, 4
-640, forest, minecraft:forest, MONSTER, minecraft:zombie_villager, 5, 1, 1
+639, forest, minecraft:forest, MONSTER, minecraft:zombie, 100, 4, 4
 641, forest, minecraft:forest, MONSTER, minecraft:skeleton, 100, 4, 4
 642, forest, minecraft:forest, MONSTER, minecraft:creeper, 100, 4, 4
 643, forest, minecraft:forest, MONSTER, minecraft:slime, 100, 4, 4
@@ -154,8 +143,7 @@
 651, forest, minecraft:forest, AMBIENT, minecraft:bat, 10, 8, 8
 652, forest, minecraft:forest, UNDERGROUND_WATER_CREATURE, minecraft:glow_squid, 10, 4, 6
 653, ocean, minecraft:frozen_ocean, MONSTER, minecraft:spider, 100, 4, 4
-654, ocean, minecraft:frozen_ocean, MONSTER, minecraft:zombie, 95, 4, 4
-655, ocean, minecraft:frozen_ocean, MONSTER, minecraft:zombie_villager, 5, 1, 1
+654, ocean, minecraft:frozen_ocean, MONSTER, minecraft:zombie, 100, 4, 4
 656, ocean, minecraft:frozen_ocean, MONSTER, minecraft:skeleton, 100, 4, 4
 657, ocean, minecraft:frozen_ocean, MONSTER, minecraft:creeper, 100, 4, 4
 658, ocean, minecraft:frozen_ocean, MONSTER, minecraft:slime, 100, 4, 4
@@ -168,8 +156,7 @@
 665, ocean, minecraft:frozen_ocean, WATER_CREATURE, minecraft:squid, 1, 1, 4
 666, ocean, minecraft:frozen_ocean, WATER_AMBIENT, minecraft:salmon, 15, 1, 5
 678, river, minecraft:frozen_river, MONSTER, minecraft:spider, 100, 4, 4
-679, river, minecraft:frozen_river, MONSTER, minecraft:zombie, 95, 4, 4
-680, river, minecraft:frozen_river, MONSTER, minecraft:zombie_villager, 5, 1, 1
+679, river, minecraft:frozen_river, MONSTER, minecraft:zombie, 100, 4, 4
 681, river, minecraft:frozen_river, MONSTER, minecraft:skeleton, 100, 4, 4
 682, river, minecraft:frozen_river, MONSTER, minecraft:creeper, 100, 4, 4
 683, river, minecraft:frozen_river, MONSTER, minecraft:slime, 100, 4, 4
@@ -181,8 +168,7 @@
 689, river, minecraft:frozen_river, WATER_CREATURE, minecraft:squid, 2, 1, 4
 690, river, minecraft:frozen_river, WATER_AMBIENT, minecraft:salmon, 5, 2, 5
 866, jungle, minecraft:jungle, MONSTER, minecraft:spider, 100, 4, 4
-867, jungle, minecraft:jungle, MONSTER, minecraft:zombie, 95, 4, 4
-868, jungle, minecraft:jungle, MONSTER, minecraft:zombie_villager, 5, 1, 1
+867, jungle, minecraft:jungle, MONSTER, minecraft:zombie, 100, 4, 4
 869, jungle, minecraft:jungle, MONSTER, minecraft:skeleton, 100, 4, 4
 870, jungle, minecraft:jungle, MONSTER, minecraft:creeper, 100, 4, 4
 871, jungle, minecraft:jungle, MONSTER, minecraft:slime, 100, 4, 4
@@ -199,8 +185,7 @@
 882, jungle, minecraft:jungle, AMBIENT, minecraft:bat, 10, 8, 8
 883, jungle, minecraft:jungle, UNDERGROUND_WATER_CREATURE, minecraft:glow_squid, 10, 4, 6
 964, ocean, minecraft:lukewarm_ocean, MONSTER, minecraft:spider, 100, 4, 4
-965, ocean, minecraft:lukewarm_ocean, MONSTER, minecraft:zombie, 95, 4, 4
-966, ocean, minecraft:lukewarm_ocean, MONSTER, minecraft:zombie_villager, 5, 1, 1
+965, ocean, minecraft:lukewarm_ocean, MONSTER, minecraft:zombie, 100, 4, 4
 967, ocean, minecraft:lukewarm_ocean, MONSTER, minecraft:skeleton, 100, 4, 4
 968, ocean, minecraft:lukewarm_ocean, MONSTER, minecraft:creeper, 100, 4, 4
 969, ocean, minecraft:lukewarm_ocean, MONSTER, minecraft:slime, 100, 4, 4
@@ -215,8 +200,7 @@
 978, ocean, minecraft:lukewarm_ocean, WATER_AMBIENT, minecraft:pufferfish, 5, 1, 3
 979, ocean, minecraft:lukewarm_ocean, WATER_AMBIENT, minecraft:tropical_fish, 25, 8, 8
 980, private, minecraft:lush_caves, MONSTER, minecraft:spider, 100, 4, 4
-981, private, minecraft:lush_caves, MONSTER, minecraft:zombie, 95, 4, 4
-982, private, minecraft:lush_caves, MONSTER, minecraft:zombie_villager, 5, 1, 1
+981, private, minecraft:lush_caves, MONSTER, minecraft:zombie, 100, 4, 4
 983, private, minecraft:lush_caves, MONSTER, minecraft:skeleton, 100, 4, 4
 984, private, minecraft:lush_caves, MONSTER, minecraft:creeper, 100, 4, 4
 985, private, minecraft:lush_caves, MONSTER, minecraft:slime, 100, 4, 4
@@ -227,8 +211,7 @@
 990, private, minecraft:lush_caves, UNDERGROUND_WATER_CREATURE, minecraft:glow_squid, 10, 4, 6
 991, private, minecraft:lush_caves, WATER_AMBIENT, minecraft:tropical_fish, 25, 8, 8
 992, private, minecraft:mangrove_swamp, MONSTER, minecraft:spider, 100, 4, 4
-993, private, minecraft:mangrove_swamp, MONSTER, minecraft:zombie, 95, 4, 4
-994, private, minecraft:mangrove_swamp, MONSTER, minecraft:zombie_villager, 5, 1, 1
+993, private, minecraft:mangrove_swamp, MONSTER, minecraft:zombie, 100, 4, 4
 995, private, minecraft:mangrove_swamp, MONSTER, minecraft:skeleton, 100, 4, 4
 996, private, minecraft:mangrove_swamp, MONSTER, minecraft:creeper, 100, 4, 4
 997, private, minecraft:mangrove_swamp, MONSTER, minecraft:slime, 100, 4, 4
@@ -249,8 +232,7 @@
 1025, nether, minecraft:nether_wastes, MONSTER, minecraft:piglin, 15, 4, 4
 1026, nether, minecraft:nether_wastes, CREATURE, minecraft:strider, 60, 1, 2
 1027, ocean, minecraft:ocean, MONSTER, minecraft:spider, 100, 4, 4
-1028, ocean, minecraft:ocean, MONSTER, minecraft:zombie, 95, 4, 4
-1029, ocean, minecraft:ocean, MONSTER, minecraft:zombie_villager, 5, 1, 1
+1028, ocean, minecraft:ocean, MONSTER, minecraft:zombie, 100, 4, 4
 1030, ocean, minecraft:ocean, MONSTER, minecraft:skeleton, 100, 4, 4
 1031, ocean, minecraft:ocean, MONSTER, minecraft:creeper, 100, 4, 4
 1032, ocean, minecraft:ocean, MONSTER, minecraft:slime, 100, 4, 4
@@ -264,7 +246,6 @@
 1040, ocean, minecraft:ocean, WATER_AMBIENT, minecraft:cod, 10, 3, 6
 1055, taiga, minecraft:old_growth_pine_taiga, MONSTER, minecraft:spider, 100, 4, 4
 1056, taiga, minecraft:old_growth_pine_taiga, MONSTER, minecraft:zombie, 100, 4, 4
-1057, taiga, minecraft:old_growth_pine_taiga, MONSTER, minecraft:zombie_villager, 25, 1, 1
 1058, taiga, minecraft:old_growth_pine_taiga, MONSTER, minecraft:skeleton, 100, 4, 4
 1059, taiga, minecraft:old_growth_pine_taiga, MONSTER, minecraft:creeper, 100, 4, 4
 1060, taiga, minecraft:old_growth_pine_taiga, MONSTER, minecraft:slime, 100, 4, 4
@@ -280,8 +261,7 @@
 1070, taiga, minecraft:old_growth_pine_taiga, AMBIENT, minecraft:bat, 10, 8, 8
 1071, taiga, minecraft:old_growth_pine_taiga, UNDERGROUND_WATER_CREATURE, minecraft:glow_squid, 10, 4, 6
 1072, taiga, minecraft:old_growth_spruce_taiga, MONSTER, minecraft:spider, 100, 4, 4
-1073, taiga, minecraft:old_growth_spruce_taiga, MONSTER, minecraft:zombie, 95, 4, 4
-1074, taiga, minecraft:old_growth_spruce_taiga, MONSTER, minecraft:zombie_villager, 5, 1, 1
+1073, taiga, minecraft:old_growth_spruce_taiga, MONSTER, minecraft:zombie, 100, 4, 4
 1075, taiga, minecraft:old_growth_spruce_taiga, MONSTER, minecraft:skeleton, 100, 4, 4
 1076, taiga, minecraft:old_growth_spruce_taiga, MONSTER, minecraft:creeper, 100, 4, 4
 1077, taiga, minecraft:old_growth_spruce_taiga, MONSTER, minecraft:slime, 100, 4, 4
@@ -297,8 +277,7 @@
 1087, taiga, minecraft:old_growth_spruce_taiga, AMBIENT, minecraft:bat, 10, 8, 8
 1088, taiga, minecraft:old_growth_spruce_taiga, UNDERGROUND_WATER_CREATURE, minecraft:glow_squid, 10, 4, 6
 1349, plains, minecraft:plains, MONSTER, minecraft:spider, 100, 4, 4
-1350, plains, minecraft:plains, MONSTER, minecraft:zombie, 95, 4, 4
-1351, plains, minecraft:plains, MONSTER, minecraft:zombie_villager, 5, 1, 1
+1350, plains, minecraft:plains, MONSTER, minecraft:zombie, 100, 4, 4
 1352, plains, minecraft:plains, MONSTER, minecraft:skeleton, 100, 4, 4
 1353, plains, minecraft:plains, MONSTER, minecraft:creeper, 100, 4, 4
 1354, plains, minecraft:plains, MONSTER, minecraft:slime, 100, 4, 4
@@ -313,8 +292,7 @@
 1363, plains, minecraft:plains, AMBIENT, minecraft:bat, 10, 8, 8
 1364, plains, minecraft:plains, UNDERGROUND_WATER_CREATURE, minecraft:glow_squid, 10, 4, 6
 1381, river, minecraft:river, MONSTER, minecraft:spider, 100, 4, 4
-1382, river, minecraft:river, MONSTER, minecraft:zombie, 95, 4, 4
-1383, river, minecraft:river, MONSTER, minecraft:zombie_villager, 5, 1, 1
+1382, river, minecraft:river, MONSTER, minecraft:zombie, 100, 4, 4
 1384, river, minecraft:river, MONSTER, minecraft:skeleton, 100, 4, 4
 1385, river, minecraft:river, MONSTER, minecraft:creeper, 100, 4, 4
 1386, river, minecraft:river, MONSTER, minecraft:slime, 100, 4, 4
@@ -326,8 +304,7 @@
 1392, river, minecraft:river, WATER_CREATURE, minecraft:squid, 2, 1, 4
 1393, river, minecraft:river, WATER_AMBIENT, minecraft:salmon, 5, 2, 5
 1394, savanna, minecraft:savanna, MONSTER, minecraft:spider, 100, 4, 4
-1395, savanna, minecraft:savanna, MONSTER, minecraft:zombie, 95, 4, 4
-1396, savanna, minecraft:savanna, MONSTER, minecraft:zombie_villager, 5, 1, 1
+1395, savanna, minecraft:savanna, MONSTER, minecraft:zombie, 100, 4, 4
 1397, savanna, minecraft:savanna, MONSTER, minecraft:skeleton, 100, 4, 4
 1398, savanna, minecraft:savanna, MONSTER, minecraft:creeper, 100, 4, 4
 1399, savanna, minecraft:savanna, MONSTER, minecraft:slime, 100, 4, 4
@@ -342,8 +319,7 @@
 1408, savanna, minecraft:savanna, AMBIENT, minecraft:bat, 10, 8, 8
 1409, savanna, minecraft:savanna, UNDERGROUND_WATER_CREATURE, minecraft:glow_squid, 10, 4, 6
 1427, forest, hybrid_beta:seasonal_forest, MONSTER, minecraft:spider, 100, 4, 4
-1428, forest, hybrid_beta:seasonal_forest, MONSTER, minecraft:zombie, 95, 4, 4
-1429, forest, hybrid_beta:seasonal_forest, MONSTER, minecraft:zombie_villager, 5, 1, 1
+1428, forest, hybrid_beta:seasonal_forest, MONSTER, minecraft:zombie, 100, 4, 4
 1430, forest, hybrid_beta:seasonal_forest, MONSTER, minecraft:skeleton, 100, 4, 4
 1431, forest, hybrid_beta:seasonal_forest, MONSTER, minecraft:creeper, 100, 4, 4
 1432, forest, hybrid_beta:seasonal_forest, MONSTER, minecraft:slime, 100, 4, 4
@@ -357,8 +333,7 @@
 1440, forest, hybrid_beta:seasonal_forest, AMBIENT, minecraft:bat, 10, 8, 8
 1441, forest, hybrid_beta:seasonal_forest, UNDERGROUND_WATER_CREATURE, minecraft:glow_squid, 10, 4, 6
 1443, beach, minecraft:snowy_beach, MONSTER, minecraft:spider, 100, 4, 4
-1444, beach, minecraft:snowy_beach, MONSTER, minecraft:zombie, 95, 4, 4
-1445, beach, minecraft:snowy_beach, MONSTER, minecraft:zombie_villager, 5, 1, 1
+1444, beach, minecraft:snowy_beach, MONSTER, minecraft:zombie, 100, 4, 4
 1446, beach, minecraft:snowy_beach, MONSTER, minecraft:skeleton, 100, 4, 4
 1447, beach, minecraft:snowy_beach, MONSTER, minecraft:creeper, 100, 4, 4
 1448, beach, minecraft:snowy_beach, MONSTER, minecraft:slime, 100, 4, 4
@@ -367,8 +342,7 @@
 1451, beach, minecraft:snowy_beach, AMBIENT, minecraft:bat, 10, 8, 8
 1452, beach, minecraft:snowy_beach, UNDERGROUND_WATER_CREATURE, minecraft:glow_squid, 10, 4, 6
 1453, icy, minecraft:snowy_plains, MONSTER, minecraft:spider, 100, 4, 4
-1454, icy, minecraft:snowy_plains, MONSTER, minecraft:zombie, 95, 4, 4
-1455, icy, minecraft:snowy_plains, MONSTER, minecraft:zombie_villager, 5, 1, 1
+1454, icy, minecraft:snowy_plains, MONSTER, minecraft:zombie, 100, 4, 4
 1456, icy, minecraft:snowy_plains, MONSTER, minecraft:skeleton, 20, 4, 4
 1457, icy, minecraft:snowy_plains, MONSTER, minecraft:creeper, 100, 4, 4
 1458, icy, minecraft:snowy_plains, MONSTER, minecraft:slime, 100, 4, 4
@@ -380,8 +354,7 @@
 1464, icy, minecraft:snowy_plains, AMBIENT, minecraft:bat, 10, 8, 8
 1465, icy, minecraft:snowy_plains, UNDERGROUND_WATER_CREATURE, minecraft:glow_squid, 10, 4, 6
 1466, icy, minecraft:snowy_slopes, MONSTER, minecraft:spider, 100, 4, 4
-1467, icy, minecraft:snowy_slopes, MONSTER, minecraft:zombie, 95, 4, 4
-1468, icy, minecraft:snowy_slopes, MONSTER, minecraft:zombie_villager, 5, 1, 1
+1467, icy, minecraft:snowy_slopes, MONSTER, minecraft:zombie, 100, 4, 4
 1469, icy, minecraft:snowy_slopes, MONSTER, minecraft:skeleton, 100, 4, 4
 1470, icy, minecraft:snowy_slopes, MONSTER, minecraft:creeper, 100, 4, 4
 1471, icy, minecraft:snowy_slopes, MONSTER, minecraft:slime, 100, 4, 4
@@ -392,8 +365,7 @@
 1476, icy, minecraft:snowy_slopes, AMBIENT, minecraft:bat, 10, 8, 8
 1477, icy, minecraft:snowy_slopes, UNDERGROUND_WATER_CREATURE, minecraft:glow_squid, 10, 4, 6
 1478, icy, minecraft:snowy_taiga, MONSTER, minecraft:spider, 100, 4, 4
-1479, icy, minecraft:snowy_taiga, MONSTER, minecraft:zombie, 95, 4, 4
-1480, icy, minecraft:snowy_taiga, MONSTER, minecraft:zombie_villager, 5, 1, 1
+1479, icy, minecraft:snowy_taiga, MONSTER, minecraft:zombie, 100, 4, 4
 1481, icy, minecraft:snowy_taiga, MONSTER, minecraft:skeleton, 100, 4, 4
 1482, icy, minecraft:snowy_taiga, MONSTER, minecraft:creeper, 100, 4, 4
 1483, icy, minecraft:snowy_taiga, MONSTER, minecraft:slime, 100, 4, 4
@@ -413,8 +385,7 @@
 1497, nether, minecraft:soul_sand_valley, MONSTER, minecraft:enderman, 1, 4, 4
 1498, nether, minecraft:soul_sand_valley, CREATURE, minecraft:strider, 60, 1, 2
 1524, private, minecraft:stony_shore, MONSTER, minecraft:spider, 100, 4, 4
-1525, private, minecraft:stony_shore, MONSTER, minecraft:zombie, 95, 4, 4
-1526, private, minecraft:stony_shore, MONSTER, minecraft:zombie_villager, 5, 1, 1
+1525, private, minecraft:stony_shore, MONSTER, minecraft:zombie, 100, 4, 4
 1527, private, minecraft:stony_shore, MONSTER, minecraft:skeleton, 100, 4, 4
 1528, private, minecraft:stony_shore, MONSTER, minecraft:creeper, 100, 4, 4
 1529, private, minecraft:stony_shore, MONSTER, minecraft:slime, 100, 4, 4
@@ -424,8 +395,7 @@
 1533, private, minecraft:stony_shore, AMBIENT, minecraft:bat, 10, 8, 8
 1534, private, minecraft:stony_shore, UNDERGROUND_WATER_CREATURE, minecraft:glow_squid, 10, 4, 6
 1567, taiga, minecraft:taiga, MONSTER, minecraft:spider, 100, 4, 4
-1568, taiga, minecraft:taiga, MONSTER, minecraft:zombie, 95, 4, 4
-1569, taiga, minecraft:taiga, MONSTER, minecraft:zombie_villager, 5, 1, 1
+1568, taiga, minecraft:taiga, MONSTER, minecraft:zombie, 100, 4, 4
 1570, taiga, minecraft:taiga, MONSTER, minecraft:skeleton, 100, 4, 4
 1571, taiga, minecraft:taiga, MONSTER, minecraft:creeper, 100, 4, 4
 1572, taiga, minecraft:taiga, MONSTER, minecraft:slime, 100, 4, 4
@@ -442,8 +412,7 @@
 1583, taiga, minecraft:taiga, UNDERGROUND_WATER_CREATURE, minecraft:glow_squid, 10, 4, 6
 1600, ocean, minecraft:warm_ocean, MONSTER, minecraft:drowned, 5, 1, 1
 1601, ocean, minecraft:warm_ocean, MONSTER, minecraft:spider, 100, 4, 4
-1602, ocean, minecraft:warm_ocean, MONSTER, minecraft:zombie, 95, 4, 4
-1603, ocean, minecraft:warm_ocean, MONSTER, minecraft:zombie_villager, 5, 1, 1
+1602, ocean, minecraft:warm_ocean, MONSTER, minecraft:zombie, 100, 4, 4
 1604, ocean, minecraft:warm_ocean, MONSTER, minecraft:skeleton, 100, 4, 4
 1605, ocean, minecraft:warm_ocean, MONSTER, minecraft:creeper, 100, 4, 4
 1606, ocean, minecraft:warm_ocean, MONSTER, minecraft:slime, 100, 4, 4
