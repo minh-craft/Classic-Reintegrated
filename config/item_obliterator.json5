@@ -17,8 +17,6 @@
   //    Example: minecraft:diamond
   "blacklisted_items": [
 
-
-
 "minecraft:banner_duplicate",
 "minecraft:black_banner",
 "minecraft:blue_banner",
@@ -683,6 +681,10 @@
 
 "minecraft:shield",
 "minecraft:shield_decoration",
+"minecraft:rabbit_hide",
+"minecraft:glow_ink_sac",
+"minecraft:glow_item_frame",
+"minecraft:scute",
 
 "minecraft:apple",
 "minecraft:carrot",
@@ -703,6 +705,10 @@
 "minecraft:cooked_rabbit",
 "minecraft:rabbit",
 "minecraft:rabbit_stew",
+"minecraft:salmon",
+"minecraft:cooked_salmon",
+"minecraft:tropical_fish",
+"minecraft:pufferfish",
 
 "minecraft:carrot_on_a_stick",
 
@@ -781,9 +787,10 @@
 "minecraft:rooted_dirt",
 "minecraft:hanging_roots",
 
-
 "minecraft:turtle_helmet",
 "minecraft:turtle_egg",
+"minecraft:wet_sponge",
+"minecraft:sponge",
 
 "minecraft:anvil",
 "minecraft:chipped_anvil",

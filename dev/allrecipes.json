@@ -672,6 +672,10 @@ TEMPORARY REMOVAL - MIGHT ADD BACK LATER
 
 "minecraft:shield",
 "minecraft:shield_decoration",
+"minecraft:rabbit_hide",
+"minecraft:glow_ink_sac",
+"minecraft:glow_item_frame",
+"minecraft:scute",
 
 "minecraft:apple",
 "minecraft:carrot",
@@ -692,6 +696,10 @@ TEMPORARY REMOVAL - MIGHT ADD BACK LATER
 "minecraft:cooked_rabbit",
 "minecraft:rabbit",
 "minecraft:rabbit_stew",
+"minecraft:salmon",
+"minecraft:cooked_salmon",
+"minecraft:tropical_fish",
+"minecraft:pufferfish",
 
 "minecraft:carrot_on_a_stick",
 
@@ -772,6 +780,8 @@ TEMPORARY REMOVAL - MIGHT ADD BACK LATER
 
 "minecraft:turtle_helmet",
 "minecraft:turtle_egg",
+"minecraft:wet_sponge",
+"minecraft:sponge",
 
 "minecraft:anvil",
 "minecraft:chipped_anvil",
@@ -893,22 +903,22 @@ IFFY
 "minecraft:soul_campfire",
 "minecraft:soul_lantern",
 "minecraft:soul_torch",
-"minecraft:glow_item_frame",
 
 "minecraft:stonecutter",
+
 
 ===========================================================================================================
 FIND NEW RECIPE
 ===========================================================================================================
 
-"minecraft:sponge",
-"minecraft:nametag",
+
 
 ===========================================================================================================
 KEEP
 ===========================================================================================================
 
 
+"minecraft:nametag",
 "minecraft:bell",
 "minecraft:scaffolding",
 "minecraft:spyglass",
@@ -1128,12 +1138,6 @@ KEEP
 "minecraft:cooked_porkchop",
 "minecraft:cooked_porkchop_from_campfire_cooking",
 "minecraft:cooked_porkchop_from_smoking",
-"minecraft:cooked_rabbit",
-"minecraft:cooked_rabbit_from_campfire_cooking",
-"minecraft:cooked_rabbit_from_smoking",
-"minecraft:cooked_salmon",
-"minecraft:cooked_salmon_from_campfire_cooking",
-"minecraft:cooked_salmon_from_smoking",
 "minecraft:cookie",
 
 
