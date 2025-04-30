@@ -2947,6 +2947,68 @@
             ]
         },
         {
+            "pakku_id": "o48ueeZCF6OsaVBF",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "simple-baby-zombie-remover"
+            },
+            "name": {
+                "modrinth": "Simple Baby Zombie Remover"
+            },
+            "id": {
+                "modrinth": "egSU6Mna"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "simple_baby_zombie_remover-1.0.0.jar",
+                    "mc_versions": [
+                        "1.16",
+                        "1.16.1",
+                        "1.16.2",
+                        "1.16.3",
+                        "1.16.4",
+                        "1.16.5",
+                        "1.17",
+                        "1.17.1",
+                        "1.18",
+                        "1.18.1",
+                        "1.18.2",
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2",
+                        "1.19.3",
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/egSU6Mna/versions/dpRDnycK/simple_baby_zombie_remover-1.0.0.jar",
+                    "id": "dpRDnycK",
+                    "parent_id": "egSU6Mna",
+                    "hashes": {
+                        "sha512": "389592d317818a08a3da784aa234675dfc4b7e2e0c9fbf6bd28388e64548c66d9f5d2c3c6428ccc9e30dfb3b1ce1bf99c72c81f6f0ace3130418edbf3830b18b",
+                        "sha1": "382b17b258af2a1de25ecd9b37510363e16a0fcd"
+                    },
+                    "required_dependencies": [],
+                    "size": 30294,
+                    "date_published": "2024-08-16T06:54:10.143999Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "GLw8JPsJxhjBXlml",
             "pakku_links": [
                 "LCWFmeUSJvxjGgRF",
@@ -3080,6 +3142,45 @@
                     "required_dependencies": [],
                     "size": 971552,
                     "date_published": "2025-03-03T17:45:49.132919Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "DjazvbutiX1EwhJI",
+            "type": "MOD",
+            "slug": {
+                "curseforge": "spawn-balance-utility"
+            },
+            "name": {
+                "curseforge": "Spawn Balance Utility"
+            },
+            "id": {
+                "curseforge": "486753"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "fabric-release-spawnbalanceutility-1.20-3.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.1",
+                        "1.20",
+                        "1.20-Snapshot"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/4572/647/fabric-release-spawnbalanceutility-1.20-3.jar",
+                    "id": "4572647",
+                    "parent_id": "486753",
+                    "hashes": {
+                        "sha1": "a5ac61ffb2cf4240826bedff4dd3f6841d76050f",
+                        "md5": "75b5113af30cd427887078fe8ae98196"
+                    },
+                    "required_dependencies": [],
+                    "size": 87611,
+                    "date_published": "2023-06-07T21:55:09.900Z"
                 }
             ]
         },

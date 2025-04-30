@@ -16,7 +16,9 @@
       what : 'DISALLOW_SPAWN',
       when : {
         entityId : [ 
-          'minecraft:rabbit',
+          'minecraft:strider' // consider adding back
+          'minecraft:ocelot', // add back later
+          'minecraft:rabbit', // add back with rabbit hide boots and bundles
           'minecraft:polar_bear',
           'minecraft:goat',
           'minecraft:fox',
@@ -25,20 +27,18 @@
           'minecraft:llama',
           'minecraft:donkey',
           'minecraft:horse',
-          'minecraft:frog',
-          'minecraft:turtle',
+          'minecraft:frog', // maybe add back?
+          'minecraft:turtle', // add back with turtle armor set
           'minecraft:dolphin', 
           'minecraft:axolotl',
           'minecraft:glow_squid',
-          'minecraft:tropical_fish',
-          'minecraft:pufferfish',
-          'minecraft:cod',
-          'minecraft:salmon',
-          'minecraft:ocelot',
+          'minecraft:tropical_fish', // add back
+          'minecraft:pufferfish', // maybe add back? might be too much bloat
+          'minecraft:cod', // add back
+          'minecraft:salmon', // maybe add back? might be too much bloat
           // 'minecraft:cat', // can't spawn anyways
           'minecraft:panda',
           'minecraft:skeleton_horse',
-          'minecraft:strider'
         ]
       }
     },
@@ -50,14 +50,14 @@
       what : 'DISALLOW_SPAWN',
       when : {
         entityId : [ 
+          'minecraft:husk', // consider adding back
+          'minecraft:stray', // consider adding back
+          'minecraft:witch', // consider adding back
           // 'minecraft:cave_spider', // can't spawn anyways
-          'minecraft:drowned',
+          'minecraft:drowned', // zombie converting still happens, but is that okay?
           // 'minecraft:elder_guardian', // can't spawn anyways
           'minecraft:guardian',
           'minecraft:endermite',
-          'minecraft:husk',
-          'minecraft:stray',
-          'minecraft:witch',
           'minecraft:zombie_villager'
         ]
       }
