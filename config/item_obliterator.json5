@@ -831,5 +831,5 @@
   //  
   // [!] Enabling this will disable all regular expressions
   // [!] Does not apply to NBT, only item blacklist / interaction / attack
-  "use_hashmap_optimizations": false
+  "use_hashmap_optimizations": true
 }
