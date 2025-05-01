@@ -5,6 +5,7 @@
 /data/
 /defaultconfigs/
 /logs/
+/local/kubejs/
 /saves/
 /mods/
 /resourcepacks/
@@ -25,11 +26,9 @@
 config/world_preview
 /config/blockswap/known_states/
 
-/config/fml.toml
-/config/forge-client.toml
-/config/embeddium-fingerprint.json
-/config/embeddium-mixins.properties
-/config/embeddium-options.json
+/config/sodium-fingerprint.json
+/config/sodium-mixins.properties
+/config/sodium-options.json
 /config/indium-renderer.properties
 rhino.local.properties
 /config/creative_fly.json5
