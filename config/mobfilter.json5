@@ -16,7 +16,7 @@
       what : 'DISALLOW_SPAWN',
       when : {
         entityId : [ 
-          'minecraft:strider' // consider adding back
+          'minecraft:strider', // consider adding back
           'minecraft:ocelot', // add back later
           'minecraft:rabbit', // add back with rabbit hide boots and bundles
           'minecraft:polar_bear',
@@ -38,7 +38,7 @@
           'minecraft:salmon', // maybe add back? might be too much bloat
           // 'minecraft:cat', // can't spawn anyways
           'minecraft:panda',
-          'minecraft:skeleton_horse',
+          'minecraft:skeleton_horse'
         ]
       }
     },
