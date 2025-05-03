@@ -434,7 +434,7 @@
     "disableMonsterEnchantSpawn": false,
     "piglinOnlyGoldSwordSpawn": false,
     "monsterSpawnCap": 90,
-    "animalSpawnCap": 20,
+    "animalSpawnCap": 2,
     "oldAnimalSpawning": true,
     "disableBabyAnimalSpawning": true,
     "disableAnimalBreeding": true,
