@@ -8,7 +8,7 @@
 /local/kubejs/
 /saves/
 /mods/
-/resourcepacks/
+/resourcepacks/*
 /screenshots/
 /server-resource-packs/
 /shaderpacks/
@@ -21,7 +21,7 @@
 
 rhino.local.properties
 
-## config section #####
+## config section #############################
 
 /config/fabric/
 /config/nostalgic_tweaks/backup/
@@ -35,3 +35,10 @@ rhino.local.properties
 /config/creative_fly.json5
 /config/enhanced_bes.properties
 /config/rrp.properties
+
+## resource pack exceptions ###################
+
+!/resourcepacks/custom resources/
+!/resourcepacks/alphaish - select/
+!/resourcepacks/classic edition - select/
+!/resourcepacks/custom fog definitions/
