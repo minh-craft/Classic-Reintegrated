@@ -700,6 +700,76 @@
             ]
         },
         {
+            "pakku_id": "7uRRzgB3d4teuDR5",
+            "pakku_links": [
+                "Xp3xpuoRxwOLETkH"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "debugify",
+                "modrinth": "debugify"
+            },
+            "name": {
+                "curseforge": "Debugify",
+                "modrinth": "Debugify"
+            },
+            "id": {
+                "curseforge": "596224",
+                "modrinth": "QwxR6Gcd"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "Debugify-1.20.1+2.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/4632/961/Debugify-1.20.1+2.0.jar",
+                    "id": "4632961",
+                    "parent_id": "596224",
+                    "hashes": {
+                        "sha1": "ca859180ad2b57856fbcc8db4995c1871a7d556c",
+                        "md5": "39e6ead07cd3ce225fb24775e0cb0341"
+                    },
+                    "required_dependencies": [
+                        "667299"
+                    ],
+                    "size": 337545,
+                    "date_published": "2023-07-09T08:49:34.163Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "Debugify-1.20.1+2.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/QwxR6Gcd/versions/6XDJoCks/Debugify-1.20.1+2.0.jar",
+                    "id": "6XDJoCks",
+                    "parent_id": "QwxR6Gcd",
+                    "hashes": {
+                        "sha512": "4cbeeafd7daadcf8a54526b6f415eac39c8bd1459d44967f484c499f407b9625c10faa5c8f825946d97529d5d64fd7504669bc13ebc4c3eb2a143aa20b50e4bd",
+                        "sha1": "ca859180ad2b57856fbcc8db4995c1871a7d556c"
+                    },
+                    "required_dependencies": [
+                        "1eAoo2KR"
+                    ],
+                    "size": 337545,
+                    "date_published": "2023-07-09T08:49:42.583816Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "hmpw4Mmc6CDgVc4h",
             "pakku_links": [
                 "2mG0AlBfPbq1gjgn"
@@ -889,6 +959,50 @@
                     ],
                     "size": 129625,
                     "date_published": "2024-03-04T09:07:40.506804Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "0tiWKmjkeblkKQ23",
+            "pakku_links": [
+                "xG4ClyMFvg7cJOXw"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "ebe"
+            },
+            "name": {
+                "modrinth": "Enhanced Block Entities"
+            },
+            "id": {
+                "modrinth": "OVuFYfre"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "enhancedblockentities-0.9+1.20.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/OVuFYfre/versions/i3v1Skck/enhancedblockentities-0.9+1.20.jar",
+                    "id": "i3v1Skck",
+                    "parent_id": "OVuFYfre",
+                    "hashes": {
+                        "sha512": "7e8b402fd25efd396bc7f0f25a663808ae9890accc227850c454dfcdc975657f22afceb15878e781485622434a6f6d60aff2a60264aa4425edd52ebe052a0de5",
+                        "sha1": "61cfe50f69f8ef9e3640c0269ef158870f5b0410"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 490690,
+                    "date_published": "2023-06-26T05:15:05.839603Z"
                 }
             ]
         },
@@ -2380,6 +2494,113 @@
             ]
         },
         {
+            "pakku_id": "ETpqeffDatyCsGHK",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "no-recipe-advancements",
+                "modrinth": "no-recipe-advancements"
+            },
+            "name": {
+                "curseforge": "No Recipe Advancements",
+                "modrinth": "No Recipe Advancements"
+            },
+            "id": {
+                "curseforge": "554065",
+                "modrinth": "IGnRrWzc"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "no-recipe-advancements-1.1.0.jar",
+                    "mc_versions": [
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2",
+                        "1.19.3",
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "neoforge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/IGnRrWzc/versions/vNuAbJnn/no-recipe-advancements-1.1.0.jar",
+                    "id": "vNuAbJnn",
+                    "parent_id": "IGnRrWzc",
+                    "hashes": {
+                        "sha512": "7ef98f79d4a196767491fd0122e33ac646bf83cbfe7877fa722f2b2a852e1bb2e89f8b0c9844d27dc89d08ffe0f5c94f08330760891fedde73dd4467d85b16ac",
+                        "sha1": "6c4a829ccb68503b6173116fa0099961bf5b878c"
+                    },
+                    "required_dependencies": [],
+                    "size": 2778,
+                    "date_published": "2024-08-18T11:09:21.482621Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "61q7Lcm5SdMLSBs8",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "no-vanilla-advancements"
+            },
+            "name": {
+                "modrinth": "No Vanilla Advancements"
+            },
+            "id": {
+                "modrinth": "KKLHTM19"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "no-vanilla-advancements-1.1.0.jar",
+                    "mc_versions": [
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2",
+                        "1.19.3",
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "neoforge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/KKLHTM19/versions/VgNfEs66/no-vanilla-advancements-1.1.0.jar",
+                    "id": "VgNfEs66",
+                    "parent_id": "KKLHTM19",
+                    "hashes": {
+                        "sha512": "56527ff7e0a62c9b756fe5d49df8f6a205e04b50e4fdad9bb3360f856b2c6add91615397e73ffc1054131e7aea213647e322709fe83cab09964e99fc4c8e9f9b",
+                        "sha1": "135592b29a69115094dfa6cfdbd166be5fc99ad6"
+                    },
+                    "required_dependencies": [],
+                    "size": 2811,
+                    "date_published": "2024-08-18T11:12:54.322319Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "nIJo2N8YRF1e5uSU",
             "type": "MOD",
             "side": "SERVER",
@@ -2839,47 +3060,6 @@
                     ],
                     "size": 1083817,
                     "date_published": "2025-04-05T11:23:18.449041Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "t2B42CUF1u9XRbns",
-            "pakku_links": [
-                "4C6BXyvyDmYP9B1g"
-            ],
-            "type": "MOD",
-            "slug": {
-                "curseforge": "recipe-essentials-forge-fabric"
-            },
-            "name": {
-                "curseforge": "Recipe Essentials[Forge/Fabric]"
-            },
-            "id": {
-                "curseforge": "907856"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "recipeessentials-fabric-1.20.1-4.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6202/570/recipeessentials-fabric-1.20.1-4.1.jar",
-                    "id": "6202570",
-                    "parent_id": "907856",
-                    "hashes": {
-                        "sha1": "e70aa0db46209c7c69bca58b2e701bed007aed99",
-                        "md5": "5fe353670e8bec17c068fe82b63c6b96"
-                    },
-                    "required_dependencies": [
-                        "326652"
-                    ],
-                    "size": 51639,
-                    "date_published": "2025-02-17T09:52:55.157Z"
                 }
             ]
         },

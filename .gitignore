@@ -19,16 +19,19 @@
 /usernamecache.json
 /xaero
 
+rhino.local.properties
+
 ## config section #####
 
 /config/fabric/
 /config/nostalgic_tweaks/backup/
-config/world_preview
+/config/world_preview/
 /config/blockswap/known_states/
 
 /config/sodium-fingerprint.json
 /config/sodium-mixins.properties
 /config/sodium-options.json
 /config/indium-renderer.properties
-rhino.local.properties
 /config/creative_fly.json5
+/config/enhanced_bes.properties
+/config/rrp.properties
