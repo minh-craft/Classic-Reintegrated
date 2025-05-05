@@ -1,0 +1,1 @@
+- the lantern and soul lantern textures were taken from https://modrinth.com/resourcepack/13de+ by EMD123 (thank you for releasing your pack under the Apache-2.0 license!)
