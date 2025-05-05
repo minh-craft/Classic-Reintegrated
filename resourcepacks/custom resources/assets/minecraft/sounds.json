@@ -1,0 +1,37 @@
+{
+  "entity.enderman.ambient": {
+    "replace": "true",
+    "sounds": [ 
+      {"name": "mob/endermen/idle1", "pitch": 1.0 },
+      {"name": "mob/endermen/idle2", "pitch": 1.0 },
+      {"name": "mob/endermen/idle3", "pitch": 1.0 },
+      {"name": "mob/endermen/idle4", "pitch": 1.0 },
+      {"name": "mob/endermen/idle5", "pitch": 1.0 }
+    ],
+    "subtitle": "subtitles.entity.enderman.ambient"
+  },
+  "entity.enderman.death": {
+    "replace": "true",
+    "sounds": [ 
+      {"name": "mob/enderman/death", "pitch": 1.0 }
+    ],
+    "subtitle": "subtitles.entity.enderman.death"
+  },
+  "entity.enderman.hurt": {
+    "replace": "true",
+    "sounds": [ 
+      {"name": "mob/endermen/hit1", "pitch": 1.0 },
+      {"name": "mob/endermen/hit2", "pitch": 1.0 },
+      {"name": "mob/endermen/hit3", "pitch": 1.0 },
+      {"name": "mob/endermen/hit4", "pitch": 1.0 }
+    ],
+    "subtitle": "subtitles.entity.enderman.hurt"
+  },
+  "entity.enderman.stare": {
+    "replace": "true",
+    "sounds": [
+      { "name": "mob/endermen/stare", "pitch": 1.0 }
+    ],
+    "subtitle": "subtitles.entity.enderman.stare"
+  }
+}
