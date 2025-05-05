@@ -1,4 +1,13 @@
 This resource pack is created using select resources taken from https://www.curseforge.com/minecraft/texture-packs/alphaish created by skeletom150 under the MIT license.
 Thank you to skeletom150 for creating this resource pack and allowing it to be used freely!
 Resources used:
-- 
+- beds
+- glow berries
+- stripped logs
+- rose bush
+- moss block
+- mangrove leaves
+- azalea leaves (edited to be darker)
+- azalea plants
+- dripleaf
+- cave vines
