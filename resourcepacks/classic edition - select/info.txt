@@ -1,0 +1,9 @@
+This resource pack is created using select resources taken from https://modrinth.com/resourcepack/minecraft-classic-edition created by JS03 which was created under the MIT license.
+Thank you to JS03 for creating this resource pack and allowing it to be used freely!
+Resources used:
+- leather armor
+- flowers
+- wood planks
+- cartography table
+- chiseled bookshelf
+- stone bricks
