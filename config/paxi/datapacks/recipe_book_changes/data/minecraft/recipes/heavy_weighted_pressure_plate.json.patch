@@ -1,0 +1,7 @@
+[
+  {
+    "op": "add",
+    "path": "/group",
+    "value": "wooden_pressure_plate"
+  }
+]

@@ -8,7 +8,7 @@ unlockAll = false
 enableBounce = false
 
 [instantCraft]
-showButton = true
+showButton = false
 enabled = false
 
 [alternativeRecipes]
