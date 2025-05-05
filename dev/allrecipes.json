@@ -487,6 +487,19 @@ REMOVE
 "minecraft:cherry_log",
 "minecraft:acacia_log",
 "minecraft:mangrove_log",
+"minecraft:warped_wood",
+"minecraft:crimson_wood",
+
+"minecraft:muddy_mangrove_roots",
+
+"minecraft:birch_boat",
+"minecraft:birch_chest_boat",
+"minecraft:dark_oak_boat",
+"minecraft:dark_oak_chest_boat",
+"minecraft:jungle_boat",
+"minecraft:jungle_chest_boat",
+"minecraft:spruce_boat",
+"minecraft:spruce_chest_boat",
 
 "minecraft:dirt_path",
 
@@ -687,6 +700,9 @@ TEMPORARY REMOVAL - MIGHT ADD BACK LATER
 "minecraft:beetroot_seeds",
 "minecraft:beetroot_soup",
 "minecraft:dried_kelp",
+"minecraft:dried_kelp_from_campfire_cooking",
+"minecraft:dried_kelp_from_smelting",
+"minecraft:dried_kelp_from_smoking",
 "minecraft:cooked_beef",
 "minecraft:beef",
 "minecraft:cooked_mutton",
@@ -777,6 +793,7 @@ TEMPORARY REMOVAL - MIGHT ADD BACK LATER
 "minecraft:mud_brick_slab",
 "minecraft:rooted_dirt",
 "minecraft:hanging_roots",
+"minecraft:packed_mud",
 
 "minecraft:turtle_helmet",
 "minecraft:turtle_egg",
@@ -866,7 +883,7 @@ IFFY
 
 
 "minecraft:smooth_basalt",
-
+"minecraft:bone_block",
 
 "minecraft:packed_ice",
 "minecraft:blue_ice",
@@ -887,7 +904,6 @@ IFFY
 "minecraft:white_candle",
 "minecraft:yellow_candle",
 
-"minecraft:dripstone_block",
 "minecraft:moss_carpet",
 "minecraft:mossy_cobblestone_from_moss_block",
 "minecraft:spore_blossom",
@@ -899,6 +915,8 @@ IFFY
 
 "minecraft:repair_item",
 "minecraft:music_disc_pigstep",
+"minecraft:fire_charge",
+"minecraft:barrel",
 
 "minecraft:soul_campfire",
 "minecraft:soul_lantern",
@@ -1045,9 +1063,7 @@ KEEP
 "minecraft:arrow",
 "minecraft:baked_potato",
 
-"minecraft:birch_boat",
 "minecraft:birch_button",
-"minecraft:birch_chest_boat",
 "minecraft:birch_door",
 "minecraft:birch_fence",
 "minecraft:birch_fence_gate",
@@ -1058,9 +1074,7 @@ KEEP
 "minecraft:birch_slab",
 "minecraft:birch_stairs",
 "minecraft:birch_trapdoor",
-"minecraft:dark_oak_boat",
 "minecraft:dark_oak_button",
-"minecraft:dark_oak_chest_boat",
 "minecraft:dark_oak_door",
 "minecraft:dark_oak_fence",
 "minecraft:dark_oak_fence_gate",
@@ -1072,11 +1086,9 @@ KEEP
 "minecraft:dark_oak_stairs",
 "minecraft:dark_oak_trapdoor",
 
-"minecraft:barrel",
 "minecraft:beehive",
 "minecraft:beetroot_soup",
 
-"minecraft:bone_block",
 "minecraft:bone_meal",
 "minecraft:bone_meal_from_bone_block",
 "minecraft:book",
@@ -1188,17 +1200,11 @@ KEEP
 "minecraft:diamond_sword",
 
 "minecraft:dispenser",
-"minecraft:dried_kelp",
-"minecraft:dried_kelp_from_campfire_cooking",
-"minecraft:dried_kelp_from_smelting",
-"minecraft:dried_kelp_from_smoking",
+
+"minecraft:dripstone_block",
 "minecraft:dropper",
 
 
-
-
-
-"minecraft:fire_charge",
 "minecraft:firework_rocket",
 "minecraft:firework_rocket_simple",
 "minecraft:firework_star",
@@ -1277,9 +1283,7 @@ KEEP
 "minecraft:item_frame",
 "minecraft:jack_o_lantern",
 "minecraft:jukebox",
-"minecraft:jungle_boat",
 "minecraft:jungle_button",
-"minecraft:jungle_chest_boat",
 "minecraft:jungle_door",
 "minecraft:jungle_fence",
 "minecraft:jungle_fence_gate",
@@ -1334,7 +1338,6 @@ KEEP
 "minecraft:mud_brick_stairs",
 "minecraft:mud_brick_stairs_from_mud_bricks_stonecutting",
 "minecraft:mud_bricks",
-"minecraft:muddy_mangrove_roots",
 "minecraft:mushroom_stew",
 
 "minecraft:nether_brick",
@@ -1362,9 +1365,6 @@ KEEP
 
 "minecraft:observer",
 
-
-
-"minecraft:packed_mud",
 "minecraft:painting",
 "minecraft:paper",
 
@@ -1442,9 +1442,7 @@ KEEP
 "minecraft:snow",
 "minecraft:snow_block",
 
-"minecraft:spruce_boat",
 "minecraft:spruce_button",
-"minecraft:spruce_chest_boat",
 "minecraft:spruce_door",
 "minecraft:spruce_fence",
 "minecraft:spruce_fence_gate",
