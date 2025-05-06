@@ -316,5 +316,12 @@
       "blacklisted_biomes": []
     }
   ],
-  "structure_sets": []
+  "structure_sets": [
+    {
+      "name": "minecraft:mineshafts",
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 2,
+      "separation": 0
+    }
+  ]
 }
