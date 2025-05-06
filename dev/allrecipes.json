@@ -652,6 +652,32 @@ REMOVE
 "minecraft:chorus_fruit",
 "minecraft:popped_chorus_fruit",
 
+"minecraft:honey_block",
+"minecraft:honey_bottle",
+"minecraft:honeycomb",
+"minecraft:honeycomb_block",
+"minecraft:sugar_from_honey_bottle",
+"minecraft:beehive",
+"minecraft:bee_nest",
+
+"minecraft:candle",
+"minecraft:black_candle",
+"minecraft:brown_candle",
+"minecraft:blue_candle",
+"minecraft:cyan_candle",
+"minecraft:gray_candle",
+"minecraft:green_candle",
+"minecraft:light_blue_candle",
+"minecraft:light_gray_candle",
+"minecraft:lime_candle",
+"minecraft:magenta_candle",
+"minecraft:orange_candle",
+"minecraft:pink_candle",
+"minecraft:purple_candle",
+"minecraft:red_candle",
+"minecraft:white_candle",
+"minecraft:yellow_candle",
+
 ===========================================================================================================
 TEMPORARY REMOVAL - MIGHT ADD BACK LATER
 ===========================================================================================================
@@ -881,22 +907,6 @@ IFFY
 "minecraft:packed_ice",
 "minecraft:blue_ice",
 
-"minecraft:candle",
-"minecraft:black_candle",
-"minecraft:blue_candle",
-"minecraft:gray_candle",
-"minecraft:green_candle",
-"minecraft:light_blue_candle",
-"minecraft:light_gray_candle",
-"minecraft:lime_candle",
-"minecraft:magenta_candle",
-"minecraft:orange_candle",
-"minecraft:pink_candle",
-"minecraft:purple_candle",
-"minecraft:red_candle",
-"minecraft:white_candle",
-"minecraft:yellow_candle",
-
 "minecraft:moss_carpet",
 "minecraft:mossy_cobblestone_from_moss_block",
 "minecraft:spore_blossom",
@@ -1085,7 +1095,6 @@ KEEP
 "minecraft:dark_oak_stairs",
 "minecraft:dark_oak_trapdoor",
 
-"minecraft:beehive",
 "minecraft:beetroot_soup",
 
 "minecraft:bone_meal",
@@ -1103,7 +1112,6 @@ KEEP
 "minecraft:brick_stairs_from_bricks_stonecutting",
 "minecraft:bricks",
 "minecraft:brown_bed",
-"minecraft:brown_candle",
 "minecraft:brown_carpet",
 "minecraft:brown_dye",
 
@@ -1111,8 +1119,6 @@ KEEP
 "minecraft:bucket",
 "minecraft:cake",
 "minecraft:campfire",
-"minecraft:candle",
-"minecraft:carrot_on_a_stick",
 "minecraft:cartography_table",
 "minecraft:cauldron",
 "minecraft:chain",
@@ -1161,7 +1167,6 @@ KEEP
 "minecraft:cut_sandstone_slab_from_cut_sandstone_stonecutting",
 "minecraft:cut_sandstone_slab_from_sandstone_stonecutting",
 "minecraft:cyan_bed",
-"minecraft:cyan_candle",
 "minecraft:cyan_carpet",
 "minecraft:cyan_dye",
 
@@ -1247,9 +1252,6 @@ KEEP
 
 "minecraft:heavy_weighted_pressure_plate",
 
-"minecraft:honey_block",
-"minecraft:honey_bottle",
-"minecraft:honeycomb_block",
 "minecraft:hopper",
 "minecraft:hopper_minecart",
 
@@ -1477,7 +1479,6 @@ KEEP
 "minecraft:stone_stairs_from_stone_stonecutting",
 "minecraft:stone_sword",
 
-"minecraft:sugar_from_honey_bottle",
 "minecraft:sugar_from_sugar_cane",
 "minecraft:target",
 
