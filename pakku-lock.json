@@ -664,6 +664,48 @@
             ]
         },
         {
+            "pakku_id": "Ek60uLC6zpyl5FKn",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "crunchy-crunchy-advancements"
+            },
+            "name": {
+                "modrinth": "Crunchy Crunchy Advancements"
+            },
+            "id": {
+                "modrinth": "4lO2KZlF"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "crunchy-crunchy-advancements-1.7.0+1.20.jar",
+                    "mc_versions": [
+                        "1.19.3",
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/4lO2KZlF/versions/FjEO5apf/crunchy-crunchy-advancements-1.7.0+1.20.jar",
+                    "id": "FjEO5apf",
+                    "parent_id": "4lO2KZlF",
+                    "hashes": {
+                        "sha512": "5d6e45d9371145cbdd6a3135d50c02af13c6e81766ca016d346979b3124d7c15fb5d1c14f29ca29b4650c01d9507f8a649e3eddac0c7ac06a7702b8055b04929",
+                        "sha1": "74339ad2e554ae9ad8519b0f64911e66a9248eab"
+                    },
+                    "required_dependencies": [],
+                    "size": 311029,
+                    "date_published": "2024-08-22T05:41:28.564166Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "4C6BXyvyDmYP9B1g",
             "type": "MOD",
             "slug": {
@@ -2494,113 +2536,6 @@
             ]
         },
         {
-            "pakku_id": "ETpqeffDatyCsGHK",
-            "type": "MOD",
-            "side": "SERVER",
-            "slug": {
-                "curseforge": "no-recipe-advancements",
-                "modrinth": "no-recipe-advancements"
-            },
-            "name": {
-                "curseforge": "No Recipe Advancements",
-                "modrinth": "No Recipe Advancements"
-            },
-            "id": {
-                "curseforge": "554065",
-                "modrinth": "IGnRrWzc"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "no-recipe-advancements-1.1.0.jar",
-                    "mc_versions": [
-                        "1.19",
-                        "1.19.1",
-                        "1.19.2",
-                        "1.19.3",
-                        "1.19.4",
-                        "1.20",
-                        "1.20.1",
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.4",
-                        "1.20.5",
-                        "1.20.6",
-                        "1.21"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "forge",
-                        "neoforge",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/IGnRrWzc/versions/vNuAbJnn/no-recipe-advancements-1.1.0.jar",
-                    "id": "vNuAbJnn",
-                    "parent_id": "IGnRrWzc",
-                    "hashes": {
-                        "sha512": "7ef98f79d4a196767491fd0122e33ac646bf83cbfe7877fa722f2b2a852e1bb2e89f8b0c9844d27dc89d08ffe0f5c94f08330760891fedde73dd4467d85b16ac",
-                        "sha1": "6c4a829ccb68503b6173116fa0099961bf5b878c"
-                    },
-                    "required_dependencies": [],
-                    "size": 2778,
-                    "date_published": "2024-08-18T11:09:21.482621Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "61q7Lcm5SdMLSBs8",
-            "type": "MOD",
-            "side": "SERVER",
-            "slug": {
-                "modrinth": "no-vanilla-advancements"
-            },
-            "name": {
-                "modrinth": "No Vanilla Advancements"
-            },
-            "id": {
-                "modrinth": "KKLHTM19"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "no-vanilla-advancements-1.1.0.jar",
-                    "mc_versions": [
-                        "1.19",
-                        "1.19.1",
-                        "1.19.2",
-                        "1.19.3",
-                        "1.19.4",
-                        "1.20",
-                        "1.20.1",
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.4",
-                        "1.20.5",
-                        "1.20.6",
-                        "1.21"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "forge",
-                        "neoforge",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/KKLHTM19/versions/VgNfEs66/no-vanilla-advancements-1.1.0.jar",
-                    "id": "VgNfEs66",
-                    "parent_id": "KKLHTM19",
-                    "hashes": {
-                        "sha512": "56527ff7e0a62c9b756fe5d49df8f6a205e04b50e4fdad9bb3360f856b2c6add91615397e73ffc1054131e7aea213647e322709fe83cab09964e99fc4c8e9f9b",
-                        "sha1": "135592b29a69115094dfa6cfdbd166be5fc99ad6"
-                    },
-                    "required_dependencies": [],
-                    "size": 2811,
-                    "date_published": "2024-08-18T11:12:54.322319Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "nIJo2N8YRF1e5uSU",
             "type": "MOD",
             "side": "SERVER",
@@ -3060,6 +2995,49 @@
                     ],
                     "size": 1083817,
                     "date_published": "2025-04-05T11:23:18.449041Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "TyIrTBjWmyQIBmAV",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "recipes",
+                "modrinth": "recipes"
+            },
+            "name": {
+                "curseforge": "Recipes+",
+                "modrinth": "Recipe Unlocker"
+            },
+            "id": {
+                "curseforge": "228845",
+                "modrinth": "J1nJ0y6I"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "recipe-unlocker-1.0.1.jar",
+                    "mc_versions": [
+                        "1.19.3",
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/J1nJ0y6I/versions/pQxy15EP/recipe-unlocker-1.0.1.jar",
+                    "id": "pQxy15EP",
+                    "parent_id": "J1nJ0y6I",
+                    "hashes": {
+                        "sha512": "369ae10bb816f0426db4ea5aaf47975d1fc296a0760ee76ff3701d9b43b0f60d536597883049cd66b5fa72dd92cb8fee97e7a792a509b8c079e65e502bda6b08",
+                        "sha1": "f65d55e2fb39b4e145c6010154e556db4d2ee702"
+                    },
+                    "required_dependencies": [],
+                    "size": 22386,
+                    "date_published": "2023-02-21T15:18:12.431918Z"
                 }
             ]
         },
