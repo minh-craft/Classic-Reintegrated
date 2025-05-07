@@ -543,6 +543,81 @@
             ]
         },
         {
+            "pakku_id": "UxQh7CRQyZHFWp7a",
+            "pakku_links": [
+                "xG4ClyMFvg7cJOXw",
+                "Xp3xpuoRxwOLETkH"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "bridging-mod",
+                "modrinth": "bridging-mod"
+            },
+            "name": {
+                "curseforge": "Bridging Mod",
+                "modrinth": "Bridging Mod"
+            },
+            "id": {
+                "curseforge": "533942",
+                "modrinth": "lO3s8hjs"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "BridgingMod-2.5.1+1.20.1.fabric-release.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5796/107/BridgingMod-2.5.1+1.20.1.fabric-release.jar",
+                    "id": "5796107",
+                    "parent_id": "533942",
+                    "hashes": {
+                        "sha1": "0383fefda27f60342498391da46ecdf6ba011ed6",
+                        "md5": "be35439432acf2b14c580c3ab3792ee3"
+                    },
+                    "required_dependencies": [
+                        "306612",
+                        "667299"
+                    ],
+                    "size": 3577394,
+                    "date_published": "2024-10-09T00:48:56.747Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "BridgingMod-2.5.1+1.20.1.fabric-release.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/lO3s8hjs/versions/PcPvYHBC/BridgingMod-2.5.1+1.20.1.fabric-release.jar",
+                    "id": "PcPvYHBC",
+                    "parent_id": "lO3s8hjs",
+                    "hashes": {
+                        "sha512": "8785f71241bf8cf9a2a777354efcee557d06cf933c4110b11cd7244e3e289a0841ff8198a6c03605e375d678e3d6d7e57eae0c256d6e7064e7f349c7efacd94f",
+                        "sha1": "0383fefda27f60342498391da46ecdf6ba011ed6"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH",
+                        "1eAoo2KR"
+                    ],
+                    "size": 3577394,
+                    "date_published": "2024-10-09T00:49:03.358943Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "E4Mlqf8hKmGQithJ",
             "type": "MOD",
             "side": "SERVER",
@@ -2734,6 +2809,55 @@
                     ],
                     "size": 1244102,
                     "date_published": "2025-05-06T01:11:54.964526Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "Z2GQnfWEshyOBfRy",
+            "pakku_links": [
+                "xG4ClyMFvg7cJOXw"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "mouse-tweaks",
+                "modrinth": "mouse-tweaks"
+            },
+            "name": {
+                "curseforge": "Mouse Tweaks",
+                "modrinth": "Mouse Tweaks"
+            },
+            "id": {
+                "curseforge": "60089",
+                "modrinth": "aC3cM3Vq"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "MouseTweaks-fabric-mc1.20-2.26.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/aC3cM3Vq/versions/mjuG4AYd/MouseTweaks-fabric-mc1.20-2.26.jar",
+                    "id": "mjuG4AYd",
+                    "parent_id": "aC3cM3Vq",
+                    "hashes": {
+                        "sha512": "d0faf200dda358efddad2d2809f646023f4dd06254572369e07f3bf33cb6941f0fcdb02db4675b30b4f3bd542cbf6196e135680ba91a2b74c2b071f34978e2d5",
+                        "sha1": "6a6b977e671b1ab625e740fc70fb5300c21bb841"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 77943,
+                    "date_published": "2024-04-02T16:59:36.217330Z"
                 }
             ]
         },
