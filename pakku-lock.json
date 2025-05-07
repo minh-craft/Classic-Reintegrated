@@ -185,6 +185,43 @@
             ]
         },
         {
+            "pakku_id": "BcB19rttDwO5TMrO",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "backport-paintings-1.21"
+            },
+            "name": {
+                "modrinth": "Backport Paintings 1.21"
+            },
+            "id": {
+                "modrinth": "P86fl1mK"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "Leon's Backport Paintings fabric 1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/P86fl1mK/versions/A7BWLIpO/Leon's Backport Paintings fabric 1.20.1.jar",
+                    "id": "A7BWLIpO",
+                    "parent_id": "P86fl1mK",
+                    "hashes": {
+                        "sha512": "1576efae5859aa5053e44309b3152675a833d3e2043aa6897125f4f259ed71454e3b650b5973850a2b074787730708acac9ab577a02481794477244ab62826ea",
+                        "sha1": "d1efbe70e2f3b78c140c4606da4c9c52b6748b71"
+                    },
+                    "required_dependencies": [],
+                    "size": 199549,
+                    "date_published": "2024-09-19T12:26:50.396069Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "2mG0AlBfPbq1gjgn",
             "pakku_links": [
                 "xG4ClyMFvg7cJOXw"
