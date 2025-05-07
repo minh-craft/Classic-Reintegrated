@@ -481,6 +481,72 @@
             ]
         },
         {
+            "pakku_id": "YvrdA7IBME6WxMYh",
+            "pakku_links": [
+                "xG4ClyMFvg7cJOXw"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "charm-forked",
+                "modrinth": "charm-forked"
+            },
+            "name": {
+                "curseforge": "Charm Forked",
+                "modrinth": "Charm Forked"
+            },
+            "id": {
+                "curseforge": "1016482",
+                "modrinth": "lz0ymQav"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "charm-fabric-1.20.1-forked-6.0.24.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6492/694/charm-fabric-1.20.1-forked-6.0.24.jar",
+                    "id": "6492694",
+                    "parent_id": "1016482",
+                    "hashes": {
+                        "sha1": "2f56ba07b22a96276526ee1bd535073146f96e4b",
+                        "md5": "498dfabddd8b34a07acc04bcc20f4d30"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 3703219,
+                    "date_published": "2025-05-03T20:33:53.560Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "charm-fabric-1.20.1-forked-6.0.24.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/lz0ymQav/versions/dzyPM02S/charm-fabric-1.20.1-forked-6.0.24.jar",
+                    "id": "dzyPM02S",
+                    "parent_id": "lz0ymQav",
+                    "hashes": {
+                        "sha512": "9d1b6a933357e77152e7ab17607e9cd41d3367e6cb5e706add2bec5203e1cf92a1fb8bed13b670e1bb205a53190d79f6aa1097d675b227bdced06a8a6863b2ee",
+                        "sha1": "2f56ba07b22a96276526ee1bd535073146f96e4b"
+                    },
+                    "required_dependencies": [],
+                    "size": 3703219,
+                    "date_published": "2025-05-03T20:33:24.867043Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "zY6aIALSjd0RWbYe",
             "type": "MOD",
             "side": "BOTH",
@@ -2940,49 +3006,6 @@
                     ],
                     "size": 1083817,
                     "date_published": "2025-04-05T11:23:18.449041Z"
-                }
-            ]
-        },
-        {
-            "pakku_id": "TyIrTBjWmyQIBmAV",
-            "type": "MOD",
-            "side": "CLIENT",
-            "slug": {
-                "curseforge": "recipes",
-                "modrinth": "recipes"
-            },
-            "name": {
-                "curseforge": "Recipes+",
-                "modrinth": "Recipe Unlocker"
-            },
-            "id": {
-                "curseforge": "228845",
-                "modrinth": "J1nJ0y6I"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "recipe-unlocker-1.0.1.jar",
-                    "mc_versions": [
-                        "1.19.3",
-                        "1.19.4",
-                        "1.20",
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/J1nJ0y6I/versions/pQxy15EP/recipe-unlocker-1.0.1.jar",
-                    "id": "pQxy15EP",
-                    "parent_id": "J1nJ0y6I",
-                    "hashes": {
-                        "sha512": "369ae10bb816f0426db4ea5aaf47975d1fc296a0760ee76ff3701d9b43b0f60d536597883049cd66b5fa72dd92cb8fee97e7a792a509b8c079e65e502bda6b08",
-                        "sha1": "f65d55e2fb39b4e145c6010154e556db4d2ee702"
-                    },
-                    "required_dependencies": [],
-                    "size": 22386,
-                    "date_published": "2023-02-21T15:18:12.431918Z"
                 }
             ]
         },
