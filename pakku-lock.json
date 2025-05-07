@@ -3656,6 +3656,69 @@
             ]
         },
         {
+            "pakku_id": "cvmCLuaCe9DvsDzH",
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "spyglass-improvements",
+                "modrinth": "spyglass-improvements"
+            },
+            "name": {
+                "curseforge": "Spyglass Improvements: Zoom, Quick Access... [Fabric/NeoForge]",
+                "modrinth": "Spyglass Improvements"
+            },
+            "id": {
+                "curseforge": "571264",
+                "modrinth": "Z6ykjRlM"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "spyglass-improvements-1.5.1+mc1.20+fabric.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5296/171/spyglass-improvements-1.5.1+mc1.20+fabric.jar",
+                    "id": "5296171",
+                    "parent_id": "571264",
+                    "hashes": {
+                        "sha1": "e4716b2b8cbfdbd4af22236d1477e1d548522739",
+                        "md5": "9061eca9705530eb1ec748faaebe952b"
+                    },
+                    "required_dependencies": [],
+                    "size": 65145,
+                    "date_published": "2024-04-27T18:56:27.070Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "spyglass-improvements-1.5.1+mc1.20+fabric.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/Z6ykjRlM/versions/4PmfgG4q/spyglass-improvements-1.5.1+mc1.20+fabric.jar",
+                    "id": "4PmfgG4q",
+                    "parent_id": "Z6ykjRlM",
+                    "hashes": {
+                        "sha512": "59144eceb6a167819b6a82a45213a8cd3f1462e84cad38832c33f74b4861d1acaa7199f373d33706ff37fa0e568925c19e14126ce81c6ef53e59f648bae4c841",
+                        "sha1": "e4716b2b8cbfdbd4af22236d1477e1d548522739"
+                    },
+                    "required_dependencies": [],
+                    "size": 65145,
+                    "date_published": "2024-04-27T18:56:29.447004Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "Dw6YNqKu3oMQ8ws8",
             "type": "MOD",
             "side": "BOTH",
