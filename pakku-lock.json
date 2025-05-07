@@ -773,6 +773,54 @@
             ]
         },
         {
+            "pakku_id": "RbQNidsdUY791gSB",
+            "pakku_links": [
+                "xG4ClyMFvg7cJOXw",
+                "2mG0AlBfPbq1gjgn"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "client-tweaks",
+                "modrinth": "client-tweaks"
+            },
+            "name": {
+                "curseforge": "Client Tweaks",
+                "modrinth": "Client Tweaks"
+            },
+            "id": {
+                "curseforge": "251407",
+                "modrinth": "vPNqo58Q"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "clienttweaks-fabric-1.20.1-11.1.3.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/vPNqo58Q/versions/qOrKqP96/clienttweaks-fabric-1.20.1-11.1.3.jar",
+                    "id": "qOrKqP96",
+                    "parent_id": "vPNqo58Q",
+                    "hashes": {
+                        "sha512": "2d6d63aaa441a216bada2d3f53591527e662d6be05a22d873a0910e4e68a38818446ceaf4ac70ddd17fba85250997dcb4d1cbcc4a47b8f79b813f1a5532a1e47",
+                        "sha1": "8231ced32612ba4c75903f5ce99381add79e8393"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH",
+                        "MBAkmtvl"
+                    ],
+                    "size": 132042,
+                    "date_published": "2025-02-23T10:21:39.163477Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "zY6aIALSjd0RWbYe",
             "type": "MOD",
             "side": "BOTH",
@@ -833,6 +881,73 @@
                     "required_dependencies": [],
                     "size": 1172214,
                     "date_published": "2024-09-16T17:13:47.844274Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "DBgRErdhx4EAWnsX",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "collective",
+                "modrinth": "collective"
+            },
+            "name": {
+                "curseforge": "Collective",
+                "modrinth": "Collective"
+            },
+            "id": {
+                "curseforge": "342584",
+                "modrinth": "e0M1UDsY"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "collective-1.20.1-8.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "neoforge",
+                        "forge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6429/218/collective-1.20.1-8.3.jar",
+                    "id": "6429218",
+                    "parent_id": "342584",
+                    "hashes": {
+                        "sha1": "ec387c40637a330661d9f4c3e59d93efc17046a2",
+                        "md5": "5b0b99ac79f68438ee0133ff6dfd53c5"
+                    },
+                    "required_dependencies": [],
+                    "size": 657310,
+                    "date_published": "2025-04-16T14:08:24.710Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "collective-1.20.1-8.3.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "neoforge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/e0M1UDsY/versions/P0uRrvF9/collective-1.20.1-8.3.jar",
+                    "id": "P0uRrvF9",
+                    "parent_id": "e0M1UDsY",
+                    "hashes": {
+                        "sha512": "11263db68965bd7d727284ecfd84047d0085c647af1aa8903896946515742ae5ced21cf3b46497dcf5e35ff1f0db646dad2bc330b9c3997cf75b304d34e4f745",
+                        "sha1": "ec387c40637a330661d9f4c3e59d93efc17046a2"
+                    },
+                    "required_dependencies": [],
+                    "size": 657310,
+                    "date_published": "2025-04-16T14:09:29.952582Z"
                 }
             ]
         },
@@ -1067,6 +1182,80 @@
             ]
         },
         {
+            "pakku_id": "W857JF9FjWP1G8uY",
+            "pakku_links": [
+                "DBgRErdhx4EAWnsX"
+            ],
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "curseforge": "cycle-paintings",
+                "modrinth": "cycle-paintings"
+            },
+            "name": {
+                "curseforge": "Cycle Paintings",
+                "modrinth": "Cycle Paintings"
+            },
+            "id": {
+                "curseforge": "345973",
+                "modrinth": "c85whkNB"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "cyclepaintings-1.20.1-4.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "neoforge",
+                        "forge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6271/855/cyclepaintings-1.20.1-4.1.jar",
+                    "id": "6271855",
+                    "parent_id": "345973",
+                    "hashes": {
+                        "sha1": "25b415defaafb5ca55326a144d9df34706c4a076",
+                        "md5": "973d957bb7670cbce43121b767980aa5"
+                    },
+                    "required_dependencies": [
+                        "342584"
+                    ],
+                    "size": 48119,
+                    "date_published": "2025-03-06T17:35:42.177Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "cyclepaintings-1.20.1-4.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "neoforge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/c85whkNB/versions/lFIhypmk/cyclepaintings-1.20.1-4.1.jar",
+                    "id": "lFIhypmk",
+                    "parent_id": "c85whkNB",
+                    "hashes": {
+                        "sha512": "0e0ee272ff33d287d493313eb32850f52ab1af1415c687c130fa40dbc50375cefc0832bfb5ca083791949f3fce0fbca9740ea85d7c7391bd6f7c70e62f224f98",
+                        "sha1": "25b415defaafb5ca55326a144d9df34706c4a076"
+                    },
+                    "required_dependencies": [
+                        "e0M1UDsY"
+                    ],
+                    "size": 48119,
+                    "date_published": "2025-03-06T17:35:56.107283Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "7uRRzgB3d4teuDR5",
             "pakku_links": [
                 "Xp3xpuoRxwOLETkH"
@@ -1256,6 +1445,51 @@
             ]
         },
         {
+            "pakku_id": "uCeHaCslBGq5FcjJ",
+            "pakku_links": [
+                "Oxqm9pabQII6VHAK",
+                "xG4ClyMFvg7cJOXw"
+            ],
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "faewufs-diversity"
+            },
+            "name": {
+                "modrinth": "Diversity"
+            },
+            "id": {
+                "modrinth": "31qnTHav"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "diversity-fabric-1.20.1-2.4.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/31qnTHav/versions/7NGThe3X/diversity-fabric-1.20.1-2.4.1.jar",
+                    "id": "7NGThe3X",
+                    "parent_id": "31qnTHav",
+                    "hashes": {
+                        "sha512": "576a3d9a9cce4474368dc0d855f85b455edd5ff950fa77536af8bc9b13f7d9fc1dec8bbb830a1d5df0232f9fcd0e6c0f22c817684dbcca828f79a700fba6c7b6",
+                        "sha1": "0d7cc06773f78e90c82d32f28d2711bd22d32483"
+                    },
+                    "required_dependencies": [
+                        "q4N9H96q",
+                        "P7dR8mSH"
+                    ],
+                    "size": 596221,
+                    "date_published": "2025-04-08T04:09:11.874988Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "anET5xgdU4HaV7Us",
             "pakku_links": [
                 "zLxrgJpYEqKOmFUZ",
@@ -1431,6 +1665,49 @@
                     "required_dependencies": [],
                     "size": 2107841,
                     "date_published": "2025-03-19T09:56:38.606159Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "Oxqm9pabQII6VHAK",
+            "pakku_links": [
+                "xG4ClyMFvg7cJOXw"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "faewulfslib"
+            },
+            "name": {
+                "modrinth": "Faewulf's Lib"
+            },
+            "id": {
+                "modrinth": "q4N9H96q"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "faewulf_lib-fabric-1.20.1-1.3.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/q4N9H96q/versions/FpMl9lt2/faewulf_lib-fabric-1.20.1-1.3.1.jar",
+                    "id": "FpMl9lt2",
+                    "parent_id": "q4N9H96q",
+                    "hashes": {
+                        "sha512": "b6d980a5f5a3a32c45401303605db40e613441de93ef7c51925ddef155e351c77d6ed2b63dcf21d1cc97219c57281b52e1dca2dadc8e8d08b37e3ee155627f31",
+                        "sha1": "27e97a09824ea5efdb9963a1e9dea2aae8a4e5ea"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 539750,
+                    "date_published": "2025-04-15T08:50:32.886785Z"
                 }
             ]
         },

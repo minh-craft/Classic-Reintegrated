@@ -1,0 +1,92 @@
+[entity]
+"9 lives cat" = false
+"Baby nametag" = false
+"Brushable parrot/chicken" = false
+"Chicken egg try hatch on despawn" = false
+"Explosive sniffer" = false
+"Fox auto breed from berries" = false
+"Fox bury items" = false
+"Horse can seat on boat" = false
+"Pat you pets" = true
+"Piglin treats golden trimmed armor as golden armor" = false
+"No saddled mobs wandering" = false
+"Rabbit breed after eats carrot crops" = false
+"Random size fishes/squid" = false
+"Silent nametag" = false
+"Smaller bee" = false
+"Sniffer sniff moss block" = false
+"Snow Golem produces powder snow" = false
+"Wandering trader announcer" = false
+
+[general]
+"Banner trophies" = false
+"Beacon extended" = false
+"Bigger radius bookshelf for enchanting table" = false
+"Bonemeal coral fan/block" = true
+"Bonemeal small flowers" = false
+"Bundle's Enchantment" = false
+"Wash filled map with Cauldron" = true
+"Click through sign/itemframe" = true
+"1 tick delay copper bulb" = false
+"Day counter" = 0
+"Message tick speed" = 3
+"Ticks per day" = 24000
+"Deepslate generator" = true
+"Faster minecart" = false
+"Faster oxidization" = false
+"Glow berry gives glow effect" = false
+"Invisible item frame" = false
+"Backup Enchantments" = false
+"Mud support sugarcane" = false
+"No level limit anvil" = false
+"Prevent farmland trampling" = false
+"No set spawn on sleep" = false
+"Shulker label" = false
+"Sleep doesn't skip weather" = "ALL_WEATHER"			# [DISABLE, RAIN_ONLY, ALL_WEATHER]
+"Sneak through sweet berry" = false
+"Torch burns target" = false
+"Usable suspicious block" = false
+"Wet sponge dry in warm biome" = false
+"XP crops" = false
+
+[item]
+"Bundle place function" = false
+"Check Villagers schedule" = false
+"Clock shows current time" = false
+"Hoe harvests crops" = "DISABLE"
+"Mace rotate blocks" = false
+"Shear can pickpocket villager" = false
+"Shear can defuse TNT" = false
+"Shear prevents plant from growing" = true
+"Slime chunk detector" = true
+"Spyglass what is that?" = "DISABLE"			# [ALL, BLOCK_ONLY, ENTITY_ONLY, DISABLE]
+"Normal inspect range" = 5
+"Normal mode: Show block's name" = false
+"Normal mode: Show block's direction" = false
+"Normal mode: Show distance" = false
+"Normal mode: Show hidden infos" = false
+"Inspect range when zooming" = 32
+"Zoom mode: Show block's name" = false
+"Zoom mode: Show block's direction" = false
+"Zoom mode: Show distance" = false
+"Zoom mode: Show hidden infos" = false
+"Trident can call thunder storm" = false
+"Waxed copper indicator" = false
+
+[recipe]
+"Bundle recipe" = false
+"Suspicious sand/gravel recipe" = false
+
+[compatibility]
+"EasyShulkerBoxes Compatibility Layer" = false
+"Enchancement Compatibility Layer" = false
+
+[command]
+"Emote commands" = false
+"Enable permission system" = false
+
+[cursed]
+"End stone is cheese" = false
+"Hydrophobic elytra" = false
+"Reverse phantom spawn condition" = false
+
