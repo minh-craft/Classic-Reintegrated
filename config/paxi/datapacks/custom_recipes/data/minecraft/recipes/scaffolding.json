@@ -3,10 +3,10 @@
   "category": "building",
   "key": {
     "I": {
-      "item": "minecraft:stick"
+      "item": "minecraft:ladder"
     },
     "~": {
-      "item": "minecraft:string"
+      "tag": "minecraft:planks"
     }
   },
   "pattern": [
