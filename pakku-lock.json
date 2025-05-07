@@ -318,6 +318,49 @@
             ]
         },
         {
+            "pakku_id": "ZDggEJU10XHjE27p",
+            "pakku_links": [
+                "xG4ClyMFvg7cJOXw"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "modrinth": "better-laddering"
+            },
+            "name": {
+                "modrinth": "Better Laddering"
+            },
+            "id": {
+                "modrinth": "IoW84iQR"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "BetterLaddering-1.2.0-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/IoW84iQR/versions/WKYryW9x/BetterLaddering-1.2.0-1.20.1.jar",
+                    "id": "WKYryW9x",
+                    "parent_id": "IoW84iQR",
+                    "hashes": {
+                        "sha512": "e65666d0eac207d13fb995f1bb6833163d8ebb22dacf6de4f77cc499d853b06d14d1f4729048464a90f88b9c02832055b74160824e67b562fef67865303a9c0e",
+                        "sha1": "f73aab8f82c9e031af970bac2cc348dfcb885385"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 145140,
+                    "date_published": "2023-07-25T04:03:09.891581Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "8X3xLg5QFljQ3x9R",
             "pakku_links": [
                 "xG4ClyMFvg7cJOXw"
