@@ -3398,6 +3398,43 @@
             ]
         },
         {
+            "pakku_id": "1V74aHmO3xa1OQDk",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "remove-endermites"
+            },
+            "name": {
+                "modrinth": "Remove Endermites"
+            },
+            "id": {
+                "modrinth": "jSbzZs6k"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "remove-endermites-1.0.0.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/jSbzZs6k/versions/8ys9CWZA/remove-endermites-1.0.0.jar",
+                    "id": "8ys9CWZA",
+                    "parent_id": "jSbzZs6k",
+                    "hashes": {
+                        "sha512": "6d52528f4c5dd995a332f542a1dc5c38a7bf6874653e49aab00a064b842ee6b0f1e1fa43d2152fd14d10925845b294c6f5b317e95b137d0d271ca2880f36d83a",
+                        "sha1": "f22543361d48eb74d0b2f5c37ce4715ade8e9a08"
+                    },
+                    "required_dependencies": [],
+                    "size": 13047,
+                    "date_published": "2024-04-28T14:23:24.819035Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "qVfm3mAeXk54OlS4",
             "type": "MOD",
             "side": "BOTH",

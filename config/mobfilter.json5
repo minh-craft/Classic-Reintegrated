@@ -57,7 +57,7 @@
           'minecraft:drowned', // zombie converting still happens, but is that okay?
           // 'minecraft:elder_guardian', // can't spawn anyways
           'minecraft:guardian',
-          'minecraft:endermite',
+          // 'minecraft:endermite', // doesn't work - using remove-endermites mod instead
           'minecraft:zombie_villager'
         ]
       }
