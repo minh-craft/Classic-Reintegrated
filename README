@@ -1,0 +1,3 @@
+## Dev Notes
+Prism Launcher pre-launch command:
+python3 "$INST_DIR/.minecraft/pre-launch.py"

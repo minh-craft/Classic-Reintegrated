@@ -1,5 +1,6 @@
 {
   "item.minecraft.oak_boat": "Boat",
   "item.minecraft.oak_chest_boat": "Boat with Chest",
-  "easyanvils.item.name_tag.description": "Use %s + %s to set a new name."
+  "easyanvils.item.name_tag.description": "Use %s + %s to set a new name.",
+  "item.charm.atlas": "Map Atlas"
 }

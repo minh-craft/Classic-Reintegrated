@@ -316,7 +316,7 @@
       "disabled": false
     },
     "itemMergeLimit": 16,
-    "oldItemMerging": true,
+    "oldItemMerging": false,
     "old2dItems": true,
     "old2dColors": true,
     "old2dRendering": true,
