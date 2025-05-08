@@ -3604,6 +3604,74 @@
             ]
         },
         {
+            "pakku_id": "bT6Yfj9lkzdNosQh",
+            "pakku_links": [
+                "Ec6xhhfP0NZ8ytL2"
+            ],
+            "type": "MOD",
+            "side": "CLIENT",
+            "slug": {
+                "curseforge": "probejs",
+                "modrinth": "probejs"
+            },
+            "name": {
+                "curseforge": "ProbeJS",
+                "modrinth": "ProbeJS"
+            },
+            "id": {
+                "curseforge": "585406",
+                "modrinth": "JJNYRb4B"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "probejs-6.0.1-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5227/391/probejs-6.0.1-fabric.jar",
+                    "id": "5227391",
+                    "parent_id": "585406",
+                    "hashes": {
+                        "sha1": "6e3adc6ca671414b8b8044ceeaf247f212765999",
+                        "md5": "c388bb717d70ffc1514e60daffb645dc"
+                    },
+                    "required_dependencies": [
+                        "238086"
+                    ],
+                    "size": 2358139,
+                    "date_published": "2024-04-01T14:07:07.020Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "probejs-6.0.0-fabric.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/JJNYRb4B/versions/yzoeAC7L/probejs-6.0.0-fabric.jar",
+                    "id": "yzoeAC7L",
+                    "parent_id": "JJNYRb4B",
+                    "hashes": {
+                        "sha512": "1641cd45320c89f5774270f23fdce48c6ef8cb0ce9aa4c45d6876db6d7aab60b6a8ec8bc73563c80e0e8d58ab40a338cbd52108e4271f6b199bc40629aec4175",
+                        "sha1": "8cfcbc17c7ffafb5558f5e78c3b1fd9105d4f847"
+                    },
+                    "required_dependencies": [
+                        "umyGl7zF"
+                    ],
+                    "size": 981009,
+                    "date_published": "2024-02-11T12:38:11.675026Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "zLxrgJpYEqKOmFUZ",
             "pakku_links": [
                 "xG4ClyMFvg7cJOXw",
