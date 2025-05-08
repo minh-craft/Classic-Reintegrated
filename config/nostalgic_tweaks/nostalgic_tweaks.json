@@ -586,7 +586,7 @@
     },
     "customItemStacking": {
       "items": {
-        "minecraft:bucket": 1,
+        "minecraft:bucket": 4,
         "minecraft:pumpkin": 16,
         "minecraft:melon": 16
       },
