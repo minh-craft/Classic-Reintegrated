@@ -519,7 +519,7 @@
     "disableShovelPathing": false,
     "disableAxeStripping": false,
     "disableHunger": true,
-    "instantEat": true,
+    "instantEat": false,
     "oldFoodStacking": true,
     "preventHungerEffect": true,
     "customFoodHealth": {
@@ -536,7 +536,8 @@
         "minecraft:rabbit_stew": 10,
         "minecraft:suspicious_stew": 10,
         "minecraft:golden_apple": 20,
-        "minecraft:enchanted_golden_apple": 20
+        "minecraft:enchanted_golden_apple": 20,
+        "minecraft:pumpkin_pie": 12
       },
       "disabled": false
     },
@@ -584,7 +585,11 @@
       "disabled": false
     },
     "customItemStacking": {
-      "items": {},
+      "items": {
+        "minecraft:bucket": 1,
+        "minecraft:pumpkin": 16,
+        "minecraft:melon": 16
+      },
       "disabled": false
     }
   },
