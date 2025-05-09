@@ -292,9 +292,9 @@
 
 [PathConversion]
 	#Use a shovel or hoe to convert dirt and path blocks.
-	"PathConversion enabled" = false
+	"PathConversion enabled" = true
 	#If true, a shovel can be used to convert a dirt block to a path block.
-	"Convert dirt to path" = false
+	"Convert dirt to path" = true
 	#If true, a hoe can be used to convert a path block to a dirt block.
 	"Convert path to dirt" = false
 
