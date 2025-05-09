@@ -10,7 +10,7 @@
   rules : [
     {
       // what's left?
-      // overworld: chicken, cow, pig, sheep, squid, parrot, bat, wolf, iron golem, snow golem, bee
+      // overworld: chicken, cow, pig, sheep, squid, parrot, bat, wolf, iron golem, snow golem, bee, rabbit
       // nether: piglin, zombified piglin
       name : 'Disable certain new passive mobs',
       what : 'DISALLOW_SPAWN',
@@ -18,10 +18,9 @@
         entityId : [ 
           'minecraft:strider', // consider adding back
           'minecraft:ocelot', // add back later
-          'minecraft:rabbit', // add back with rabbit hide boots and bundles
           'minecraft:polar_bear',
-          'minecraft:goat',
-          'minecraft:fox',
+          'minecraft:goat', // consider adding back
+          'minecraft:fox', // consider adding back
           // 'minecraft:mooshroom', // can't spawn anyways
           // 'minecraft:camel', // can't spawn anyways
           'minecraft:llama',

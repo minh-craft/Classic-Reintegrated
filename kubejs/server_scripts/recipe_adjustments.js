@@ -16,8 +16,13 @@ ServerEvents.recipes(recipe => {
     'minecraft:golden_shovel',
     Item.of('minecraft:golden_shovel').enchant('minecraft:silk_touch', 1)
   );
+    recipe.replaceOutput(
+    { id: 'minecraft:golden_hoe' },
+    'minecraft:golden_hoe',
+    Item.of('minecraft:golden_hoe').enchant('minecraft:silk_touch', 1)
+  );
 
-  // leather armor has feather falling
+  // leather armor has feather falling and swift sneak
   recipe.replaceOutput(
     { id: 'minecraft:leather_boots' },
     'minecraft:leather_boots',
@@ -26,7 +31,7 @@ ServerEvents.recipes(recipe => {
   recipe.replaceOutput(
     { id: 'minecraft:leather_leggings' },
     'minecraft:leather_leggings',
-    Item.of('minecraft:leather_leggings').enchant('minecraft:feather_falling', 1)
+    Item.of('minecraft:leather_leggings').enchant('minecraft:swift_sneak', 2)
   );
   recipe.replaceOutput(
     { id: 'minecraft:leather_chestplate' },
