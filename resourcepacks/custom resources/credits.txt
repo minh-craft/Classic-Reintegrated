@@ -1,0 +1,2 @@
+- old fleshy hurt sounds created by user spoono in the Nostalgic Tweaks discord server
+- minecraft/optifine/cem/rabbit.cem is a broken texture fixed version of the file from https://modrinth.com/resourcepack/vanilla-rabbits-plus/version/1.0.3 created by batbrain55

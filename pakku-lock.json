@@ -4467,6 +4467,43 @@
             ]
         },
         {
+            "pakku_id": "H6zw5ef2v5CsDapq",
+            "type": "RESOURCE_PACK",
+            "side": "CLIENT",
+            "slug": {
+                "modrinth": "vanilla-rabbits-plus"
+            },
+            "name": {
+                "modrinth": "Vanilla Rabbits Plus"
+            },
+            "id": {
+                "modrinth": "t8T7Z7ru"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "Vanilla Rabbits Plus 1.0.3.zip",
+                    "mc_versions": [
+                        "1.20.4"
+                    ],
+                    "loaders": [
+                        "minecraft"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/t8T7Z7ru/versions/omQ2Mmfk/Vanilla Rabbits Plus 1.0.3.zip",
+                    "id": "omQ2Mmfk",
+                    "parent_id": "t8T7Z7ru",
+                    "hashes": {
+                        "sha512": "8c22e2851f3a792880f81da8d88106bc17c524c63d6706508bb1558a77df6bb8c4f8414d3cee82fba20d46589d66c6c685350f995275bf9e5dcfe77a782bac62",
+                        "sha1": "7c10d29d4f04bd8dfdee1ce39bc0507cb4b48f6c"
+                    },
+                    "required_dependencies": [],
+                    "size": 10745,
+                    "date_published": "2024-04-02T15:22:20.150823Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "6bnkztGyERBa1Xbt",
             "pakku_links": [
                 "xG4ClyMFvg7cJOXw"
