@@ -32,8 +32,8 @@ function overEatCake(event) {
       }
         
     }
-    
-    level.playSound(null, player.x, player.y, player.z, 'minecraft:entity.player.burp', 'players', 1, 1)
+    level.runCommandSilent(`playsound minecraft:entity.player.burp player @a ${player.x} ${player.y} ${player.z} 1 1`)
+    // level.playSound(null, player.x, player.y, player.z, 'minecraft:entity.player.burp', 'players', 1, 1)
     event.cancel()
   }
 
