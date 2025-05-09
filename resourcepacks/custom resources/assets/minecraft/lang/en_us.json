@@ -1,6 +1,10 @@
 {
+  "easyanvils.item.name_tag.description": "Use %s + %s to set a new name.",
+  "item.charm.atlas": "Map Atlas",
   "item.minecraft.oak_boat": "Boat",
   "item.minecraft.oak_chest_boat": "Boat with Chest",
-  "easyanvils.item.name_tag.description": "Use %s + %s to set a new name.",
-  "item.charm.atlas": "Map Atlas"
+  "block.minecraft.stonecutter": "Blockcutter",
+  "container.stonecutter": "Blockcutter",
+  "stat.minecraft.interact_with_stonecutter": "Interactions with Blockcutter",
+  "subtitles.ui.stonecutter.take_result": "Blockcutter used"
 }

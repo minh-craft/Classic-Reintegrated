@@ -4504,6 +4504,47 @@
             ]
         },
         {
+            "pakku_id": "ldOf9Lv9D54qnH6R",
+            "type": "MOD",
+            "side": "SERVER",
+            "slug": {
+                "modrinth": "wood_cutter"
+            },
+            "name": {
+                "modrinth": "Woodcutter"
+            },
+            "id": {
+                "modrinth": "M0MiYiLo"
+            },
+            "files": [
+                {
+                    "type": "modrinth",
+                    "file_name": "wood_cutter-2.0.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "forge",
+                        "neoforge",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/M0MiYiLo/versions/hCs4Zq1s/wood_cutter-2.0.jar",
+                    "id": "hCs4Zq1s",
+                    "parent_id": "M0MiYiLo",
+                    "hashes": {
+                        "sha512": "c72bddd20b21dadd7d7396c079d658fe52f3671fd343b4fabd416d65c9174b93fc386ead52b50797b2724198dcf9d83031f5ded123f48e39005a7b7adf0c0d20",
+                        "sha1": "525f2d8d51f063d00c195cbe89e94756153b3208"
+                    },
+                    "required_dependencies": [],
+                    "size": 241898,
+                    "date_published": "2025-01-03T02:21:46.602305Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "6bnkztGyERBa1Xbt",
             "pakku_links": [
                 "xG4ClyMFvg7cJOXw"
