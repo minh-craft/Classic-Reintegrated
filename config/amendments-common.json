@@ -37,7 +37,7 @@
   },
   "cake": {
     "double_cake": true,
-    "directional_cake": true
+    "directional_cake": false
   },
   "mob_head": {
     "skull_piles": false,
