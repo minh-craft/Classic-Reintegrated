@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "O": {
+      "item": "minecraft:string"
+    },
+    "~": {
+      "item": "minecraft:leather"
+    }
+  },
+  "pattern": [
+    "~~ ",
+    "~O ",
+    "  ~"
+  ],
+  "result": {
+    "count": 1,
+    "item": "minecraft:lead"
+  },
+  "show_notification": true
+}
