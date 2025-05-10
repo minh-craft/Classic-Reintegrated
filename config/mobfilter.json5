@@ -43,17 +43,16 @@
     },
     {
       // What's left?
-      // overworld: creeper, zombie, skeleton, spider, slime, enderman
+      // overworld: creeper, zombie, skeleton, spider, slime, enderman, husk
       // nether: wither skeleton, magma cube, blaze, ghast, piglin brute, hoglin, zoglin
       name : 'Disable certain new hostile mobs',
       what : 'DISALLOW_SPAWN',
       when : {
-        entityId : [ 
-          'minecraft:husk', // consider adding back
+        entityId : [
           'minecraft:stray', // consider adding back
-          'minecraft:witch', // consider adding back
           // 'minecraft:cave_spider', // can't spawn anyways
           'minecraft:drowned', // zombie converting still happens, but is that okay?
+          'minecraft:witch',
           // 'minecraft:elder_guardian', // can't spawn anyways
           'minecraft:guardian',
           // 'minecraft:endermite', // doesn't work - using remove-endermites mod instead

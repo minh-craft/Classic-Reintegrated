@@ -114,7 +114,7 @@
 523, ocean, minecraft:deep_ocean, WATER_CREATURE, minecraft:dolphin, 1, 1, 2
 524, ocean, minecraft:deep_ocean, WATER_AMBIENT, minecraft:cod, 10, 3, 6
 525, desert, minecraft:desert, MONSTER, minecraft:spider, 100, 4, 4
-526, desert, minecraft:desert, MONSTER, minecraft:zombie, 100, 4, 4
+526, desert, minecraft:desert, MONSTER, minecraft:zombie, 20, 4, 4
 528, desert, minecraft:desert, MONSTER, minecraft:skeleton, 100, 4, 4
 529, desert, minecraft:desert, MONSTER, minecraft:creeper, 100, 4, 4
 530, desert, minecraft:desert, MONSTER, minecraft:slime, 100, 4, 4
