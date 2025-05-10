@@ -1,0 +1,3 @@
+This pack takes only the water textures from https://www.curseforge.com/minecraft/texture-packs/old-lighting-old-water by Sencie.
+Thank you for allowing your pack to be used in modpacks!
+It also adjusts the water color to be slightly lighter.
