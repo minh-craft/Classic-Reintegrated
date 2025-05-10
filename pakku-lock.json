@@ -3950,68 +3950,6 @@
             ]
         },
         {
-            "pakku_id": "o48ueeZCF6OsaVBF",
-            "type": "MOD",
-            "side": "SERVER",
-            "slug": {
-                "modrinth": "simple-baby-zombie-remover"
-            },
-            "name": {
-                "modrinth": "Simple Baby Zombie Remover"
-            },
-            "id": {
-                "modrinth": "egSU6Mna"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "simple_baby_zombie_remover-1.0.0.jar",
-                    "mc_versions": [
-                        "1.16",
-                        "1.16.1",
-                        "1.16.2",
-                        "1.16.3",
-                        "1.16.4",
-                        "1.16.5",
-                        "1.17",
-                        "1.17.1",
-                        "1.18",
-                        "1.18.1",
-                        "1.18.2",
-                        "1.19",
-                        "1.19.1",
-                        "1.19.2",
-                        "1.19.3",
-                        "1.19.4",
-                        "1.20",
-                        "1.20.1",
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.4",
-                        "1.20.5",
-                        "1.20.6",
-                        "1.21",
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/egSU6Mna/versions/dpRDnycK/simple_baby_zombie_remover-1.0.0.jar",
-                    "id": "dpRDnycK",
-                    "parent_id": "egSU6Mna",
-                    "hashes": {
-                        "sha512": "389592d317818a08a3da784aa234675dfc4b7e2e0c9fbf6bd28388e64548c66d9f5d2c3c6428ccc9e30dfb3b1ce1bf99c72c81f6f0ace3130418edbf3830b18b",
-                        "sha1": "382b17b258af2a1de25ecd9b37510363e16a0fcd"
-                    },
-                    "required_dependencies": [],
-                    "size": 30294,
-                    "date_published": "2024-08-16T06:54:10.143999Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "GLw8JPsJxhjBXlml",
             "pakku_links": [
                 "LCWFmeUSJvxjGgRF",
