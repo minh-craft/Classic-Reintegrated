@@ -1,29 +1,32 @@
-modmenu (instead of catalogue)
-sodium
+
+c2me-fabric
+connectivity
+despawn-tweaks
+ebe
 fast-async-world-save-forge-fabric
 fastload (removed)
 ferrite-core
-c2me-fabric
-connectivity
+fix-gpu-memory-leak
 immediatelyfast
+indium
 krypton (reforged)
-despawn-tweaks
+lithium (radium)
 modernfix
 noisium
-lithium (radium)
 recipe-essentials-forge-fabric
-starlight
-fix-gpu-memory-leak
-indium
-ebe
+sodium
+
 
 biome-replacer
 block-swap
 default-options
 item-obliterator
 kubejs
+  lootjs
+modmenu
 patched
 paxi
+preferred-gamerules
 structurify
 mobfilter
 spawn-balance-utility
@@ -31,46 +34,45 @@ spawn-balance-utility
 
 bbrb
 borderless-mining
-lessglintythings
-no-mining-cooldown
-lambdynamiclights
-yeetus-experimentus
+bridging-mod
 entity-model-features
 entitytexturefeatures
 client-tweaks
 cycle-paintings
-spyglass-improvements
+lambdynamiclights
+lessglintythings
 mouse-tweaks
-bridging-mod
+no-mining-cooldown
+spyglass-improvements
+yeetus-experimentus
 
 
-debugify
 amendments
-lanterns-bow
-crunchy-crunchy-advancements
-remove-endermites
-fog
-brb
-snow-under-trees-remastered
-nostalgic-tweaks
-hybrid-beta
-moderner-beta
-easy-anvils
+  lanterns-bow
+backport-paintings-1.21
 bundle-backportish
 bundled_
 better-laddering
-faewufs-diversity
-wood_cutter
+brb
 charm-forked
+crunchy-crunchy-advancements
+debugify
+easy-anvils
+faewufs-diversity
+fog
+hybrid-beta
+nostalgic-tweaks
+moderner-beta
+remove-endermites
+snow-under-trees-remastered
+wood_cutter
 
 
+creative-fly
 probejs
 world-preview
 xaeros-world-map
-creative-fly
 
-
-preferred-gamerules (migrate from global gamerules)
 
 gerudoku-faithful
 golden-days
