@@ -85,5 +85,6 @@ ServerEvents.tags('item', event => {
   event.add('bundled:sixteenth_weight', 'minecraft:music_disc_wait')
   event.add('bundled:sixteenth_weight', 'minecraft:music_disc_pigstep')
   
-
+  // disable amendments torch attacking setting mobs on fire
+  event.removeAll('amendments:sets_on_fire')
 });
