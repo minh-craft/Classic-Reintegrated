@@ -2158,47 +2158,6 @@
             ]
         },
         {
-            "pakku_id": "GpUJ715FeAwxNYrq",
-            "type": "RESOURCE_PACK",
-            "side": "CLIENT",
-            "slug": {
-                "modrinth": "golden-days-music"
-            },
-            "name": {
-                "modrinth": "Golden Days Music"
-            },
-            "id": {
-                "modrinth": "8fTRwbnX"
-            },
-            "files": [
-                {
-                    "type": "modrinth",
-                    "file_name": "golden-days-music-1.20.x.zip",
-                    "mc_versions": [
-                        "1.20",
-                        "1.20.1",
-                        "1.20.2",
-                        "1.20.3",
-                        "1.20.4"
-                    ],
-                    "loaders": [
-                        "minecraft"
-                    ],
-                    "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/8fTRwbnX/versions/RDfd7Tci/golden-days-music-1.20.x.zip",
-                    "id": "RDfd7Tci",
-                    "parent_id": "8fTRwbnX",
-                    "hashes": {
-                        "sha512": "fa3f8cc2a3c74a4412e19731790bd40ddde6c7bf6a010ea8145c7ec4e308628514a14cc76f2936a27859772c7bb673dd4d36ae53ddf6033a80bf738695a54021",
-                        "sha1": "560ee9861171b0e6642787794db40314fdaa6123"
-                    },
-                    "required_dependencies": [],
-                    "size": 31082,
-                    "date_published": "2023-12-27T10:32:58.702161Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "sN3NoO3AGB9Phvoy",
             "type": "MOD",
             "side": "CLIENT",
