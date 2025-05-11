@@ -14,6 +14,8 @@ lithium (radium)
 recipe-essentials-forge-fabric
 starlight
 fix-gpu-memory-leak
+indium
+ebe
 
 biome-replacer
 block-swap
@@ -23,35 +25,58 @@ kubejs
 patched
 paxi
 structurify
-world-preview
-xaeros-world-map
 mobfilter
+spawn-balance-utility
 
 
 bbrb
-brb
 borderless-mining
-hybrid-beta
-creative-fly
-fog
 lessglintythings
-moderner-beta
 no-mining-cooldown
-nostalgic-tweaks
-snow-under-trees-remastered
 lambdynamiclights
 yeetus-experimentus
 entity-model-features
 entitytexturefeatures
+client-tweaks
+cycle-paintings
+spyglass-improvements
+mouse-tweaks
+bridging-mod
+
+
+debugify
+amendments
+lanterns-bow
+crunchy-crunchy-advancements
+remove-endermites
+fog
+brb
+snow-under-trees-remastered
+nostalgic-tweaks
+hybrid-beta
+moderner-beta
+easy-anvils
+bundle-backportish
+bundled_
+better-laddering
+faewufs-diversity
+wood_cutter
+charm-forked
+
+
+probejs
+world-preview
+xaeros-world-map
+creative-fly
+
 
 preferred-gamerules (migrate from global gamerules)
 
 gerudoku-faithful
 golden-days
-golden-days-music
 minecraft-classic-edition
-pacp
-programmer-art-ultimate
+vanilla-rabbits-plus
+alphaish
 
 
 
