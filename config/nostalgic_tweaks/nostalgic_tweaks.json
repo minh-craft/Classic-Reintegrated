@@ -415,7 +415,7 @@
     "lightRemovesVoidFog": false,
     "voidFogEncroach": 70,
     "voidFogStart": 50,
-    "voidParticleStart": -47,
+    "voidParticleStart": -10,
     "voidParticleRadius": 16,
     "voidParticleDensity": 20
   },
