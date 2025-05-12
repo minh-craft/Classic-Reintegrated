@@ -1,73 +1,51 @@
-
-c2me-fabric
-connectivity
-despawn-tweaks
-ebe
-fast-async-world-save-forge-fabric
-fastload (removed)
+alltheleaks (no modrinth, but MIT)
+c2me-neoforge
+cubes-without-borders
+dynamic-fps
 ferrite-core
-fix-gpu-memory-leak
 immediatelyfast
-indium
-krypton (reforged)
 lithium (radium)
 modernfix
 noisium
-recipe-essentials-forge-fabric
+packet-fixer
 sodium
 
 
+better-modlist-neoforge
 biome-replacer
-block-swap
 default-options
-item-obliterator
 kubejs
   lootjs
-modmenu
 patched
 paxi
-preferred-gamerules
 structurify
-mobfilter
-spawn-balance-utility
 
 
 bbrb
-borderless-mining
 bridging-mod
 entity-model-features
 entitytexturefeatures
 client-tweaks
 cycle-paintings
-lambdynamiclights
-lessglintythings
 mouse-tweaks
-no-mining-cooldown
+reeses-sodium-options
+sodium-dynamic-lights
 spyglass-improvements
-yeetus-experimentus
 
 
 amendments
-  lanterns-bow
-backport-paintings-1.21
-bundle-backportish
-bundled_
-better-laddering
 brb
-charm-forked
-crunchy-crunchy-advancements
-debugify
+crunchy-crunchy-advancements (no cf, lgpl)
 easy-anvils
-faewufs-diversity
-fog
-hybrid-beta
+faewufs-diversity (no cf cc 4)
+fog (arr, can i include in modpack?)
+hybrid-beta (no cf, mit, but no redistribute)
 nostalgic-tweaks
-moderner-beta
-remove-endermites
-snow-under-trees-remastered
-wood_cutter
+moderner-beta (no cf, mit)
+snow-under-trees
+wood_cutter (no cf, gpl3)
 
-
+===== DEV ONLY ==============
 creative-fly
 probejs
 world-preview
@@ -81,8 +59,55 @@ vanilla-rabbits-plus
 alphaish
 
 
+removed temporarily
+- recipe-essentials-forge-fabric later if fixed (although, incompatible with charm)
+- fix-gpu-memory-leak (no modrinth, arr)
+- fast-async-world-save-forge-fabric (no modrinth, arr)
+- connectivity (no modrinth, arr)
 
+neoforge changes
+- remove
+  - krypton (only unofficial port available for neoforge)
+  - indium (not needed with sodium 0.6)
+  - ebe (not for neoforged, incompatible with modernfix dynamic resources)
+  - borderless-mining
+  - block-swap (shouldn't be using this anyways)
+  - despawn-tweaks
+  - item-obliterator (not for neoforge, need new kjs scripts)
+  - modmenu (no neoforge)
+  - preferred-gamerules (no neoforge, need custom datapack function instead)
+  - mobfilter (no neoforge, move to incontrol instead?)
+  - lambdynamiclights
+  - lessglintythings (no 1.21.1 - try https://modrinth.com/resourcepack/remove-enchant-glint)
+  - yeetus-experimentus (arr)
+  - lanterns-bow (not needed in 1.21.1 amendments)
+  - backport-paintings-1.21
+  - better-laddering
+  - remove-endermites (no 1.21.1)
 
+- add
+  - alltheleaks (recommended, no modrinth)
+  - cubes-without-borders
+  - dynamic-fps
+  - lmd
+  - packet-fixer
+  - sodium-dynamic-lights
+  - hide-experimental-warning
 
+sinytra candidates
+- spawn-balance-utility (only on fabric, does sinytra work? in control works too, but not in the same way, i can adjust weight using biome patches, but i can't adjust group size
+- no-mining-cooldown
+- bundle-backportish
+- bundled_ (no cf, but MIT)
+- charm-forked
+- debugify
+- creative-fly
+- world-preview
+- crunchy-crunchy-advancements
 
-
+maybe
+- more culling? (turn off leaves)
+- https://modrinth.com/mod/redirected
+- https://modrinth.com/mod/entityculling
+- https://www.curseforge.com/minecraft/mc-mods/structure-layout-optimizer (test once nether work starts)
+- lmd (let me despawn) (do i want to allow mobs to pick up items?)
