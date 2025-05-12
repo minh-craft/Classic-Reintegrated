@@ -1,86 +1,105 @@
-modmenu (instead of catalogue)
-sodium
-fast-async-world-save-forge-fabric
-fastload (removed)
-ferrite-core
 c2me-fabric
-connectivity
+cubes-without-borders
+dynamic-fps
+ferrite-core
 immediatelyfast
-krypton (reforged)
-despawn-tweaks
+krypton
+lithium
+lmd (do i want to allow mobs to pick up items?)
 modernfix
 noisium
-lithium (radium)
-recipe-essentials-forge-fabric
-starlight
-fix-gpu-memory-leak
-indium
-ebe
+packet-fixer
+sodium
+
 
 biome-replacer
-block-swap
-default-options
-item-obliterator
+default-options (no cf)
+debugify
 kubejs
+- lootjs
+- probejs
+modmenu
+mobfilter
+preferred-gamerules (no cf, mit)
 patched
 paxi
+spawn-balance-utility (no mr, mit)
 structurify
-mobfilter
-spawn-balance-utility
 
 
 bbrb
-borderless-mining
-lessglintythings
-no-mining-cooldown
-lambdynamiclights
-yeetus-experimentus
-entity-model-features
-entitytexturefeatures
+bridging-mod
 client-tweaks
 cycle-paintings
-spyglass-improvements
+entity-model-features
+entitytexturefeatures
+hide-experimental-warning
+lambdynamiclights
+lessglintythings (no cf, mit)
 mouse-tweaks
-bridging-mod
+no-mining-cooldown (no cf, gpl)
+spyglass-improvements
 
 
-debugify
 amendments
-lanterns-bow
-crunchy-crunchy-advancements
-remove-endermites
-fog
+- lanterns-bow
+backport-paintings-1.21 (no cf, arr, permission granted for modpacks)
 brb
-snow-under-trees-remastered
-nostalgic-tweaks
-hybrid-beta
-moderner-beta
-easy-anvils
-bundle-backportish
-bundled_
-better-laddering
-faewufs-diversity
-wood_cutter
+bundle-backportish (no cf, mit)
+bundled_ (no cf, but MIT)
 charm-forked
+crunchy-crunchy-advancements (no cf, lgpl)
+easy-anvils
+faewufs-diversity (no cf cc 4)
+fog (arr, can i include in modpack? ask for permission)
+hybrid-beta (no cf, mit, but no redistribute)
+item-obliterator
+nostalgic-tweaks
+moderner-beta (no cf, mit)
+remove-endermites (no cf, cc) 
+snow-under-trees
+wood_cutter (no cf, gpl3)
 
-
-probejs
+===== DEV ONLY ==============
+creative-fly
 world-preview
 xaeros-world-map
-creative-fly
 
 
-preferred-gamerules (migrate from global gamerules)
-
-gerudoku-faithful
 golden-days
 minecraft-classic-edition
-vanilla-rabbits-plus
+vanilla-rabbits-plus (no cf, mit)
 alphaish
 
 
+- temporary removal
+  - better-laddering
+  - gerudoku-faithful (need to ask for permissions)
 
 
+- removed someaddon mods
+  - recipe-essentials-forge-fabric (broken)
+  - fix-gpu-memory-leak (no modrinth, arr)
+  - fast-async-world-save-forge-fabric (no modrinth, arr)
+  - connectivity (no modrinth, arr)
+
+- remove unnecessary or found replacement
+  - borderless-mining
+  - block-swap (shouldn't be using this anyways)
+  - despawn-tweaks
+  - yeetus-experimentus (arr)
+
+- add
+  - cubes-without-borders
+  - dynamic-fps
+  - lmd
+  - packet-fixer
+  - hide-experimental-warning
 
 
-
+maybe
+- more culling? (turn off leaves)
+- https://modrinth.com/mod/redirected
+- https://modrinth.com/mod/entityculling
+- https://www.curseforge.com/minecraft/mc-mods/structure-layout-optimizer (test once nether work starts)
+- gpu/videotape?
