@@ -1,0 +1,103 @@
+c2me-fabric
+cubes-without-borders
+dynamic-fps
+ferrite-core
+immediatelyfast
+krypton
+lithium (radium)
+modernfix
+noisium
+packet-fixer
+sodium
+
+
+biome-replacer
+default-options
+debugify
+modmenu
+mobfilter
+preferred-gamerules (no cf, mit)
+patched
+paxi
+spawn-balance-utility (no mr)
+structurify
+
+
+bbrb
+bridging-mod
+client-tweaks
+cycle-paintings
+entity-model-features
+entitytexturefeatures
+hide-experimental-warning
+lambdynamiclights
+mouse-tweaks
+no-mining-cooldown
+spyglass-improvements
+
+
+amendments
+brb
+bundle-backportish (no cf, mit)
+bundled_ (no cf, but MIT)
+charm-forked
+crunchy-crunchy-advancements (no cf, lgpl)
+easy-anvils
+faewufs-diversity (no cf cc 4)
+fog (arr, can i include in modpack?)
+hybrid-beta (no cf, mit, but no redistribute)
+item-obliterator
+nostalgic-tweaks
+moderner-beta (no cf, mit)
+snow-under-trees
+wood_cutter (no cf, gpl3)
+
+===== DEV ONLY ==============
+creative-fly
+world-preview
+xaeros-world-map
+
+
+gerudoku-faithful
+golden-days
+minecraft-classic-edition (need override)
+vanilla-rabbits-plus (need override)
+alphaish (need override)
+remove-enchant-glint
+
+
+removed temporarily
+- recipe-essentials-forge-fabric later if fixed (although, incompatible with charm)
+- fix-gpu-memory-leak (no modrinth, arr)
+- fast-async-world-save-forge-fabric (no modrinth, arr)
+- connectivity (no modrinth, arr)
+
+fabric changes
+- remove unnecessary or found replacement
+  - borderless-mining
+  - block-swap (shouldn't be using this anyways)
+  - despawn-tweaks
+  - lessglintythings (no 1.21.1 - try https://modrinth.com/resourcepack/remove-enchant-glint)
+  - yeetus-experimentus (arr)
+  - lanterns-bow (not needed in 1.21.1 amendments)
+  - backport-paintings-1.21
+- remove for other reasons
+  - better-laddering
+  - remove-endermites (no 1.21.1)  
+  - kubejs (have to move to crafttweaker)
+    - lootjs
+    - probejs
+
+- add
+  - cubes-without-borders
+  - dynamic-fps
+  - lmd
+  - hide-experimental-warning
+
+
+maybe
+- more culling? (turn off leaves)
+- https://modrinth.com/mod/redirected
+- https://modrinth.com/mod/entityculling
+- https://www.curseforge.com/minecraft/mc-mods/structure-layout-optimizer (test once nether work starts)
+- lmd (let me despawn) (do i want to allow mobs to pick up items?)
