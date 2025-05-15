@@ -1140,6 +1140,76 @@
             ]
         },
         {
+            "pakku_id": "hv4wfzmpt3ZMbsvB",
+            "pakku_links": [
+                "xG4ClyMFvg7cJOXw"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "create-fabric",
+                "modrinth": "create-fabric"
+            },
+            "name": {
+                "curseforge": "Create Fabric",
+                "modrinth": "Create Fabric"
+            },
+            "id": {
+                "curseforge": "624165",
+                "modrinth": "Xbc0uyRg"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "create-fabric-0.5.1-j-build.1631+mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://edge.forgecdn.net/files/5982/726/create-fabric-0.5.1-j-build.1631+mc1.20.1.jar",
+                    "id": "5982726",
+                    "parent_id": "624165",
+                    "hashes": {
+                        "sha1": "dbf69b9ed007259a38f058e96ee203329a24859c",
+                        "md5": "48de208df4154d2149101d351148569b"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 24841934,
+                    "date_published": "2024-12-11T14:53:22.020Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "create-fabric-0.5.1-j-build.1631+mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/Xbc0uyRg/versions/7Ub71nPb/create-fabric-0.5.1-j-build.1631+mc1.20.1.jar",
+                    "id": "7Ub71nPb",
+                    "parent_id": "Xbc0uyRg",
+                    "hashes": {
+                        "sha512": "73ff936492c857ae411c10cae0194d64a56b98a1a7a9478ca13fe2a6e3ee155e327cf4590a3888aaa671561b4cf74de97f2f44224d7981b03a546e36236c3de2",
+                        "sha1": "dbf69b9ed007259a38f058e96ee203329a24859c"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 24841934,
+                    "date_published": "2024-12-11T14:53:30.744140Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "WCRzvHuq4rFmucG4",
             "pakku_links": [
                 "zY6aIALSjd0RWbYe",
@@ -4177,6 +4247,79 @@
             ]
         },
         {
+            "pakku_id": "3FO0mm8ExPmanugH",
+            "pakku_links": [
+                "xG4ClyMFvg7cJOXw",
+                "LxF5tlcVJIA3VyIe"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "redirected",
+                "modrinth": "redirected"
+            },
+            "name": {
+                "curseforge": "Redirected",
+                "modrinth": "Redirected"
+            },
+            "id": {
+                "curseforge": "1191845",
+                "modrinth": "hhnR8xqU"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "redirected-fabric-1.0.0-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6148/846/redirected-fabric-1.0.0-1.20.1.jar",
+                    "id": "6148846",
+                    "parent_id": "1191845",
+                    "hashes": {
+                        "sha1": "3f7ced13e94394b12cb6d6092aba7cf0d884b748",
+                        "md5": "55020dd2421663b32e4dc63e6ba853f4"
+                    },
+                    "required_dependencies": [
+                        "306612",
+                        "1104882"
+                    ],
+                    "size": 222956,
+                    "date_published": "2025-02-02T07:04:31.323Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "redirected-fabric-1.0.0-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/hhnR8xqU/versions/QkgWbSnA/redirected-fabric-1.0.0-1.20.1.jar",
+                    "id": "QkgWbSnA",
+                    "parent_id": "hhnR8xqU",
+                    "hashes": {
+                        "sha512": "f3822cb6f2337b0d0bdccde74ccc823fc46af09847265ce43e184e7fe89f6176b415d490d25001bd97324500c8baad665cdc8301ebf60a6ba8df640978939de3",
+                        "sha1": "3f7ced13e94394b12cb6d6092aba7cf0d884b748"
+                    },
+                    "required_dependencies": [
+                        "vBbPDuOs",
+                        "P7dR8mSH"
+                    ],
+                    "size": 222956,
+                    "date_published": "2025-02-02T07:04:32.706877Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "1V74aHmO3xa1OQDk",
             "type": "MOD",
             "side": "SERVER",
@@ -4668,6 +4811,76 @@
                     ],
                     "size": 598827,
                     "date_published": "2024-12-08T21:20:03.891403Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "LxF5tlcVJIA3VyIe",
+            "pakku_links": [
+                "xG4ClyMFvg7cJOXw"
+            ],
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "txnilib",
+                "modrinth": "txnilib"
+            },
+            "name": {
+                "curseforge": "TxniLib",
+                "modrinth": "TxniLib"
+            },
+            "id": {
+                "curseforge": "1104882",
+                "modrinth": "vBbPDuOs"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "txnilib-fabric-1.0.23-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6303/218/txnilib-fabric-1.0.23-1.20.1.jar",
+                    "id": "6303218",
+                    "parent_id": "1104882",
+                    "hashes": {
+                        "sha1": "af9277ef15dbc4bb8ca97748a469864209a458a8",
+                        "md5": "396b6864db623fdb92bb0222cff0e95c"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 1054860,
+                    "date_published": "2025-03-14T14:05:20.143Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "txnilib-fabric-1.0.23-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20",
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/vBbPDuOs/versions/tdv2AbVQ/txnilib-fabric-1.0.23-1.20.1.jar",
+                    "id": "tdv2AbVQ",
+                    "parent_id": "vBbPDuOs",
+                    "hashes": {
+                        "sha512": "84e87c59cfaf1cc6687c349a0ac2cab3893c4a0183f01295244a4f0153feecd7c381f7a26f64bb5412f8161376e471aad4f4148d20bcff1d1abb46968e0836da",
+                        "sha1": "af9277ef15dbc4bb8ca97748a469864209a458a8"
+                    },
+                    "required_dependencies": [
+                        "P7dR8mSH"
+                    ],
+                    "size": 1054860,
+                    "date_published": "2025-03-14T14:05:22.321314Z"
                 }
             ]
         },

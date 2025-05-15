@@ -9,6 +9,7 @@ lmd (do i want to allow mobs to pick up items?)
 modernfix
 noisium
 packet-fixer
+redirected
 sodium
 
 
@@ -48,6 +49,7 @@ brb
 bundle-backportish (no cf, mit)
 bundled_ (no cf, but MIT)
 charm-forked
+create
 crunchy-crunchy-advancements (no cf, lgpl)
 easy-anvils
 faewufs-diversity (no cf cc 4)
