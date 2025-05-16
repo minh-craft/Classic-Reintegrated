@@ -5379,6 +5379,31 @@
                     "date_published": "2024-12-11T09:25:24.963Z"
                 }
             ]
+        },
+        {
+            "pakku_id": "1jS5PY8mSLMfKpiv",
+            "type": "MOD",
+            "slug": {
+                "github": "minh-craft/createless_trains"
+            },
+            "name": {
+                "github": "createless_trains"
+            },
+            "id": {
+                "github": "982596088"
+            },
+            "files": [
+                {
+                    "type": "github",
+                    "file_name": "createless_trains-0.2.0+1.20.1.jar",
+                    "release_type": "release",
+                    "url": "https://github.com/minh-craft/createless_trains/releases/download/v0.2.0/createless_trains-0.2.0+1.20.1.jar",
+                    "id": "254989850",
+                    "parent_id": "982596088",
+                    "size": 111672,
+                    "date_published": "2025-05-15T17:42:40Z"
+                }
+            ]
         }
     ],
     "lockfile_version": 1
