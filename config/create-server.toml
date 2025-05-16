@@ -21,45 +21,45 @@
 	bulkCutting = false
 	#.
 	#Allow any stonecutting recipes to be processed by a Mechanical Saw.
-	allowStonecuttingOnSaw = true
+	allowStonecuttingOnSaw = false
 	#.
 	#The Maximum amount of ingredients that can be used to craft Firework Rockets using Mechanical Crafters.
 	#Range: > 1
 	maxFireworkIngredientsInCrafter = 9
 	#.
 	#Allow Spouts to fill the Petal Apothecary from Botania.
-	allowFillingBySpout = true
+	allowFillingBySpout = false
 	#.
 	#Allow any shapeless crafting recipes to be processed by a Mechanical Mixer + Basin.
-	allowShapelessInMixer = true
+	allowShapelessInMixer = false
 	#.
 	#Allow any standard crafting recipes to be processed by Mechanical Crafters.
-	allowRegularCraftingInCrafter = true
+	allowRegularCraftingInCrafter = false
 	#.
 	#Allow any Druidcraft woodcutter recipes to be processed by a Mechanical Saw.
-	allowWoodcuttingOnSaw = true
+	allowWoodcuttingOnSaw = false
 	#.
 	#Allow the standard in-world Refined Radiance recipes.
-	enableRefinedRadianceRecipe = true
+	enableRefinedRadianceRecipe = false
 	#.
 	#Allow any single-ingredient 2x2 or 3x3 crafting recipes to be processed by a Mechanical Press + Basin.
-	allowShapedSquareInPress = true
+	allowShapedSquareInPress = false
 	#.
 	#.
 	#Allow the Mechanical Press to process entire stacks at a time.
 	bulkPressing = false
 	#.
 	#Allow supported potions to be brewed by a Mechanical Mixer + Basin.
-	allowBrewingInMixer = true
+	allowBrewingInMixer = false
 	#.
 	#Allow the standard in-world Shadow Steel recipe.
-	enableShadowSteelRecipe = true
+	enableShadowSteelRecipe = false
 	#.
 	#Allow Spouts to interact with Casting Tables and Basins from Tinkers' Construct.
-	allowCastingBySpout = true
+	allowCastingBySpout = false
 	#.
 	#Display vanilla Log-stripping interactions in JEI.
-	displayLogStrippingRecipes = true
+	displayLogStrippingRecipes = false
 
 #.
 #Parameters and abilities of Create's kinetic mechanisms
@@ -516,15 +516,15 @@
 		#[in Blocks/Second]
 		#The top speed of Trains during a turn.
 		#Range: 0.0 ~ 3.4028234663852886E38
-		trainTurningTopSpeed = 14.0
+		trainTurningTopSpeed = 6.0
 		#.
 		#[in Blocks/Second²]
 		#The acceleration of any assembled Train.
 		#Range: 0.0 ~ 3.4028234663852886E38
-		trainAcceleration = 3.0
+		trainAcceleration = 2.0
 		#.
 		#[in Blocks/Second]
 		#The top speed of any assembled Train.
 		#Range: 0.0 ~ 3.4028234663852886E38
-		trainTopSpeed = 28.0
+		trainTopSpeed = 12.0
 
