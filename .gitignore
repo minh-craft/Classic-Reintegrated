@@ -45,4 +45,5 @@ rhino.local.properties
 !/resourcepacks/classic edition - select/
 !/resourcepacks/custom fog definitions/
 !/resourcepacks/old-water-adjusted/
+!/resourcepacks/custom create resources/
 config/packetfixer.properties
