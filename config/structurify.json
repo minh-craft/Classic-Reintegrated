@@ -322,6 +322,12 @@
       "override_global_spacing_and_separation_modifier": false,
       "spacing": 2,
       "separation": 0
+    },
+    {
+      "name": "minecraft:ruined_portals",
+      "override_global_spacing_and_separation_modifier": false,
+      "spacing": 16,
+      "separation": 4
     }
   ]
 }
