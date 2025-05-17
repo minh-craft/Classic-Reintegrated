@@ -1,61 +1,107 @@
-modmenu (instead of catalogue)
-sodium
-fast-async-world-save-forge-fabric
-fastload (removed)
-ferrite-core
 c2me-fabric
-connectivity
+cubes-without-borders
+dynamic-fps
+ferrite-core
 immediatelyfast
-krypton (reforged)
-despawn-tweaks
+krypton
+lithium
+lmd (do i want to allow mobs to pick up items?)
 modernfix
 noisium
-lithium (radium)
-recipe-essentials-forge-fabric
-starlight
-fix-gpu-memory-leak
+packet-fixer
+redirected
+sodium
+
 
 biome-replacer
-block-swap
-default-options
-item-obliterator
+default-options (no cf)
+debugify
 kubejs
+- lootjs
+- probejs
+modmenu
+mobfilter
+preferred-gamerules (no cf, mit)
 patched
 paxi
+spawn-balance-utility (no mr, mit)
 structurify
-world-preview
-xaeros-world-map
-mobfilter
 
 
 bbrb
-brb
-borderless-mining
-hybrid-beta
-creative-fly
-fog
-lessglintythings
-moderner-beta
-no-mining-cooldown
-nostalgic-tweaks
-snow-under-trees-remastered
-lambdynamiclights
-yeetus-experimentus
+bridging-mod
+client-tweaks
+cycle-paintings
 entity-model-features
 entitytexturefeatures
+hide-experimental-warning
+lambdynamiclights
+lessglintythings (no cf, mit)
+mouse-tweaks
+no-mining-cooldown (no cf, gpl)
+spyglass-improvements
 
-preferred-gamerules (migrate from global gamerules)
 
-gerudoku-faithful
+amendments
+- lanterns-bow
+backport-paintings-1.21 (no cf, arr, permission granted for modpacks)
+brb
+bundle-backportish (no cf, mit)
+bundled_ (no cf, but MIT)
+charm-forked
+create
+crunchy-crunchy-advancements (no cf, lgpl)
+easy-anvils
+faewufs-diversity (no cf cc 4)
+fog (arr, can i include in modpack? ask for permission)
+hybrid-beta (no cf, mit, but no redistribute)
+item-obliterator
+nostalgic-tweaks
+moderner-beta (no cf, mit)
+remove-endermites (no cf, cc) 
+snow-under-trees
+wood_cutter (no cf, gpl3)
+
+===== DEV ONLY ==============
+creative-fly
+world-preview
+xaeros-world-map
+
+
 golden-days
-golden-days-music
 minecraft-classic-edition
-pacp
-programmer-art-ultimate
+vanilla-rabbits-plus (no cf, mit)
+alphaish
 
 
+- temporary removal
+  - better-laddering
+  - gerudoku-faithful (need to ask for permissions)
 
 
+- removed someaddon mods
+  - recipe-essentials-forge-fabric (broken)
+  - fix-gpu-memory-leak (no modrinth, arr)
+  - fast-async-world-save-forge-fabric (no modrinth, arr)
+  - connectivity (no modrinth, arr)
+
+- remove unnecessary or found replacement
+  - borderless-mining
+  - block-swap (shouldn't be using this anyways)
+  - despawn-tweaks
+  - yeetus-experimentus (arr)
+
+- add
+  - cubes-without-borders
+  - dynamic-fps
+  - lmd
+  - packet-fixer
+  - hide-experimental-warning
 
 
-
+maybe
+- more culling? (turn off leaves)
+- https://modrinth.com/mod/redirected
+- https://modrinth.com/mod/entityculling
+- https://www.curseforge.com/minecraft/mc-mods/structure-layout-optimizer (test once nether work starts)
+- gpu/videotape?

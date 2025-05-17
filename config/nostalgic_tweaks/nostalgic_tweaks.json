@@ -359,7 +359,7 @@
     "disableLavaDripParticles": false,
     "disableWaterDripParticles": false,
     "disableLeverParticles": true,
-    "disableModelDestructionParticles": true,
+    "disableModelDestructionParticles": false,
     "disableEnderChestParticles": false,
     "disableGrowthParticles": true,
     "disableFallingParticles": false,
