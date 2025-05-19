@@ -11,6 +11,7 @@
     "###"
   ],
   "result": {
+    "count": 2,
     "item": "create:copycat_step"
   },
   "show_notification": true
