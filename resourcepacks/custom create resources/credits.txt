@@ -1,0 +1,2 @@
+- 2d wrench is from "Created & Updated v0.3" https://www.curseforge.com/minecraft/texture-packs/create-touch-ups by Spydnel
+- seat textures and framed glass door and trapdoor textures from https://modrinth.com/resourcepack/create-world-of-color by spGrace
