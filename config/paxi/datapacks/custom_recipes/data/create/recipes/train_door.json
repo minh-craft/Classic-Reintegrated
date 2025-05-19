@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "wooden_door",
+  "key": {
+    "#": {
+      "item": "minecraft:iron_nugget"
+    },
+    "D": {
+      "tag": "minecraft:wooden_doors"
+    }
+  },
+  "pattern": [
+    " # ",
+    "#D#",
+    " # "
+  ],
+  "result": {
+    "item": "create:train_door"
+  },
+  "show_notification": true
+}

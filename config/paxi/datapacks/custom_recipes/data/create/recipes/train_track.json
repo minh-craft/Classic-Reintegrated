@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "#": {
+      "item": "minecraft:rail"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "pattern": [
+    "###",
+    "###",
+    " R "
+  ],
+  "result": {
+    "count": 4,
+    "item": "create:track"
+  },
+  "show_notification": true
+}

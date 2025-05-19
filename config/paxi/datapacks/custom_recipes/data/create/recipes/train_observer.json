@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "T": {
+      "item": "create:railway_casing"
+    },
+    "O": {
+      "item": "minecraft:observer"
+    }
+  },
+  "pattern": [
+    "TTT",
+    "TOT",
+    "TTT"
+  ],
+  "result": {
+    "count": 2,
+    "item": "create:track_observer"
+  },
+  "show_notification": true
+}

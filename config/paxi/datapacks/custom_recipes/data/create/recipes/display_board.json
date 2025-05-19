@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    },
+    "Q": {
+      "item": "minecraft:quartz"
+    }
+  },
+  "pattern": [
+    "IQI",
+    "IRI",
+    "IQI"
+  ],
+  "result": {
+    "count": 6,
+    "item": "create:display_board"
+  },
+  "show_notification": true
+}

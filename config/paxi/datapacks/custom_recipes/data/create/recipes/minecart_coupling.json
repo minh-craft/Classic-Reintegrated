@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": {
+      "item": "minecraft:iron_ingot"
+    },
+    "B": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "pattern": [
+    "  A",
+    " B ",
+    "A  "
+  ],
+  "result": {
+    "item": "create:minecart_coupling"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "copycat",
+  "key": {
+    "#": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "pattern": [
+    "###"
+  ],
+  "result": {
+    "item": "create:copycat_step"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "N": {
+      "item": "minecraft:iron_nugget"
+    },
+    "P": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "pattern": [
+    " N ",
+    "NPN",
+    " N "
+  ],
+  "result": {
+    "item": "create:railway_casing"
+  },
+  "show_notification": true
+}

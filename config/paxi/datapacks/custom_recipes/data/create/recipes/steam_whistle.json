@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "P": {
+      "item": "minecraft:light_weighted_pressure_plate"
+    },
+    "I": {
+      "item": "minecraft:gold_ingot"
+    }
+  },
+  "pattern": [
+    "I",
+    "I",
+    "P"
+  ],
+  "result": {
+    "item": "create:steam_whistle"
+  },
+  "show_notification": true
+}

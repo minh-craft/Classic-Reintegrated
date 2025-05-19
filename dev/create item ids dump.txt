@@ -11,7 +11,6 @@
 "create:andesite_encased_large_cogwheel",
 "create:andesite_encased_shaft",
 "create:andesite_funnel",
-"create:andesite_ladder",
 "create:andesite_pillar",
 "create:andesite_scaffolding",
 "create:andesite_tunnel",
@@ -59,14 +58,13 @@
 "create:chromatic_compound",
 "create:chute",
 "create:cinder_flour",
-"create:clipboard",
+
 "create:clockwork_bearing",
 "create:clutch",
 "create:cogwheel",
 "create:content_observer",
 "create:contraption_controls",
 
-"create:controls",
 "create:copper_backtank",
 "create:copper_backtank_placeable",
 "create:copper_bars",
@@ -85,8 +83,6 @@
 "create:copper_tile_stairs",
 "create:copper_tiles",
 "create:copper_valve_handle",
-"create:copycat_panel",
-"create:copycat_step",
 "create:crafter_slot_cover",
 "create:crafting_blueprint",
 "create:creative_blaze_cake",
@@ -338,7 +334,7 @@
 "create:metal_girder",
 "create:millstone",
 "create:minecart_contraption",
-"create:minecart_coupling",
+
 "create:mysterious_cuckoo_clock",
 "create:netherite_backtank",
 "create:netherite_backtank_placeable",
@@ -456,7 +452,6 @@
 "create:rotation_speed_controller",
 "create:sail_frame",
 "create:sand_paper",
-"create:schedule",
 "create:schematic",
 "create:schematic_and_quill",
 "create:schematic_table",
@@ -605,34 +600,43 @@
 "create:framed_glass",
 "create:framed_glass_pane",
 
-
-
-
+"create:fluid_tank",
 "create:wheat_flour",
+"create:train_trapdoor",
+"create:clipboard",
+"create:controller_rail",
+"create:andesite_ladder",
+
 
 "create:framed_glass_door",
+"create:minecart_coupling",
+
+
+"create:copycat_panel",
+"create:copycat_step",
+
 "create:display_board",
 "create:display_link",
 
 "create:framed_glass_trapdoor",
 
-"create:fluid_tank",
 "create:steam_whistle",
 "create:nixie_tube",
 
-"create:controller_rail",
 "create:incomplete_track",
 "create:track",
 "create:track_observer",
 "create:track_signal",
 "create:track_station",
+"create:controls",
 "create:super_glue",
 "create:railway_casing",
+"create:schedule",
 "create:wrench",
 
 
 "create:train_door",
-"create:train_trapdoor",
+
 "create:black_seat",
 "create:blue_seat",
 "create:brown_seat",

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "T": {
+      "item": "create:railway_casing"
+    },
+    "C": {
+      "item": "minecraft:compass"
+    },
+    "P": {
+      "item": "create:precision_mechanism"
+    }
+  },
+  "pattern": [
+    "TTT",
+    "TCT",
+    "TPT"
+  ],
+  "result": {
+    "count": 2,
+    "item": "create:track_station"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "T": {
+      "item": "create:railway_casing"
+    },
+    "Q": {
+      "item": "minecraft:quartz"
+    },
+    "R": {
+      "item": "minecraft:comparator"
+    }
+  },
+  "pattern": [
+    "TTT",
+    "TQT",
+    "TRT"
+  ],
+  "result": {
+    "count": 4,
+    "item": "create:track_signal"
+  },
+  "show_notification": true
+}
