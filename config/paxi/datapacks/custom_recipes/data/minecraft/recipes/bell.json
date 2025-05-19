@@ -1,21 +1,21 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "misc",
+  "category": "redstone",
   "key": {
     "#": {
       "item": "minecraft:stone"
     },
     "I": {
-      "item": "minecraft:stick"
+      "item": "minecraft:gold_ingot"
     },
-    "X": {
-      "item": "minecraft:gold_block"
+    "P": {
+      "item": "minecraft:light_weighted_pressure_plate"
     }
   },
   "pattern": [
     "#I#",
-    "#X#",
-    "# #"
+    "#I#",
+    "#P#"
   ],
   "result": {
     "item": "minecraft:bell"
