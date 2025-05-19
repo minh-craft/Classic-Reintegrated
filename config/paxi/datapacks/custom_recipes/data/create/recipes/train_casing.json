@@ -6,15 +6,16 @@
       "item": "minecraft:iron_nugget"
     },
     "P": {
-      "tag": "minecraft:planks"
+      "tag": "minecraft:logs"
     }
   },
   "pattern": [
-    " N ",
+    "NNN",
     "NPN",
-    " N "
+    "NNN"
   ],
   "result": {
+    "count": 4,
     "item": "create:railway_casing"
   },
   "show_notification": true

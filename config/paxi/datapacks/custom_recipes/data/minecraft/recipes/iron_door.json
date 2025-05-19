@@ -1,10 +1,9 @@
 {
   "type": "minecraft:crafting_shaped",
-  "category": "building",
-  "group": "wooden_door",
+  "category": "redstone",
   "key": {
     "#": {
-      "item": "create:railway_casing"
+      "item": "minecraft:iron_nugget"
     }
   },
   "pattern": [
@@ -13,7 +12,7 @@
     "##"
   ],
   "result": {
-    "item": "create:train_door"
+    "item": "minecraft:iron_door"
   },
   "show_notification": true
 }
