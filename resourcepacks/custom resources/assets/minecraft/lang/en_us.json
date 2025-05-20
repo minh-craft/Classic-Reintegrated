@@ -3,6 +3,7 @@
   "item.charm.atlas": "Map Atlas",
   "item.minecraft.oak_boat": "Boat",
   "item.minecraft.oak_chest_boat": "Boat with Chest",
+  "block.minecraft.bed.no_sleep": "You can sleep only after midnight",
   "block.create.framed_glass_door": "Glass Door",
   "block.create.framed_glass_trapdoor": "Glass Trapdoor",
   "block.minecraft.stonecutter": "Blockcutter",
