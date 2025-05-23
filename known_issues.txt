@@ -1,0 +1,2 @@
+- create
+  - invisibility bug with copycat blocks that are directly in line with each other
