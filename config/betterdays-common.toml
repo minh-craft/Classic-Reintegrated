@@ -79,7 +79,7 @@
 	#The earliest time players are allowed to sleep.
 	#Default: 12540
 	#Range: 12000.0 ~ 22000.0
-	sleepEarliestAllowedTime = 17000.0
+	sleepEarliestAllowedTime = 17500.0
 	#The speed at which time passes when all players are sleeping.
 	#Set to -1 to disable this feature (sleepSpeedMax will be used when all players are sleeping).
 	#Range: -1.0 ~ 24000.0
