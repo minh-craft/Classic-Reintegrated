@@ -4,7 +4,7 @@
     "improved_screen": false
   },
   "hanging_signs": {
-    "items_on_signs": false
+    "items_on_signs": true
   },
   "cauldron": {
     "enhanced_cauldron": false,
