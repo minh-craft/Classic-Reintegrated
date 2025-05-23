@@ -39,4 +39,12 @@ ItemEvents.modification(event => {
   event.modify('minecraft:diamond_sword', item => {
     item.fireResistant = true
   });
+
+  // crossbow and bow have no durability
+  event.modify('minecraft:crossbow', item => {
+    item.maxDamage = 0
+  });
+  event.modify('minecraft:bow', item => {
+    item.maxDamage = 0;
+  });
 })
