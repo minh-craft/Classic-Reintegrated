@@ -26,6 +26,7 @@ rhino.local.properties
 ## config section #############################
 
 /config/fabric/
+/config/jei/
 /config/nostalgic_tweaks/backup/
 /config/world_preview/
 /config/blockswap/known_states/

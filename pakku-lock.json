@@ -45,8 +45,7 @@
                         "sha1": "0f31abe886e9785592f1896c7c1ffe5992e2c6de",
                         "md5": "e886ae479a10d261f2f29233ed0d2f83"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 16082,
                     "date_published": "2024-10-11T18:06:54.363Z"
                 },
@@ -71,8 +70,7 @@
                         "sha512": "4e3d83ac58971e3073fce1ee48094ee4c8c2ef97bf5abf4e3af5f3a25c32190bcefd970e85b360c665f192b563e736e5bcde820787fa7f13088999163a0d083a",
                         "sha1": "0f31abe886e9785592f1896c7c1ffe5992e2c6de"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 16082,
                     "date_published": "2024-10-11T18:13:21.537057Z"
                 }
@@ -105,8 +103,7 @@
                         "sha1": "d8555ef1ad588682f39d74b16f1077855d87ad14",
                         "md5": "832cbd48b3454f4202ac9977e4dabaab"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 7971789,
                     "date_published": "2024-01-09T19:59:52.790Z"
                 }
@@ -287,8 +284,7 @@
                         "sha512": "1576efae5859aa5053e44309b3152675a833d3e2043aa6897125f4f259ed71454e3b650b5973850a2b074787730708acac9ab577a02481794477244ab62826ea",
                         "sha1": "d1efbe70e2f3b78c140c4606da4c9c52b6748b71"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 199549,
                     "date_published": "2024-09-19T12:26:50.396069Z"
                 }
@@ -411,8 +407,7 @@
                         "sha1": "6ecf304eb00af65d622cdbbf7ed374e55e15adc0",
                         "md5": "967a91eb1b1c16a3a001f5ef6a2d9aaa"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 227673,
                     "date_published": "2024-05-13T22:20:31.593Z"
                 },
@@ -586,8 +581,7 @@
                         "sha1": "2b9ccdb2a8720e65d5cd746622a3d0c7db27211e",
                         "md5": "c8ec728e751aa60d9cc0f8e88646e078"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 41069,
                     "date_published": "2025-03-17T23:05:12.043Z"
                 },
@@ -617,8 +611,7 @@
                         "sha512": "7fd5a529952024fe72078f261e8df36f6a92a718ce1ec611657aa22825ee6d2f4b536727f1c4ebba7d37eddeca4f895188259eae5bf1931372a569ebd7fc617b",
                         "sha1": "b10d2eeb4800ef7df09870326a619c7fd1067682"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 41067,
                     "date_published": "2025-03-17T23:13:34.138061Z"
                 }
@@ -773,8 +766,7 @@
                         "sha512": "442512fe245e9c3c06e91cc42b5548a277562369909ba049a4faeed480750aba605c5e1dbaaacb0ecc4e5eb3bf3889b38cd7e363d73e15ab1890b0c9410fdd28",
                         "sha1": "150b20bd204a8b3daf049a46d7edb7ee532c298e"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 21273,
                     "date_published": "2025-02-24T00:20:18.275379Z"
                 }
@@ -820,8 +812,7 @@
                         "sha512": "ac232a393dcfeb01e02e5e91f81daff2a62a4b924f9a4c8c6294c824b9dadb37f8ca3c2866286f18f6e3c7b6dac34927153cc394773c95f95f0c978ef71d0c21",
                         "sha1": "dfe0f43e821de275a487368ffca6475fa48893b8"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 2895733,
                     "date_published": "2024-11-10T22:31:51.076989Z"
                 }
@@ -887,8 +878,7 @@
                         "sha512": "9d1b6a933357e77152e7ab17607e9cd41d3367e6cb5e706add2bec5203e1cf92a1fb8bed13b670e1bb205a53190d79f6aa1097d675b227bdced06a8a6863b2ee",
                         "sha1": "2f56ba07b22a96276526ee1bd535073146f96e4b"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 3703219,
                     "date_published": "2025-05-03T20:33:24.867043Z"
                 }
@@ -1002,8 +992,7 @@
                         "sha1": "d5fe84a0cc9ed5c7290a76ba570e1f8716afecab",
                         "md5": "45d8bada7797af61d1f5543313b1f9f0"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 1172214,
                     "date_published": "2024-09-16T17:13:45.750Z"
                 },
@@ -1025,8 +1014,7 @@
                         "sha512": "2da85c071c854223cc30c8e46794391b77e53f28ecdbbde59dc83b3dbbdfc74be9e68da9ed464e7f98b4361033899ba4f681ebff1f35edc2c60e599a59796f1c",
                         "sha1": "d5fe84a0cc9ed5c7290a76ba570e1f8716afecab"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 1172214,
                     "date_published": "2024-09-16T17:13:47.844274Z"
                 }
@@ -1069,8 +1057,7 @@
                         "sha1": "ec387c40637a330661d9f4c3e59d93efc17046a2",
                         "md5": "5b0b99ac79f68438ee0133ff6dfd53c5"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 657310,
                     "date_published": "2025-04-16T14:08:24.710Z"
                 },
@@ -1094,8 +1081,7 @@
                         "sha512": "11263db68965bd7d727284ecfd84047d0085c647af1aa8903896946515742ae5ced21cf3b46497dcf5e35ff1f0db646dad2bc330b9c3997cf75b304d34e4f745",
                         "sha1": "ec387c40637a330661d9f4c3e59d93efc17046a2"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 657310,
                     "date_published": "2025-04-16T14:09:29.952582Z"
                 }
@@ -1135,8 +1121,7 @@
                         "sha512": "359c715fd6a0464192d36b4d9dbb7927776eaae498f0cab939b49740fc724bda83aaf4f069f395dc5975d1e82762ee3b602111d9375eb27ab6f5360c4b17f2ff",
                         "sha1": "94d96b5fffd9e98bd8448dcdd9e27f60511b1d29"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 1426500,
                     "date_published": "2025-02-11T10:06:32.247808Z"
                 },
@@ -1157,8 +1142,7 @@
                         "sha1": "94d96b5fffd9e98bd8448dcdd9e27f60511b1d29",
                         "md5": "92a6600d0f05c7e70d92d459b3b9eba8"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 1426500,
                     "date_published": "2025-02-11T10:06:33.747Z"
                 }
@@ -1349,8 +1333,7 @@
                         "sha512": "5d6e45d9371145cbdd6a3135d50c02af13c6e81766ca016d346979b3124d7c15fb5d1c14f29ca29b4650c01d9507f8a649e3eddac0c7ac06a7702b8055b04929",
                         "sha1": "74339ad2e554ae9ad8519b0f64911e66a9248eab"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 311029,
                     "date_published": "2024-08-22T05:41:28.564166Z"
                 }
@@ -1395,8 +1378,7 @@
                         "sha1": "e303bca92b0724f69ce3d8cdb500fb4040e7482f",
                         "md5": "839cba082f3a423966694bb50a2d529c"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 79729,
                     "date_published": "2024-10-29T00:00:59.093Z"
                 },
@@ -1422,8 +1404,7 @@
                         "sha512": "cceb1a648c0465db1232a6a65ceefe4d04af54fdc909a40ee86ade2f2c743d5e96c55f73ab83f515dd53fa36095fe893d218ad56c51c53ad517e3b57441a5f2b",
                         "sha1": "e303bca92b0724f69ce3d8cdb500fb4040e7482f"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 79729,
                     "date_published": "2024-10-29T00:01:01.329645Z"
                 }
@@ -1866,8 +1847,7 @@
                         "sha1": "3687efabc473ea26b3bf745e89aaaf413b639eb1",
                         "md5": "9d6b286586e9d6b40ee161dee1dd271f"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 2107841,
                     "date_published": "2025-03-19T09:56:33.063Z"
                 },
@@ -1888,8 +1868,7 @@
                         "sha512": "e42bf30f4c60d7e3b07579b3ecc1aed345dc76dd72633514c9df6e801e9753a582abe7d722797a0045d46ea860029bf138a301ec30397eb151a0611cea1069e7",
                         "sha1": "3687efabc473ea26b3bf745e89aaaf413b639eb1"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 2107841,
                     "date_published": "2025-03-19T09:56:38.606159Z"
                 }
@@ -1975,8 +1954,7 @@
                         "sha512": "9b7dc686bfa7937815d88c7bbc6908857cd6646b05e7a96ddbdcada328a385bd4ba056532cd1d7df9d2d7f4265fd48bd49ff683f217f6d4e817177b87f6bc457",
                         "sha1": "8fa3b84fc5860dbc30fdf8cced02af68dffcf3fa"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 125197,
                     "date_published": "2023-10-22T13:39:15.937801Z"
                 }
@@ -2173,8 +2151,7 @@
                         "sha512": "d5a73441feab3ff6802b9b31b02ba63f799b85826c1a45c24c1138307eaf3f055e0290707c74b9e203d0fdd550397b1a4c0b64d579cd38ca8e9d0fb4bf645880",
                         "sha1": "192b098b6c6609b56c801625a1fb9c5ba84d4eba"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 8516735,
                     "date_published": "2024-07-27T05:34:03.125553Z"
                 },
@@ -2198,8 +2175,7 @@
                         "sha1": "192b098b6c6609b56c801625a1fb9c5ba84d4eba",
                         "md5": "11b76c36d0eba8c0373367225551b703"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 8516735,
                     "date_published": "2024-07-27T05:40:04.830Z"
                 }
@@ -2318,8 +2294,7 @@
                         "sha1": "e8e32e75043757d59086259594c302693bf83cfb",
                         "md5": "f2a87b95d8389a167df1a8dfe39d0a1e"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 246066,
                     "date_published": "2025-03-16T17:12:38.013Z"
                 },
@@ -2345,8 +2320,7 @@
                         "sha512": "39984da8bd7daf0d71ddfb74b1a0ea6f60e8a332705b2d2342d1d0c4f8029f384bca43df7a3d6a6f999b2ac32e9d98f70b4907ce29cfcf02a00a3ece5a7538b9",
                         "sha1": "e8e32e75043757d59086259594c302693bf83cfb"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 246066,
                     "date_published": "2025-03-16T17:12:38.193182Z"
                 }
@@ -2492,10 +2466,70 @@
                         "sha512": "5a10a7644dbcc622720c7273473b7b51c31658b89d8850eed8225849f140b20981e3ecd456837e7c0fe41559b4e23e5440eb3f0a9bcc0a0c6e5b3481e71918f6",
                         "sha1": "f03f73b69303aaf4306b6b35be223d780fc15f8d"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 28620,
                     "date_published": "2024-06-13T17:55:18.856871Z"
+                }
+            ]
+        },
+        {
+            "pakku_id": "PeG7ZBQcOzAxbH3w",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "jei",
+                "modrinth": "jei"
+            },
+            "name": {
+                "curseforge": "Just Enough Items (JEI)",
+                "modrinth": "Just Enough Items"
+            },
+            "id": {
+                "curseforge": "238222",
+                "modrinth": "u6dRKJwZ"
+            },
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "jei-1.20.1-fabric-15.20.0.106.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6075/246/jei-1.20.1-fabric-15.20.0.106.jar",
+                    "id": "6075246",
+                    "parent_id": "238222",
+                    "hashes": {
+                        "sha1": "dc779e3f78374c56cfba4a7e0ad2d480d08cc20a",
+                        "md5": "f2536f0f14f67847634ae70d3ca79348"
+                    },
+                    "required_dependencies": [],
+                    "size": 1392720,
+                    "date_published": "2025-01-11T01:35:46.457Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "jei-1.20.1-fabric-15.20.0.106.jar",
+                    "mc_versions": [
+                        "1.20.1"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "beta",
+                    "url": "https://cdn.modrinth.com/data/u6dRKJwZ/versions/KcsHvRrB/jei-1.20.1-fabric-15.20.0.106.jar",
+                    "id": "KcsHvRrB",
+                    "parent_id": "u6dRKJwZ",
+                    "hashes": {
+                        "sha512": "c84f58f186c16c47799b46a603b30b352b4cf45b210de59c347c6c974f2886de04593a77c08794b52c409d279b42d6d0e0667e88eeb97550f3963f64dfc2abf7",
+                        "sha1": "dc779e3f78374c56cfba4a7e0ad2d480d08cc20a"
+                    },
+                    "required_dependencies": [],
+                    "size": 1392720,
+                    "date_published": "2025-01-11T01:35:59.465707Z"
                 }
             ]
         },
@@ -2534,8 +2568,7 @@
                         "sha1": "4d499819effd8afe811e5d93952fcc46765a00df",
                         "md5": "3bf353c1ab576b57c003109c079e2ec8"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 185895,
                     "date_published": "2023-06-10T03:24:16.597Z"
                 },
@@ -2557,8 +2590,7 @@
                         "sha512": "92b73a70737cfc1daebca211bd1525de7684b554be392714ee29cbd558f2a27a8bdda22accbe9176d6e531d74f9bf77798c28c3e8559c970f607422b6038bc9e",
                         "sha1": "4d499819effd8afe811e5d93952fcc46765a00df"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 185895,
                     "date_published": "2023-06-10T03:25:18.657621Z"
                 }
@@ -2939,8 +2971,7 @@
                         "sha1": "7dc706d892b4c7cff0f7648e6b6256a64c3abec2",
                         "md5": "de6d394cedf7e33bfd4b03209156211a"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 706600,
                     "date_published": "2025-01-17T19:57:57.013Z"
                 },
@@ -2962,8 +2993,7 @@
                         "sha512": "dc9bc65146f41cf99c46b46216dd3645be7c45cfeb2bc7cdceaa11bcd57771cdf2c30e84ce057f12b8dbf0d54fb808143cf46d92626370011ba5112bec18e720",
                         "sha1": "7dc706d892b4c7cff0f7648e6b6256a64c3abec2"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 706600,
                     "date_published": "2025-01-17T19:58:48.440943Z"
                 }
@@ -3003,8 +3033,7 @@
                         "sha1": "08d6753c41afbeadb44c3c1d35b78a6248c8cc74",
                         "md5": "6e8173292c5ce5e2f39d613c2b2eb346"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 196741,
                     "date_published": "2025-05-08T14:06:38.363Z"
                 },
@@ -3025,8 +3054,7 @@
                         "sha512": "b70d26f1b3bb3f436255f84d5e064c1ed38f7efd4850b91c08e14d08e520ede579e9675902db4112c664fbad9a5e3b6d59bdf0808d63ff30e790e6cc8a951864",
                         "sha1": "08d6753c41afbeadb44c3c1d35b78a6248c8cc74"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 196741,
                     "date_published": "2025-05-08T14:06:39.704661Z"
                 }
@@ -3140,8 +3168,7 @@
                         "sha512": "b504783667df83649d055c0f999e510a46f9e9caa16b67c0883771ca24fbd09125b440c9c8284d404de87768a85c3859279e984421efb5c77e0f419cafea0c41",
                         "sha1": "a11e8ffb6aa9629be1f12c820bc1211b352f5452"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 30825753,
                     "date_published": "2024-07-11T15:27:51.662096Z"
                 }
@@ -3185,8 +3212,7 @@
                         "sha1": "fc0a0ca516eb03781c8799eb2e66e08cc8518191",
                         "md5": "d57f13242c69d3c8c53e06dd139a45e7"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 352669,
                     "date_published": "2025-01-25T21:02:53.150Z"
                 },
@@ -3252,8 +3278,7 @@
                         "sha1": "099c68feeb74887cbbbd8ce9a27c6123804a2c5a",
                         "md5": "2629511a2d3b141d9f2a24dc9685637e"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 721366,
                     "date_published": "2024-03-06T19:14:23.863Z"
                 },
@@ -3275,8 +3300,7 @@
                         "sha512": "9a7837e04bb34376611b207a3b20e5fe1c82a4822b42929d5b410809ec4b88ff3cac8821c4568f880775bafa3c079dfc7800f8471356a4046248b12607e855eb",
                         "sha1": "099c68feeb74887cbbbd8ce9a27c6123804a2c5a"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 721366,
                     "date_published": "2023-09-08T04:44:04.261764Z"
                 }
@@ -3300,30 +3324,8 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "modernfix-fabric-5.21.0+mc1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6392/738/modernfix-fabric-5.21.0+mc1.20.1.jar",
-                    "id": "6392738",
-                    "parent_id": "790626",
-                    "hashes": {
-                        "sha1": "20d3ac96877b52e82dc52e42115a51dc3c2d4192",
-                        "md5": "b37180878dfeb03b4d8762f77cb05317"
-                    },
-                    "required_dependencies": [
-                    ],
-                    "size": 507598,
-                    "date_published": "2025-04-06T19:28:57.440Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "modernfix-fabric-5.21.0+mc1.20.1.jar",
+                    "file_name": "modernfix-fabric-5.23.0+mc1.20.1.jar",
                     "mc_versions": [
                         "1.20.1"
                     ],
@@ -3331,17 +3333,37 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/srmUM7tY/modernfix-fabric-5.21.0+mc1.20.1.jar",
-                    "id": "srmUM7tY",
+                    "url": "https://cdn.modrinth.com/data/nmDcB62a/versions/aFbw9h3x/modernfix-fabric-5.23.0+mc1.20.1.jar",
+                    "id": "aFbw9h3x",
                     "parent_id": "nmDcB62a",
                     "hashes": {
-                        "sha512": "6b9d55e23c801e0a697237906b4a1df70a6d5795b774aa6e0c81cdab9b6d6c677c10ee0df840cdd010867d8128558ae791dc5042256828b9942a85c6baae403f",
-                        "sha1": "20d3ac96877b52e82dc52e42115a51dc3c2d4192"
+                        "sha512": "051a13971dc1bc7534c5090bd48934771ae4229bc1ed1e93c6376156cc848da0d3c94b3c68e09b48e7fd1b19ab6d90d8708a713a739dad2daf3b85c6a9b0da9c",
+                        "sha1": "ee2a9f6ef1c038e6644f46af80f6ac2d6eda114b"
                     },
-                    "required_dependencies": [
+                    "required_dependencies": [],
+                    "size": 530696,
+                    "date_published": "2025-05-19T20:50:21.067068Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "modernfix-fabric-5.22.0+mc1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1"
                     ],
-                    "size": 507598,
-                    "date_published": "2025-04-06T19:29:01.515467Z"
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6534/278/modernfix-fabric-5.22.0+mc1.20.1.jar",
+                    "id": "6534278",
+                    "parent_id": "790626",
+                    "hashes": {
+                        "sha1": "07572d50026bfa96db39e171e0ef03633138a032",
+                        "md5": "2b593297315ad2b526f1c7d65bcfd691"
+                    },
+                    "required_dependencies": [],
+                    "size": 525109,
+                    "date_published": "2025-05-16T01:53:44.710Z"
                 }
             ]
         },
@@ -3575,8 +3597,7 @@
                         "sha1": "86e4ba3727be9ef8816844aa15f45db099ecb858",
                         "md5": "e38a3d26ec2246667afb418630438daa"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 37533,
                     "date_published": "2024-10-01T04:09:49.967Z"
                 },
@@ -3601,8 +3622,7 @@
                         "sha512": "c412d5e028085b6b21c611b3d2c60bbc9f4aae442bb448e80a40a44568d715415d5713f1bdc7e023937e7f7d50e855b47dd31e4fed4cfb856f709c0c0996e782",
                         "sha1": "86e4ba3727be9ef8816844aa15f45db099ecb858"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 37533,
                     "date_published": "2024-10-01T04:12:31.988179Z"
                 }
@@ -3692,8 +3712,7 @@
                         "sha1": "be85535cf1efe82bd8c41bcf851becaad498a598",
                         "md5": "4aa425a04054e2c300a8bb816574653c"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 214902,
                     "date_published": "2024-08-21T17:24:05.210Z"
                 },
@@ -3716,8 +3735,7 @@
                         "sha512": "f0abcdac514bd2b4eb6af3529eeb9980a6fef534d31244879acb291a9943151aeb34f372bf98ae01f6191870bf95e1c0bc36d522433353a1090b96e7ac03c417",
                         "sha1": "be85535cf1efe82bd8c41bcf851becaad498a598"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 214902,
                     "date_published": "2024-08-21T17:24:09.232362Z"
                 }
@@ -3832,8 +3850,7 @@
                         "sha1": "2265238e396d23e457b181f7fa75ad3398f127ce",
                         "md5": "1c961ceb2d26063f6d8cba8d1d106ac6"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 23203,
                     "date_published": "2025-02-15T12:59:28.223Z"
                 },
@@ -3861,8 +3878,7 @@
                         "sha512": "033c4e291789e7f3edf82780f9ec8339d2fa3a6c0bba881c0773400ea485883cfc1b653489197254078404c0743e4a93d6e02d8a6e712b30735fe13c564241e6",
                         "sha1": "2265238e396d23e457b181f7fa75ad3398f127ce"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 23203,
                     "date_published": "2025-02-15T12:55:53.860318Z"
                 }
@@ -4053,8 +4069,7 @@
                         "sha512": "e3fc77d9ca08a7f882ced44fbf54108fe01e5e7c5021a705f018ccee3263ab6e07ce7b17c7ee030f542212127fa08a1f1b888616c9a08f2a2c6894f036ee3411",
                         "sha1": "d739e0355153337f57fa092d7b26af644aa21100"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 25955,
                     "date_published": "2024-10-24T00:29:03.874734Z"
                 }
@@ -4303,8 +4318,7 @@
                         "sha512": "6d52528f4c5dd995a332f542a1dc5c38a7bf6874653e49aab00a064b842ee6b0f1e1fa43d2152fd14d10925845b294c6f5b317e95b137d0d271ca2880f36d83a",
                         "sha1": "f22543361d48eb74d0b2f5c37ce4715ade8e9a08"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 13047,
                     "date_published": "2024-04-28T14:23:24.819035Z"
                 }
@@ -4345,8 +4359,7 @@
                         "sha1": "a1fd74cf31c0bf959803870c1ac3d918ae66fc1e",
                         "md5": "4c971bf6328e5f4ef8cbcd3ecee1c21e"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 1743587,
                     "date_published": "2025-02-12T21:26:38.100Z"
                 },
@@ -4368,8 +4381,7 @@
                         "sha512": "5f43ca1a3d8b1e287fe177a324e8a3768235b1a07c4f0a05a87d3fe2285e0ec9a87a093b714e17a30100fe48f84f4edc32adcaa51d1f9aede1c3d89621a3cb8d",
                         "sha1": "a1fd74cf31c0bf959803870c1ac3d918ae66fc1e"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 1743587,
                     "date_published": "2025-02-12T21:26:40.373178Z"
                 }
@@ -4484,8 +4496,7 @@
                         "sha1": "bcdbf37d9494e405cba210d7a80ed58e756297b5",
                         "md5": "76e0349865f91f315aae087a6e88a84a"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 971552,
                     "date_published": "2025-03-03T17:52:35.583Z"
                 },
@@ -4507,8 +4518,7 @@
                         "sha512": "81c64f9c2d3402dfa43ee54d8f5a054f5243bfb08984e3addcab9fe885073c79c43c1c8c41e8f30b625d26a656f82a8e5f370bbbbf222ff1c08f4b324edb7ea4",
                         "sha1": "bcdbf37d9494e405cba210d7a80ed58e756297b5"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 971552,
                     "date_published": "2025-03-03T17:45:49.132919Z"
                 }
@@ -4547,8 +4557,7 @@
                         "sha1": "a5ac61ffb2cf4240826bedff4dd3f6841d76050f",
                         "md5": "75b5113af30cd427887078fe8ae98196"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 87611,
                     "date_published": "2023-06-07T21:55:09.900Z"
                 }
@@ -4589,8 +4598,7 @@
                         "sha1": "e4716b2b8cbfdbd4af22236d1477e1d548522739",
                         "md5": "9061eca9705530eb1ec748faaebe952b"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 65145,
                     "date_published": "2024-04-27T18:56:27.070Z"
                 },
@@ -4612,8 +4620,7 @@
                         "sha512": "59144eceb6a167819b6a82a45213a8cd3f1462e84cad38832c33f74b4861d1acaa7199f373d33706ff37fa0e568925c19e14126ce81c6ef53e59f648bae4c841",
                         "sha1": "e4716b2b8cbfdbd4af22236d1477e1d548522739"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 65145,
                     "date_published": "2024-04-27T18:56:29.447004Z"
                 }
@@ -4656,8 +4663,7 @@
                         "sha1": "1600cd6caf52f4fc2b1a8a5ae1cb0f69f0f3b7e2",
                         "md5": "7b9656a1632a06d14c264bc1196e43b1"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 186378,
                     "date_published": "2023-12-28T13:17:52.700Z"
                 },
@@ -4688,8 +4694,7 @@
                         "sha512": "2fbed07e5bc03b4dea1f6beae37e9401372e5071fd762ed8b621182cb8fd81e3c367c982c64aeeaf2c7b1d532cd60370e7ad172d1d2c264ed1a7d601bde2d744",
                         "sha1": "1600cd6caf52f4fc2b1a8a5ae1cb0f69f0f3b7e2"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 186378,
                     "date_published": "2023-12-28T13:18:02.256777Z"
                 }
@@ -4788,32 +4793,8 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "txnilib-fabric-1.0.23-1.20.1.jar",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20"
-                    ],
-                    "loaders": [
-                        "fabric"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6303/218/txnilib-fabric-1.0.23-1.20.1.jar",
-                    "id": "6303218",
-                    "parent_id": "1104882",
-                    "hashes": {
-                        "sha1": "af9277ef15dbc4bb8ca97748a469864209a458a8",
-                        "md5": "396b6864db623fdb92bb0222cff0e95c"
-                    },
-                    "required_dependencies": [
-                        "306612"
-                    ],
-                    "size": 1054860,
-                    "date_published": "2025-03-14T14:05:20.143Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "txnilib-fabric-1.0.23-1.20.1.jar",
+                    "file_name": "txnilib-fabric-1.0.24-1.20.1.jar",
                     "mc_versions": [
                         "1.20",
                         "1.20.1"
@@ -4822,18 +4803,42 @@
                         "fabric"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/vBbPDuOs/versions/tdv2AbVQ/txnilib-fabric-1.0.23-1.20.1.jar",
-                    "id": "tdv2AbVQ",
+                    "url": "https://cdn.modrinth.com/data/vBbPDuOs/versions/7toCynAY/txnilib-fabric-1.0.24-1.20.1.jar",
+                    "id": "7toCynAY",
                     "parent_id": "vBbPDuOs",
                     "hashes": {
-                        "sha512": "84e87c59cfaf1cc6687c349a0ac2cab3893c4a0183f01295244a4f0153feecd7c381f7a26f64bb5412f8161376e471aad4f4148d20bcff1d1abb46968e0836da",
-                        "sha1": "af9277ef15dbc4bb8ca97748a469864209a458a8"
+                        "sha512": "361fa6da97aff91e797a2ca50044ba3ce929901aea509bef7f4a14fd36bc7a52a45d07473aa4d3df108866788e257013823393d9df031cdb04cd901e97472873",
+                        "sha1": "ef3d09633f44a6a7ee818c9872cb12472bc420ba"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 1054860,
-                    "date_published": "2025-03-14T14:05:22.321314Z"
+                    "size": 1057614,
+                    "date_published": "2025-05-15T21:54:12.006665Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "txnilib-fabric-1.0.24-1.20.1.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/6533/721/txnilib-fabric-1.0.24-1.20.1.jar",
+                    "id": "6533721",
+                    "parent_id": "1104882",
+                    "hashes": {
+                        "sha1": "ef3d09633f44a6a7ee818c9872cb12472bc420ba",
+                        "md5": "cec86b526743f7b542a0bc904eb94fbf"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 1057614,
+                    "date_published": "2025-05-15T21:54:09.767Z"
                 }
             ]
         },
@@ -4868,8 +4873,7 @@
                         "sha512": "8c22e2851f3a792880f81da8d88106bc17c524c63d6706508bb1558a77df6bb8c4f8414d3cee82fba20d46589d66c6c685350f995275bf9e5dcfe77a782bac62",
                         "sha1": "7c10d29d4f04bd8dfdee1ce39bc0507cb4b48f6c"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 10745,
                     "date_published": "2024-04-02T15:22:20.150823Z"
                 }
@@ -4910,8 +4914,7 @@
                         "sha512": "c72bddd20b21dadd7d7396c079d658fe52f3671fd343b4fabd416d65c9174b93fc386ead52b50797b2724198dcf9d83031f5ded123f48e39005a7b7adf0c0d20",
                         "sha1": "525f2d8d51f063d00c195cbe89e94756153b3208"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 241898,
                     "date_published": "2025-01-03T02:21:46.602305Z"
                 }
@@ -4954,8 +4957,7 @@
                         "sha1": "1822951d8694f69b9b722165955549995c00df09",
                         "md5": "893031cf147900f26994afc06050304b"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 374837,
                     "date_published": "2024-09-02T15:34:34.130Z"
                 },
@@ -5005,33 +5007,8 @@
             },
             "files": [
                 {
-                    "type": "curseforge",
-                    "file_name": "XaerosWorldMap_1.39.4_Fabric_1.20.jar",
-                    "mc_versions": [
-                        "1.20.1",
-                        "1.20"
-                    ],
-                    "loaders": [
-                        "fabric",
-                        "quilt"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://edge.forgecdn.net/files/6212/637/XaerosWorldMap_1.39.4_Fabric_1.20.jar",
-                    "id": "6212637",
-                    "parent_id": "317780",
-                    "hashes": {
-                        "sha1": "b66c5cdf86d9cd2159d0aa753c2b92535073ba6f",
-                        "md5": "6f85dec84a60c5909f1ce7337768fef3"
-                    },
-                    "required_dependencies": [
-                        "306612"
-                    ],
-                    "size": 951657,
-                    "date_published": "2025-02-20T09:17:49.753Z"
-                },
-                {
                     "type": "modrinth",
-                    "file_name": "XaerosWorldMap_1.39.4_Fabric_1.20.jar",
+                    "file_name": "XaerosWorldMap_1.39.9_Fabric_1.20.jar",
                     "mc_versions": [
                         "1.20",
                         "1.20.1"
@@ -5041,18 +5018,43 @@
                         "quilt"
                     ],
                     "release_type": "release",
-                    "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/Fwao7ZwU/XaerosWorldMap_1.39.4_Fabric_1.20.jar",
-                    "id": "Fwao7ZwU",
+                    "url": "https://cdn.modrinth.com/data/NcUtCpym/versions/fQpXYWtL/XaerosWorldMap_1.39.9_Fabric_1.20.jar",
+                    "id": "fQpXYWtL",
                     "parent_id": "NcUtCpym",
                     "hashes": {
-                        "sha512": "42193dd06a379386c2ba06967eef2098dd3283331130907c906bd0bfcb8ffe6de20fc2b8b7ed3dad8a9e1b7f3fb10281b8b88fecb3086197b28a1134189a277e",
-                        "sha1": "b66c5cdf86d9cd2159d0aa753c2b92535073ba6f"
+                        "sha512": "d10acb6ba4fa104372ad98baff2734bd98622ab3396a751a77c204efd349b73bf4044af4c65a62e92cbe14ee073d5424e1985776e4310968037e84543e336705",
+                        "sha1": "39ba6e99464fee43623ef0358c9cf36b4db4c370"
                     },
                     "required_dependencies": [
                         "P7dR8mSH"
                     ],
-                    "size": 951657,
-                    "date_published": "2025-02-20T09:44:57.347958Z"
+                    "size": 967170,
+                    "date_published": "2025-05-17T08:37:45.095060Z"
+                },
+                {
+                    "type": "curseforge",
+                    "file_name": "XaerosWorldMap_1.39.9_Fabric_1.20.jar",
+                    "mc_versions": [
+                        "1.20.1",
+                        "1.20"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "alpha",
+                    "url": "https://edge.forgecdn.net/files/6538/339/XaerosWorldMap_1.39.9_Fabric_1.20.jar",
+                    "id": "6538339",
+                    "parent_id": "317780",
+                    "hashes": {
+                        "sha1": "39ba6e99464fee43623ef0358c9cf36b4db4c370",
+                        "md5": "50a42d27151d9f16d69a10fd329cf568"
+                    },
+                    "required_dependencies": [
+                        "306612"
+                    ],
+                    "size": 967170,
+                    "date_published": "2025-05-17T08:21:21.623Z"
                 }
             ]
         },
@@ -5302,8 +5304,7 @@
                         "sha512": "56d65ccc56ee45e6a5aeb330bad0e59ddbec47fb3468dad1e42db8952ab70f2fd2eeda1046ff4394ac89e35941261623ee71a7a0e580fffa4f86971f615bbfa8",
                         "sha1": "9b58aefda15d675d7b7da57f743ec34f7521d23a"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 652400,
                     "date_published": "2024-12-11T09:25:28.200154Z"
                 },
@@ -5326,8 +5327,7 @@
                         "sha1": "9b58aefda15d675d7b7da57f743ec34f7521d23a",
                         "md5": "69e81059aa60c49bc9c97918d4640edd"
                     },
-                    "required_dependencies": [
-                    ],
+                    "required_dependencies": [],
                     "size": 652400,
                     "date_published": "2024-12-11T09:25:24.963Z"
                 }
@@ -5348,13 +5348,13 @@
             "files": [
                 {
                     "type": "github",
-                    "file_name": "createless_trains-0.2.0+1.20.1.jar",
+                    "file_name": "createless_trains-0.4.0+1.20.1.jar",
                     "release_type": "release",
-                    "url": "https://github.com/minh-craft/createless_trains/releases/download/v0.2.0/createless_trains-0.2.0+1.20.1.jar",
-                    "id": "254989850",
+                    "url": "https://github.com/minh-craft/createless_trains/releases/download/v0.4.0/createless_trains-0.4.0+1.20.1.jar",
+                    "id": "256139458",
                     "parent_id": "982596088",
-                    "size": 111672,
-                    "date_published": "2025-05-15T17:42:40Z"
+                    "size": 111386,
+                    "date_published": "2025-05-19T21:02:07Z"
                 }
             ]
         }
