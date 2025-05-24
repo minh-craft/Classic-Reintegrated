@@ -1918,6 +1918,93 @@
             ]
         },
         {
+            "pakku_id": "3mrp2EwWRPFys0B7",
+            "type": "MOD",
+            "side": "BOTH",
+            "slug": {
+                "curseforge": "faster-random",
+                "modrinth": "faster-random"
+            },
+            "name": {
+                "curseforge": "Faster Random",
+                "modrinth": "Faster Random"
+            },
+            "id": {
+                "curseforge": "912121",
+                "modrinth": "RfFxanNh"
+            },
+            "redistributable": false,
+            "files": [
+                {
+                    "type": "curseforge",
+                    "file_name": "fasterrandom-5.1.0.jar",
+                    "mc_versions": [
+                        "1.20.2",
+                        "1.20.5",
+                        "1.20.2-Snapshot",
+                        "1.20.5-Snapshot",
+                        "1.20.3-Snapshot",
+                        "1.20.3",
+                        "1.20.1",
+                        "1.20",
+                        "1.20.6",
+                        "1.20.4",
+                        "1.20-Snapshot"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://edge.forgecdn.net/files/5559/269/fasterrandom-5.1.0.jar",
+                    "id": "5559269",
+                    "parent_id": "912121",
+                    "hashes": {
+                        "sha1": "440720daaf51d5ad88a96ed59e1f59c63fad3f73",
+                        "md5": "1223ed0fa413ed16f7d373e540789d37"
+                    },
+                    "required_dependencies": [],
+                    "size": 20697,
+                    "date_published": "2024-07-23T21:52:25.487Z"
+                },
+                {
+                    "type": "modrinth",
+                    "file_name": "fasterrandom-5.1.0.jar",
+                    "mc_versions": [
+                        "1.19",
+                        "1.19.1",
+                        "1.19.2",
+                        "1.19.3",
+                        "1.19.4",
+                        "1.20",
+                        "1.20.1",
+                        "1.20.2",
+                        "1.20.3",
+                        "1.20.4",
+                        "1.20.5",
+                        "1.20.6",
+                        "1.21",
+                        "1.21.1"
+                    ],
+                    "loaders": [
+                        "fabric",
+                        "quilt"
+                    ],
+                    "release_type": "release",
+                    "url": "https://cdn.modrinth.com/data/RfFxanNh/versions/BbFqiKvi/fasterrandom-5.1.0.jar",
+                    "id": "BbFqiKvi",
+                    "parent_id": "RfFxanNh",
+                    "hashes": {
+                        "sha512": "af2d0825ec4e3521fd82b0a5fd5a3f04daf98e09b138d099407861c03a4e17546900befd791a7abe7cbe109c3045dee0646d02f1703b8e68bc37903d21c20acd",
+                        "sha1": "440720daaf51d5ad88a96ed59e1f59c63fad3f73"
+                    },
+                    "required_dependencies": [],
+                    "size": 20697,
+                    "date_published": "2024-07-23T08:45:45.159601Z"
+                }
+            ]
+        },
+        {
             "pakku_id": "QqqRDP2XlJ2VcfCA",
             "type": "MOD",
             "side": "BOTH",
